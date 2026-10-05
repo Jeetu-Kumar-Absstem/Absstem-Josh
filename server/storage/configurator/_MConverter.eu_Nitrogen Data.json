@@ -1,0 +1,2722 @@
+[
+    {
+        "Purity": "95",
+        "Flow": "14",
+        "AirRequirement": "15",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "21",
+        "AirRequirement": "22",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "28",
+        "AirRequirement": "30",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "39",
+        "AirRequirement": "41",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "59",
+        "AirRequirement": "63",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "79",
+        "AirRequirement": "83",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "93",
+        "AirRequirement": "98",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "101",
+        "AirRequirement": "107",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "124",
+        "AirRequirement": "131",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "142",
+        "AirRequirement": "150",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "157",
+        "AirRequirement": "167",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "176",
+        "AirRequirement": "187",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "197",
+        "AirRequirement": "208",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "216",
+        "AirRequirement": "229",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "250",
+        "AirRequirement": "265",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "282",
+        "AirRequirement": "299",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "295",
+        "AirRequirement": "313",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "349",
+        "AirRequirement": "370",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "394",
+        "AirRequirement": "417",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "433",
+        "AirRequirement": "459",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "510",
+        "AirRequirement": "541",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "535",
+        "AirRequirement": "567",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "627",
+        "AirRequirement": "664",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "712",
+        "AirRequirement": "755",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "787",
+        "AirRequirement": "834",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "905",
+        "AirRequirement": "959",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "1048",
+        "AirRequirement": "1111",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "1181",
+        "AirRequirement": "1251",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "1299",
+        "AirRequirement": "1376",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "1574",
+        "AirRequirement": "1668",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "1868",
+        "AirRequirement": "1979",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "1968",
+        "AirRequirement": "2085",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "2362",
+        "AirRequirement": "2502",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180HF"
+    },
+    {
+        "Purity": "95",
+        "Flow": "2805",
+        "AirRequirement": "2971",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "11",
+        "AirRequirement": "13",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "17",
+        "AirRequirement": "20",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "23",
+        "AirRequirement": "27",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "32",
+        "AirRequirement": "37",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "48",
+        "AirRequirement": "56",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "64",
+        "AirRequirement": "74",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "75",
+        "AirRequirement": "88",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "82",
+        "AirRequirement": "95",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "100",
+        "AirRequirement": "117",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "115",
+        "AirRequirement": "134",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "128",
+        "AirRequirement": "149",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "143",
+        "AirRequirement": "166",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "159",
+        "AirRequirement": "186",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "175",
+        "AirRequirement": "204",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "203",
+        "AirRequirement": "237",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "229",
+        "AirRequirement": "267",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "239",
+        "AirRequirement": "279",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "283",
+        "AirRequirement": "330",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "319",
+        "AirRequirement": "372",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "351",
+        "AirRequirement": "409",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "413",
+        "AirRequirement": "482",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "434",
+        "AirRequirement": "505",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "508",
+        "AirRequirement": "592",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "577",
+        "AirRequirement": "673",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "638",
+        "AirRequirement": "743",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "733",
+        "AirRequirement": "855",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "850",
+        "AirRequirement": "990",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "957",
+        "AirRequirement": "1115",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "1053",
+        "AirRequirement": "1226",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "1276",
+        "AirRequirement": "1487",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "1514",
+        "AirRequirement": "1764",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "1595",
+        "AirRequirement": "1858",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "1914",
+        "AirRequirement": "2230",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180HF"
+    },
+    {
+        "Purity": "97",
+        "Flow": "2273",
+        "AirRequirement": "2648",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "10",
+        "AirRequirement": "12",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "15",
+        "AirRequirement": "19",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "20",
+        "AirRequirement": "25",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "28",
+        "AirRequirement": "34",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "43",
+        "AirRequirement": "52",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "57",
+        "AirRequirement": "69",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "67",
+        "AirRequirement": "82",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "73",
+        "AirRequirement": "89",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "90",
+        "AirRequirement": "109",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "103",
+        "AirRequirement": "125",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "114",
+        "AirRequirement": "139",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "128",
+        "AirRequirement": "155",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "143",
+        "AirRequirement": "174",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "157",
+        "AirRequirement": "191",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "181",
+        "AirRequirement": "221",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "205",
+        "AirRequirement": "249",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "214",
+        "AirRequirement": "260",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "253",
+        "AirRequirement": "308",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "285",
+        "AirRequirement": "347",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "314",
+        "AirRequirement": "382",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "369",
+        "AirRequirement": "450",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "388",
+        "AirRequirement": "472",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "454",
+        "AirRequirement": "553",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "516",
+        "AirRequirement": "628",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "570",
+        "AirRequirement": "694",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "655",
+        "AirRequirement": "798",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "759",
+        "AirRequirement": "925",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "855",
+        "AirRequirement": "1042",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "941",
+        "AirRequirement": "1146",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "1140",
+        "AirRequirement": "1389",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "1353",
+        "AirRequirement": "1648",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "1425",
+        "AirRequirement": "1736",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "1710",
+        "AirRequirement": "2083",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180HF"
+    },
+    {
+        "Purity": "98",
+        "Flow": "2031",
+        "AirRequirement": "2474",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190HF"
+    },
+    {
+        "Purity": "99",
+        "Flow": "8",
+        "AirRequirement": "10",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "12",
+        "AirRequirement": "16",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "16",
+        "AirRequirement": "21",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "23",
+        "AirRequirement": "30",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "35",
+        "AirRequirement": "45",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "46",
+        "AirRequirement": "60",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "54",
+        "AirRequirement": "70",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "59",
+        "AirRequirement": "77",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "73",
+        "AirRequirement": "94",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "83",
+        "AirRequirement": "108",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "92",
+        "AirRequirement": "119",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "103",
+        "AirRequirement": "134",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "115",
+        "AirRequirement": "149",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "127",
+        "AirRequirement": "164",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "147",
+        "AirRequirement": "190",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "166",
+        "AirRequirement": "214",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "173",
+        "AirRequirement": "224",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "205",
+        "AirRequirement": "265",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "231",
+        "AirRequirement": "299",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "254",
+        "AirRequirement": "329",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "299",
+        "AirRequirement": "387",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "314",
+        "AirRequirement": "406",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "367",
+        "AirRequirement": "476",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "418",
+        "AirRequirement": "541",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "461",
+        "AirRequirement": "597",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "531",
+        "AirRequirement": "687",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "615",
+        "AirRequirement": "796",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "692",
+        "AirRequirement": "896",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "761",
+        "AirRequirement": "986",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "923",
+        "AirRequirement": "1195",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "1095",
+        "AirRequirement": "1418",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "1154",
+        "AirRequirement": "1494",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "1384",
+        "AirRequirement": "1792",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180SH"
+    },
+    {
+        "Purity": "99",
+        "Flow": "1644",
+        "AirRequirement": "2129",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "7",
+        "AirRequirement": "10",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "10",
+        "AirRequirement": "15",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "14",
+        "AirRequirement": "21",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "19",
+        "AirRequirement": "29",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "29",
+        "AirRequirement": "43",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "39",
+        "AirRequirement": "58",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "45",
+        "AirRequirement": "68",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "50",
+        "AirRequirement": "74",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "61",
+        "AirRequirement": "91",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "69",
+        "AirRequirement": "104",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "77",
+        "AirRequirement": "116",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "86",
+        "AirRequirement": "130",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "97",
+        "AirRequirement": "145",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "106",
+        "AirRequirement": "159",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "123",
+        "AirRequirement": "184",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "139",
+        "AirRequirement": "208",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "145",
+        "AirRequirement": "217",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "171",
+        "AirRequirement": "257",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "193",
+        "AirRequirement": "290",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "212",
+        "AirRequirement": "319",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "250",
+        "AirRequirement": "376",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "263",
+        "AirRequirement": "394",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "307",
+        "AirRequirement": "461",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "349",
+        "AirRequirement": "524",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "386",
+        "AirRequirement": "579",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "444",
+        "AirRequirement": "666",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "514",
+        "AirRequirement": "772",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "579",
+        "AirRequirement": "869",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "637",
+        "AirRequirement": "956",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "772",
+        "AirRequirement": "1159",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "916",
+        "AirRequirement": "1375",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "965",
+        "AirRequirement": "1448",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "1158",
+        "AirRequirement": "1738",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180SH"
+    },
+    {
+        "Purity": "99.5",
+        "Flow": "1376",
+        "AirRequirement": "2064",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "5",
+        "AirRequirement": "9",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "8",
+        "AirRequirement": "15",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "10",
+        "AirRequirement": "19",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "14",
+        "AirRequirement": "27",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "21",
+        "AirRequirement": "41",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "29",
+        "AirRequirement": "54",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "34",
+        "AirRequirement": "64",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "37",
+        "AirRequirement": "70",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "45",
+        "AirRequirement": "85",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "52",
+        "AirRequirement": "98",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "57",
+        "AirRequirement": "109",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "64",
+        "AirRequirement": "122",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "72",
+        "AirRequirement": "136",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "79",
+        "AirRequirement": "149",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "91",
+        "AirRequirement": "173",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "103",
+        "AirRequirement": "195",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "107",
+        "AirRequirement": "204",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "127",
+        "AirRequirement": "241",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "143",
+        "AirRequirement": "271",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "158",
+        "AirRequirement": "299",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "186",
+        "AirRequirement": "352",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "195",
+        "AirRequirement": "369",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "228",
+        "AirRequirement": "432",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "259",
+        "AirRequirement": "491",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "287",
+        "AirRequirement": "543",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "329",
+        "AirRequirement": "624",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "382",
+        "AirRequirement": "723",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "430",
+        "AirRequirement": "814",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "473",
+        "AirRequirement": "896",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "573",
+        "AirRequirement": "1086",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "680",
+        "AirRequirement": "1288",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "716",
+        "AirRequirement": "1357",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "860",
+        "AirRequirement": "1629",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180SH"
+    },
+    {
+        "Purity": "99.9",
+        "Flow": "1021",
+        "AirRequirement": "1935",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "4",
+        "AirRequirement": "10",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "7",
+        "AirRequirement": "15",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "9",
+        "AirRequirement": "20",
+        "StorageVolume": "500",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "13",
+        "AirRequirement": "28",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "19",
+        "AirRequirement": "43",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "26",
+        "AirRequirement": "57",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "30",
+        "AirRequirement": "67",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "33",
+        "AirRequirement": "73",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "41",
+        "AirRequirement": "89",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "46",
+        "AirRequirement": "102",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "52",
+        "AirRequirement": "114",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "58",
+        "AirRequirement": "127",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "64",
+        "AirRequirement": "142",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "71",
+        "AirRequirement": "156",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "82",
+        "AirRequirement": "181",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "93",
+        "AirRequirement": "204",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "97",
+        "AirRequirement": "213",
+        "StorageVolume": "2500",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "114",
+        "AirRequirement": "253",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "129",
+        "AirRequirement": "285",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "142",
+        "AirRequirement": "313",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "167",
+        "AirRequirement": "369",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "175",
+        "AirRequirement": "387",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "205",
+        "AirRequirement": "453",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "233",
+        "AirRequirement": "515",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "258",
+        "AirRequirement": "569",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "296",
+        "AirRequirement": "654",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "343",
+        "AirRequirement": "758",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "387",
+        "AirRequirement": "854",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "425",
+        "AirRequirement": "939",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "516",
+        "AirRequirement": "1138",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "612",
+        "AirRequirement": "1350",
+        "StorageVolume": "12000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "645",
+        "AirRequirement": "1423",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "774",
+        "AirRequirement": "1707",
+        "StorageVolume": "15000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180SH"
+    },
+    {
+        "Purity": "99.95",
+        "Flow": "919",
+        "AirRequirement": "2028",
+        "StorageVolume": "20000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190SH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "3.0",
+        "AirRequirement": "9.0",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "5.0",
+        "AirRequirement": "14.0",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "7",
+        "AirRequirement": "19.0",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "9",
+        "AirRequirement": "27.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "14",
+        "AirRequirement": "40.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "19",
+        "AirRequirement": "54.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "22",
+        "AirRequirement": "63.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "24",
+        "AirRequirement": "69.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "30",
+        "AirRequirement": "84.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "34",
+        "AirRequirement": "97.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "38",
+        "AirRequirement": "107.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "43",
+        "AirRequirement": "120.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "48",
+        "AirRequirement": "134.0",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "52",
+        "AirRequirement": "148.0",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "60",
+        "AirRequirement": "171.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "68",
+        "AirRequirement": "193.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "71",
+        "AirRequirement": "201.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "84",
+        "AirRequirement": "238.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "95",
+        "AirRequirement": "268.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "105",
+        "AirRequirement": "295.0",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "123",
+        "AirRequirement": "348.0",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "129",
+        "AirRequirement": "365.0",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "151",
+        "AirRequirement": "427.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "172",
+        "AirRequirement": "486.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "190",
+        "AirRequirement": "537.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "218",
+        "AirRequirement": "617.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "253",
+        "AirRequirement": "715.0",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "285",
+        "AirRequirement": "805.0",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "314",
+        "AirRequirement": "886.0",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "380",
+        "AirRequirement": "1073.0",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "451",
+        "AirRequirement": "1274.0",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "475",
+        "AirRequirement": "1342.0",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "570",
+        "AirRequirement": "1610.0",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180UH"
+    },
+    {
+        "Purity": "99.99",
+        "Flow": "677",
+        "AirRequirement": "1913.0",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "3.0",
+        "AirRequirement": "10",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "5.0",
+        "AirRequirement": "16",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "6",
+        "AirRequirement": "22",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "8",
+        "AirRequirement": "30",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "13",
+        "AirRequirement": "45",
+        "StorageVolume": "500",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "17",
+        "AirRequirement": "60",
+        "StorageVolume": "500",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "20",
+        "AirRequirement": "71",
+        "StorageVolume": "500",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "22",
+        "AirRequirement": "77",
+        "StorageVolume": "500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "27",
+        "AirRequirement": "95",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "31",
+        "AirRequirement": "108",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "34",
+        "AirRequirement": "120",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "38",
+        "AirRequirement": "135",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "43",
+        "AirRequirement": "150",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "47",
+        "AirRequirement": "165",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "54",
+        "AirRequirement": "191",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "61",
+        "AirRequirement": "216",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "64",
+        "AirRequirement": "226",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "76",
+        "AirRequirement": "267",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "85",
+        "AirRequirement": "301",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "94",
+        "AirRequirement": "331",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "110",
+        "AirRequirement": "390",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "116",
+        "AirRequirement": "409",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "136",
+        "AirRequirement": "479",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "154",
+        "AirRequirement": "545",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "170",
+        "AirRequirement": "602",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "196",
+        "AirRequirement": "692",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "227",
+        "AirRequirement": "801",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "256",
+        "AirRequirement": "903",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "281",
+        "AirRequirement": "993",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "341",
+        "AirRequirement": "1203",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "404",
+        "AirRequirement": "1428",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "426",
+        "AirRequirement": "1504",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "511",
+        "AirRequirement": "1805",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180UH"
+    },
+    {
+        "Purity": "99.995",
+        "Flow": "607",
+        "AirRequirement": "2144",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "2.0",
+        "AirRequirement": "11.0",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN001UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "3.0",
+        "AirRequirement": "16.0",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN002UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "5.0",
+        "AirRequirement": "22.0",
+        "StorageVolume": "200",
+        "AirVesselVolume": "200",
+        "Model": "nGEN004UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "6",
+        "AirRequirement": "30.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "300",
+        "Model": "nGEN005UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "10",
+        "AirRequirement": "45.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "500",
+        "Model": "nGEN007UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "13",
+        "AirRequirement": "60.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "500",
+        "Model": "nGEN010UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "15",
+        "AirRequirement": "71.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "700",
+        "Model": "nGEN012UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "16",
+        "AirRequirement": "77.0",
+        "StorageVolume": "500",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN013UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "20",
+        "AirRequirement": "95.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN020UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "23",
+        "AirRequirement": "109.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN025UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "26",
+        "AirRequirement": "121.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN030UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "29",
+        "AirRequirement": "135.0",
+        "StorageVolume": "1000",
+        "AirVesselVolume": "1000",
+        "Model": "nGEN040UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "32",
+        "AirRequirement": "151.0",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN050UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "35",
+        "AirRequirement": "166.0",
+        "StorageVolume": "1500",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN055UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "41",
+        "AirRequirement": "192.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "1500",
+        "Model": "nGEN060UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "46",
+        "AirRequirement": "217.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN065UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "48",
+        "AirRequirement": "226.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2000",
+        "Model": "nGEN070UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "57",
+        "AirRequirement": "268.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN080UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "64",
+        "AirRequirement": "302.0",
+        "StorageVolume": "2000",
+        "AirVesselVolume": "2500",
+        "Model": "nGEN085UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "70",
+        "AirRequirement": "332.0",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN090UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "83",
+        "AirRequirement": "391.0",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN096UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "87",
+        "AirRequirement": "410.0",
+        "StorageVolume": "3000",
+        "AirVesselVolume": "3000",
+        "Model": "nGEN099UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "102",
+        "AirRequirement": "480.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN100UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "116",
+        "AirRequirement": "546.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "4000",
+        "Model": "nGEN110UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "128",
+        "AirRequirement": "603.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN115UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "147",
+        "AirRequirement": "694.0",
+        "StorageVolume": "4000",
+        "AirVesselVolume": "5000",
+        "Model": "nGEN120UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "171",
+        "AirRequirement": "804.0",
+        "StorageVolume": "5000",
+        "AirVesselVolume": "6000",
+        "Model": "nGEN130UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "192",
+        "AirRequirement": "905.0",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "7000",
+        "Model": "nGEN135UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "211",
+        "AirRequirement": "996.0",
+        "StorageVolume": "6000",
+        "AirVesselVolume": "8000",
+        "Model": "nGEN140UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "256",
+        "AirRequirement": "1207.0",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "10000",
+        "Model": "nGEN150UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "304",
+        "AirRequirement": "1432.0",
+        "StorageVolume": "8000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN160UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "320",
+        "AirRequirement": "1509.0",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "12000",
+        "Model": "nGEN170UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "385",
+        "AirRequirement": "1810.0",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN180UH"
+    },
+    {
+        "Purity": "99.999",
+        "Flow": "457",
+        "AirRequirement": "2150.0",
+        "StorageVolume": "10000",
+        "AirVesselVolume": "15000",
+        "Model": "nGEN190UH"
+    }
+]

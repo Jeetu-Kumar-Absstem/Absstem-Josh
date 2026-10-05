@@ -1,0 +1,312 @@
+index,so_no,so_date,customer,status,sales_order_id,file_name,download_status,info,url
+1,S26000083,16-Sep-2026,Kohima Surgicals : C12922,Pending For Approval,30857,S26000083__30857.pdf,ok,168103,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30857&CompanyCode=CM1001
+2,S26000081,14-Sep-2026,Waidhan Engineering & Industries Pvt. Ltd. : C11507,Pending For Approval,30853,S26000081__30853.pdf,ok,168491,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30853&CompanyCode=CM1001
+3,S26000082,14-Sep-2026,Lava International Ltd : C12310,Approved,30856,S26000082__30856.pdf,ok,167040,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30856&CompanyCode=CM1001
+4,S26000080,12-Sep-2026,GASCOME ENGINEERING SERVICES : C12033,Approved,30851,S26000080__30851.pdf,ok,170999,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30851&CompanyCode=CM1001
+5,S26000079,09-Sep-2026,"JNJ Electronics Limited, Gurugram : C12908",Approved,30848,S26000079__30848.pdf,ok,251769,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30848&CompanyCode=CM1001
+6,S26000078,08-Sep-2026,Barrio Equipments Pvt Ltd : C12895,Approved,30845,S26000078__30845.pdf,ok,251057,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30845&CompanyCode=CM1001
+7,S26000077,02-Sep-2026,RMJ VERITABLE PRODUCTS PRIVATE LIMITED : C12747,Pending For Approval,30842,S26000077__30842.pdf,ok,168316,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30842&CompanyCode=CM1001
+8,S26000076,02-Sep-2026,Waidhan Engineering & Industries Pvt. Ltd. : C11507,Approved,30841,S26000076__30841.pdf,ok,166549,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30841&CompanyCode=CM1001
+9,S26000075,01-Sep-2026,Standard Radiators Pvt. Ltd. : C12759,Pending For Approval,30840,S26000075__30840.pdf,ok,169037,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30840&CompanyCode=CM1001
+10,S26000073,31-Aug-2026,JNS INSTRUMENTS LIMITED : C12491,Approved,30837,S26000073__30837.pdf,ok,168273,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30837&CompanyCode=CM1001
+11,S26000074,31-Aug-2026,Subros Limited : C12574,Approved,30839,S26000074__30839.pdf,ok,168713,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30839&CompanyCode=CM1001
+12,S26000072,27-Aug-2026,Komter Equipments Pvt Ltd : C12855,Approved,30835,S26000072__30835.pdf,ok,168429,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30835&CompanyCode=CM1001
+13,S26000071,21-Aug-2026,Waidhan Tyre Private Limited : C12561,Pending For Approval,30834,S26000071__30834.pdf,ok,166454,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30834&CompanyCode=CM1001
+14,S26000070,19-Aug-2026,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30825,S26000070__30825.pdf,ok,168197,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30825&CompanyCode=CM1001
+15,S26000067,17-Aug-2026,Subros Limited : C11554,Pending For Approval,30821,S26000067__30821.pdf,ok,170046,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30821&CompanyCode=CM1001
+16,S26000068,17-Aug-2026,"JNJ Electronics Limited, Gurugram : C12908",Pending For Approval,30822,S26000068__30822.pdf,ok,251214,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30822&CompanyCode=CM1001
+17,S26000069,17-Aug-2026,"JNJ Electronics Limited, Gurugram : C12908",Approved,30823,S26000069__30823.pdf,ok,168601,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30823&CompanyCode=CM1001
+18,S26000066,10-Aug-2026,Karamhans Food Pvt Ltd : C11860,Approved,30812,S26000066__30812.pdf,ok,166491,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30812&CompanyCode=CM1001
+19,S26000065,31-Jul-2026,TBJ Impex Pvt.Ltd. : C11732,Approved,30807,S26000065__30807.pdf,ok,250820,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30807&CompanyCode=CM1001
+20,S26000064,29-Jul-2026,Lava International Ltd. : C12227,Approved,30804,S26000064__30804.pdf,ok,251445,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30804&CompanyCode=CM1001
+21,S26000063,28-Jul-2026,MEDHA SERVO DRIVES Pvt Ltd. : C12394,Approved,30803,S26000063__30803.pdf,ok,168754,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30803&CompanyCode=CM1001
+22,S26000062,16-Jul-2026,Subros Limited : C11597,Approved,30792,S26000062__30792.pdf,ok,168343,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30792&CompanyCode=CM1001
+23,S26000061,16-Jul-2026,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30791,S26000061__30791.pdf,ok,166641,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30791&CompanyCode=CM1001
+24,S26000060,10-Jul-2026,JNS INSTRUMENTS LIMITED : C12491,Approved,30787,S26000060__30787.pdf,ok,168948,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30787&CompanyCode=CM1001
+25,S26000059,08-Jul-2026,Dr. Nitin Ranjan : C12847,Approved,30785,S26000059__30785.pdf,ok,171461,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30785&CompanyCode=CM1001
+26,S26000057,07-Jul-2026,Standard Radiators Pvt. Ltd. : C12759,Approved,30783,S26000057__30783.pdf,ok,251771,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30783&CompanyCode=CM1001
+27,S26000056,07-Jul-2026,"Asra Stampings Pvt Ltd., : C12329",Approved,30782,S26000056__30782.pdf,ok,168657,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30782&CompanyCode=CM1001
+28,S26000058,07-Jul-2026,GASCOME ENGINEERING SERVICES : C12033,Pending For Approval,30784,S26000058__30784.pdf,ok,252757,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30784&CompanyCode=CM1001
+29,S26000054,02-Jul-2026,VARUN ENGINEERS : C12092,Approved,30777,S26000054__30777.pdf,ok,113623,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30777&CompanyCode=CM1001
+30,S26000053,02-Jul-2026,Komter Equipments Pvt Ltd : C12857,Approved,30776,S26000053__30776.pdf,ok,168707,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30776&CompanyCode=CM1001
+31,S26000055,02-Jul-2026,Euronics Industries Pvt. Ltd. : C12819,Approved,30781,S26000055__30781.pdf,ok,331646,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30781&CompanyCode=CM1001
+32,S26000052,30-Jun-2026,P P Patel Metal Powders Pvt Ltd : C11938,Approved,30775,S26000052__30775.pdf,ok,168950,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30775&CompanyCode=CM1001
+33,S26000051,26-Jun-2026,Pepsico India Holdings Pvt Ltd : C12575,Approved,30774,S26000051__30774.pdf,ok,168773,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30774&CompanyCode=CM1001
+34,S26000050,26-Jun-2026,Fujiyama Power Systems Pvt Ltd : C12100,Approved,30773,S26000050__30773.pdf,ok,168556,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30773&CompanyCode=CM1001
+35,S26000049,24-Jun-2026,Sanden Vikas India Limited : C11284,Approved,30772,S26000049__30772.pdf,ok,168740,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30772&CompanyCode=CM1001
+36,S26000048,17-Jun-2026,P P PATEL & CO : C11896,Approved,30770,S26000048__30770.pdf,ok,169171,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30770&CompanyCode=CM1001
+37,S26000047,17-Jun-2026,Pepsico India Holdings Pvt Ltd : C12332,Approved,30765,S26000047__30765.pdf,ok,249897,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30765&CompanyCode=CM1001
+38,S26000046,08-Jun-2026,Subros Limited : C12574,Approved,30764,S26000046__30764.pdf,ok,169010,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30764&CompanyCode=CM1001
+39,S26000044,02-Jun-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30759,S26000044__30759.pdf,ok,39149,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30759&CompanyCode=CM1001
+40,S26000045,02-Jun-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30760,S26000045__30760.pdf,ok,39335,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30760&CompanyCode=CM1001
+41,S26000043,01-Jun-2026,Sanden Vikas India Limited : C11284,Approved,30756,S26000043__30756.pdf,ok,167121,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30756&CompanyCode=CM1001
+42,S26000042,30-May-2026,TBJ Impex Pvt.Ltd. : C11732,Pending For Approval,30754,S26000042__30754.pdf,ok,247268,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30754&CompanyCode=CM1001
+43,S26000041,30-May-2026,Fujiyama Power Systems Pvt Ltd : C12100,Pending For Approval,30753,S26000041__30753.pdf,ok,167073,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30753&CompanyCode=CM1001
+44,S26000039,29-May-2026,Pepsico India Holdings Pvt Ltd : C12591,Approved,30751,S26000039__30751.pdf,ok,166705,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30751&CompanyCode=CM1001
+45,S26000040,29-May-2026,Karamhans Food Pvt Ltd : C11860,Approved,30752,S26000040__30752.pdf,ok,166797,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30752&CompanyCode=CM1001
+46,S26000038,26-May-2026,Assam Bearing Pvt Ltd. : C12017,Cancelled/Rejected,30749,S26000038__30749.pdf,ok,38487,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30749&CompanyCode=CM1001
+47,S26000037,22-May-2026,CHEMTOTAL LABS PRIVATE LIMITED : C12802,Approved,30745,S26000037__30745.pdf,ok,171467,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30745&CompanyCode=CM1001
+48,S26000036,20-May-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30744,S26000036__30744.pdf,ok,167095,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30744&CompanyCode=CM1001
+49,S26000035,19-May-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30742,S26000035__30742.pdf,ok,167096,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30742&CompanyCode=CM1001
+50,S26000034,18-May-2026,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30739,S26000034__30739.pdf,ok,171551,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30739&CompanyCode=CM1001
+51,S26000033,18-May-2026,Senior Flexonics India Private Limited : C12743,Cancelled/Rejected,30738,S26000033__30738.pdf,ok,166635,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30738&CompanyCode=CM1001
+52,S26000032,15-May-2026,Pepsico India Holdings Pvt Ltd : C12591,Approved,30736,S26000032__30736.pdf,ok,168642,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30736&CompanyCode=CM1001
+53,S26000031,11-May-2026,SA Field Marketing and Services : C12160,Approved,30735,S26000031__30735.pdf,ok,166791,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30735&CompanyCode=CM1001
+54,S26000030,07-May-2026,P P Patel Metal Powders Pvt Ltd : C11938,Approved,30733,S26000030__30733.pdf,ok,166600,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30733&CompanyCode=CM1001
+55,S26000029,06-May-2026,SA Field Marketing and Services : C12160,Approved,30732,S26000029__30732.pdf,ok,166791,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30732&CompanyCode=CM1001
+56,S26000028,02-May-2026,Mistcold sales and services pvt ltd : C11372,Approved,30731,S26000028__30731.pdf,ok,167109,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30731&CompanyCode=CM1001
+57,S26000026,27-Apr-2026,SA Field Marketing and Services : C12160,Approved,30726,S26000026__30726.pdf,ok,168449,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30726&CompanyCode=CM1001
+58,S26000027,27-Apr-2026,SRD WINPACK PRIVATE LIMITED : C12103,Approved,30727,S26000027__30727.pdf,ok,167107,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30727&CompanyCode=CM1001
+59,S26000025,24-Apr-2026,Sanden Vikas India Pvt Ltd : C11209,Approved,30725,S26000025__30725.pdf,ok,166825,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30725&CompanyCode=CM1001
+60,S26000024,21-Apr-2026,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30722,S26000024__30722.pdf,ok,167131,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30722&CompanyCode=CM1001
+61,S26000023,09-Apr-2026,SANDEN VIKAS INDIA PVT LTD : C11524,Approved,30718,S26000023__30718.pdf,ok,166580,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30718&CompanyCode=CM1001
+62,S26000021,07-Apr-2026,Senior Flexonics India Private Limited : C12743,Approved,30716,S26000021__30716.pdf,ok,166574,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30716&CompanyCode=CM1001
+63,S26000022,07-Apr-2026,Senior Flexonics India Private Limited : C12743,Approved,30717,S26000022__30717.pdf,ok,166551,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30717&CompanyCode=CM1001
+64,S26000020,02-Apr-2026,HI-TECH POWER AND STEEL LTD. : C11899,Cancelled/Rejected,30715,S26000020__30715.pdf,ok,247192,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30715&CompanyCode=CM1001
+65,S26000018,24-Mar-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30713,S26000018__30713.pdf,ok,35989,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30713&CompanyCode=CM1001
+66,S26000019,24-Mar-2026,SANDEN VIKAS INDIA PVT LTD : C11524,Approved,30714,S26000019__30714.pdf,ok,167157,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30714&CompanyCode=CM1001
+67,S26000016,16-Mar-2026,Subros Limited : C11487,Approved,30708,S26000016__30708.pdf,ok,169177,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30708&CompanyCode=CM1001
+68,S26000015,12-Mar-2026,Joneja Bright Steels Private Limited : C11475,Approved,30706,S26000015__30706.pdf,ok,166512,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30706&CompanyCode=CM1001
+69,S26000014,10-Mar-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30704,S26000014__30704.pdf,ok,36860,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30704&CompanyCode=CM1001
+70,S26000012,28-Feb-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30700,S26000012__30700.pdf,ok,166827,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30700&CompanyCode=CM1001
+71,S26000013,28-Feb-2026,GASCOME ENGINEERING SERVICES : C12033,Approved,30701,S26000013__30701.pdf,ok,170933,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30701&CompanyCode=CM1001
+72,S26000011,25-Feb-2026,Assam Bearing Pvt Ltd. : C12017,Cancelled/Rejected,30699,S26000011__30699.pdf,ok,36130,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30699&CompanyCode=CM1001
+73,S26000010,17-Feb-2026,Subros Limited : C11597,Approved,30698,S26000010__30698.pdf,ok,168410,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30698&CompanyCode=CM1001
+74,S26000009,12-Feb-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30697,S26000009__30697.pdf,ok,167619,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30697&CompanyCode=CM1001
+75,S26000008,05-Feb-2026,Pepsico India Holdings Pvt Ltd : C12591,Approved,30696,S26000008__30696.pdf,ok,166620,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30696&CompanyCode=CM1001
+76,S26000007,03-Feb-2026,Assam Bearing Pvt Ltd : C12487,Approved,30694,S26000007__30694.pdf,ok,170435,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30694&CompanyCode=CM1001
+77,S26000006,28-Jan-2026,Assam Bearing Pvt Ltd. : C12017,Approved,30693,S26000006__30693.pdf,ok,168554,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30693&CompanyCode=CM1001
+78,S26000005,21-Jan-2026,Sanden Vikas India Pvt Ltd : C11209,Approved,30687,S26000005__30687.pdf,ok,166566,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30687&CompanyCode=CM1001
+79,S26000004,19-Jan-2026,Amber Enterprises india limited Pantnagar : C11379,Approved,30686,S26000004__30686.pdf,ok,166620,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30686&CompanyCode=CM1001
+80,S26000003,09-Jan-2026,Pepsico India Holdings Pvt Ltd : C12575,Approved,30685,S26000003__30685.pdf,ok,168651,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30685&CompanyCode=CM1001
+81,S26000002,05-Jan-2026,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30684,S26000002__30684.pdf,ok,249726,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30684&CompanyCode=CM1001
+82,S26000001,02-Jan-2026,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30683,S26000001__30683.pdf,ok,167046,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30683&CompanyCode=CM1001
+83,S25000131,29-Dec-2025,Subros Limited : C12574,Approved,30682,S25000131__30682.pdf,ok,167004,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30682&CompanyCode=CM1001
+84,S25000130,24-Dec-2025,Phillips Machine Tools India Pvt Ltd : C12010,Approved,30675,S25000130__30675.pdf,ok,170888,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30675&CompanyCode=CM1001
+85,S25000129,24-Dec-2025,P P Patel Metal Powders Pvt Ltd : C11938,Approved,30674,S25000129__30674.pdf,ok,166576,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30674&CompanyCode=CM1001
+86,S25000128,20-Dec-2025,JNS Instruments Limited : C11446,Pending For Approval,30670,S25000128__30670.pdf,ok,166845,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30670&CompanyCode=CM1001
+87,S25000127,19-Dec-2025,Phillips Machine Tools India Pvt Ltd : C12010,Cancelled/Rejected,30669,S25000127__30669.pdf,ok,170910,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30669&CompanyCode=CM1001
+88,S25000126,16-Dec-2025,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30668,S25000126__30668.pdf,ok,167206,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30668&CompanyCode=CM1001
+89,S25000125,15-Dec-2025,MAURIA UDYOG LIMITED : C11907,Approved,30667,S25000125__30667.pdf,ok,250611,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30667&CompanyCode=CM1001
+90,S25000124,09-Dec-2025,Pharmac Engineers : C11444,Approved,30666,S25000124__30666.pdf,ok,166977,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30666&CompanyCode=CM1001
+91,S25000123,03-Dec-2025,Sanden Vikas India Limited : C11284,Approved,30663,S25000123__30663.pdf,ok,166833,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30663&CompanyCode=CM1001
+92,S25000122,28-Nov-2025,Airify Technologies LLP : C12664,Approved,30660,S25000122__30660.pdf,ok,171543,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30660&CompanyCode=CM1001
+93,S25000120,17-Nov-2025,Pepsico India Holdings Pvt Ltd : C12575,Approved,30655,S25000120__30655.pdf,ok,169210,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30655&CompanyCode=CM1001
+94,S25000121,17-Nov-2025,Pepsico India Holdings Pvt Ltd : C12591,Approved,30656,S25000121__30656.pdf,ok,248879,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30656&CompanyCode=CM1001
+95,S25000119,11-Nov-2025,Euroteck Environmental P Ltd : C12558,Approved,30653,S25000119__30653.pdf,ok,166838,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30653&CompanyCode=CM1001
+96,S25000118,03-Nov-2025,MAURIA UDYOG LIMITED : C11907,Approved,30652,S25000118__30652.pdf,ok,166817,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30652&CompanyCode=CM1001
+97,S25000117,23-Oct-2025,"Asra Stampings Pvt Ltd., : C12329",Cancelled/Rejected,30648,S25000117__30648.pdf,ok,167261,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30648&CompanyCode=CM1001
+98,S25000116,08-Oct-2025,Amber Enterprises india limited Pantnagar : C11379,Approved,30646,S25000116__30646.pdf,ok,166597,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30646&CompanyCode=CM1001
+99,S25000113,29-Sep-2025,Subros Limited : C11487,Approved,30627,S25000113__30627.pdf,ok,166553,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30627&CompanyCode=CM1001
+100,S25000114,29-Sep-2025,Subros Limited : C11487,Approved,30628,S25000114__30628.pdf,ok,166529,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30628&CompanyCode=CM1001
+101,S25000115,29-Sep-2025,Pepsico India Holdings Pvt Ltd : C12332,Approved,30629,S25000115__30629.pdf,ok,169217,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30629&CompanyCode=CM1001
+102,S25000112,25-Sep-2025,Sanden Vikas India Limited : C11284,Approved,30626,S25000112__30626.pdf,ok,168831,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30626&CompanyCode=CM1001
+103,S25000111,22-Sep-2025,ILJIN ELECTRONICS INDIA PVT. LTD. : C12592,Approved,30625,S25000111__30625.pdf,ok,169896,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30625&CompanyCode=CM1001
+104,S25000110,15-Sep-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30621,S25000110__30621.pdf,ok,166812,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30621&CompanyCode=CM1001
+105,S25000109,15-Sep-2025,Sanden Vikas India Limited : C11284,Approved,30620,S25000109__30620.pdf,ok,166582,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30620&CompanyCode=CM1001
+106,S25000108,03-Sep-2025,Assam Bearing Pvt Ltd. : C12017,Approved,30619,S25000108__30619.pdf,ok,38535,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30619&CompanyCode=CM1001
+107,S25000107,01-Sep-2025,Assam Bearing Pvt Ltd. : C12017,Approved,30618,S25000107__30618.pdf,ok,39018,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30618&CompanyCode=CM1001
+108,S25000106,29-Aug-2025,Subros Limited : C11554,Approved,30617,S25000106__30617.pdf,ok,252404,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30617&CompanyCode=CM1001
+109,S25000104,21-Aug-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30614,S25000104__30614.pdf,ok,166828,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30614&CompanyCode=CM1001
+110,S25000105,21-Aug-2025,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30615,S25000105__30615.pdf,ok,251116,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30615&CompanyCode=CM1001
+111,S25000101,21-Aug-2025,Subros Limited : C11487,Approved,30611,S25000101__30611.pdf,ok,166923,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30611&CompanyCode=CM1001
+112,S25000102,21-Aug-2025,Subros Limited : C11487,Approved,30612,S25000102__30612.pdf,ok,166557,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30612&CompanyCode=CM1001
+113,S25000103,21-Aug-2025,Subros Limited : C11487,Approved,30613,S25000103__30613.pdf,ok,167095,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30613&CompanyCode=CM1001
+114,S25000100,07-Aug-2025,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30607,S25000100__30607.pdf,ok,169443,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30607&CompanyCode=CM1001
+115,S25000099,04-Aug-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30603,S25000099__30603.pdf,ok,166570,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30603&CompanyCode=CM1001
+116,S25000098,30-Jul-2025,Turaco Polymers Private Limited : C12443,Approved,30602,S25000098__30602.pdf,ok,169922,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30602&CompanyCode=CM1001
+117,S25000097,25-Jul-2025,Horizon Airtech : C12087,Approved,30599,S25000097__30599.pdf,ok,59965,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30599&CompanyCode=CM1001
+118,S25000095,25-Jul-2025,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30597,S25000095__30597.pdf,ok,249535,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30597&CompanyCode=CM1001
+119,S25000096,25-Jul-2025,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30598,S25000096__30598.pdf,ok,249534,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30598&CompanyCode=CM1001
+120,S25000094,18-Jul-2025,Karamhans Food Pvt Ltd : C11860,Approved,30596,S25000094__30596.pdf,ok,168425,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30596&CompanyCode=CM1001
+121,S25000093,16-Jul-2025,"Jagruthi environmental solutions Pvt Ltd., : C11583",Approved,30595,S25000093__30595.pdf,ok,168585,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30595&CompanyCode=CM1001
+122,S25000091,11-Jul-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30593,S25000091__30593.pdf,ok,168630,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30593&CompanyCode=CM1001
+123,S25000092,11-Jul-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30594,S25000092__30594.pdf,ok,166585,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30594&CompanyCode=CM1001
+124,S25000090,07-Jul-2025,Subros Limited : C12574,Approved,30591,S25000090__30591.pdf,ok,411992,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30591&CompanyCode=CM1001
+125,S25000089,04-Jul-2025,Subros Limited : C11597,Approved,30590,S25000089__30590.pdf,ok,411180,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30590&CompanyCode=CM1001
+126,S25000088,01-Jul-2025,Waidhan Tyre Private Limited : C12561,Approved,30586,S25000088__30586.pdf,ok,331744,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30586&CompanyCode=CM1001
+127,S25000086,30-Jun-2025,SA Field Marketing and Services : C12160,Approved,30584,S25000086__30584.pdf,ok,168526,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30584&CompanyCode=CM1001
+128,S25000087,30-Jun-2025,SA Field Marketing and Services : C12160,Approved,30585,S25000087__30585.pdf,ok,171579,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30585&CompanyCode=CM1001
+129,S25000085,26-Jun-2025,Sriram Service : C12565,Approved,30583,S25000085__30583.pdf,ok,167406,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30583&CompanyCode=CM1001
+130,S25000084,19-Jun-2025,ALTAIR PNEUMATICS : C12540,Approved,30582,S25000084__30582.pdf,ok,170348,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30582&CompanyCode=CM1001
+131,S25000083,16-Jun-2025,Assam Bearing Pvt Ltd. : C12017,Pending For Approval,30579,S25000083__30579.pdf,ok,36870,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30579&CompanyCode=CM1001
+132,S25000082,06-Jun-2025,SANDEN VIKAS INDIA PVT LTD : C11524,Approved,30577,S25000082__30577.pdf,ok,167161,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30577&CompanyCode=CM1001
+133,S25000080,29-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30571,S25000080__30571.pdf,ok,167311,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30571&CompanyCode=CM1001
+134,S25000078,29-May-2025,Subros Limited : C11487,Approved,30569,S25000078__30569.pdf,ok,166513,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30569&CompanyCode=CM1001
+135,S25000076,29-May-2025,Sanden Vikas India Limited : C11284,Approved,30567,S25000076__30567.pdf,ok,167228,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30567&CompanyCode=CM1001
+136,S25000081,29-May-2025,JNS Instruments Limited : C11446,Approved,30573,S25000081__30573.pdf,ok,166774,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30573&CompanyCode=CM1001
+137,S25000079,29-May-2025,JNJ ELECTRONICS LTD : C12491,Approved,30570,S25000079__30570.pdf,ok,166850,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30570&CompanyCode=CM1001
+138,S25000074,27-May-2025,Joneja Bright Steels Private Limited : C11475,Approved,30561,S25000074__30561.pdf,ok,166814,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30561&CompanyCode=CM1001
+139,S25000075,27-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30562,S25000075__30562.pdf,ok,166855,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30562&CompanyCode=CM1001
+140,S25000073,27-May-2025,Garden Denver Srl. : C12537,Approved,30560,S25000073__30560.pdf,ok,166471,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30560&CompanyCode=CM1001
+141,S25000072,27-May-2025,Economy Process Solutions Pvt Ltd : C12535,Approved,30559,S25000072__30559.pdf,ok,166570,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30559&CompanyCode=CM1001
+142,S25000050,26-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30532,S25000050__30532.pdf,ok,168103,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30532&CompanyCode=CM1001
+143,S25000067,26-May-2025,Amber Enterprises india limited Pantnagar : C11379,Approved,30549,S25000067__30549.pdf,ok,167080,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30549&CompanyCode=CM1001
+144,S25000068,26-May-2025,Subros Limited : C11487,Approved,30550,S25000068__30550.pdf,ok,167092,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30550&CompanyCode=CM1001
+145,S25000070,26-May-2025,Subros Limited : C11487,Approved,30552,S25000070__30552.pdf,ok,166527,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30552&CompanyCode=CM1001
+146,S25000060,26-May-2025,Senior India Pvt. Ltd. : C11516,Approved,30542,S25000060__30542.pdf,ok,166632,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30542&CompanyCode=CM1001
+147,S25000053,26-May-2025,THE KABIR INTERNATIONAL : C12214,Approved,30535,S25000053__30535.pdf,ok,166606,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30535&CompanyCode=CM1001
+148,S25000055,26-May-2025,Exicom Tele-Systems Limited : C12111,Approved,30537,S25000055__30537.pdf,ok,166551,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30537&CompanyCode=CM1001
+149,S25000056,26-May-2025,JNJ ELECTRONICS LTD : C12119,Approved,30538,S25000056__30538.pdf,ok,166910,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30538&CompanyCode=CM1001
+150,S25000064,26-May-2025,PJS OVERSEAS LTD : C12018,Approved,30546,S25000064__30546.pdf,ok,167187,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30546&CompanyCode=CM1001
+151,S25000054,26-May-2025,Shedu Company Ltd. : C12186,Approved,30536,S25000054__30536.pdf,ok,166539,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30536&CompanyCode=CM1001
+152,S25000058,26-May-2025,P P PATEL & CO : C11896,Approved,30540,S25000058__30540.pdf,ok,166911,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30540&CompanyCode=CM1001
+153,S25000069,26-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30551,S25000069__30551.pdf,ok,166896,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30551&CompanyCode=CM1001
+154,S25000062,26-May-2025,SANDEN VIKAS INDIA PVT LTD : C11524,Approved,30544,S25000062__30544.pdf,ok,167369,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30544&CompanyCode=CM1001
+155,S25000066,26-May-2025,Karamhans Food Pvt Ltd : C11860,Approved,30548,S25000066__30548.pdf,ok,166829,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30548&CompanyCode=CM1001
+156,S25000057,26-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30539,S25000057__30539.pdf,ok,166857,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30539&CompanyCode=CM1001
+157,S25000059,26-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30541,S25000059__30541.pdf,ok,166850,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30541&CompanyCode=CM1001
+158,S25000052,26-May-2025,Sanden Vikas India Limited : C11284,Approved,30534,S25000052__30534.pdf,ok,166847,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30534&CompanyCode=CM1001
+159,S25000063,26-May-2025,R. D. Dutta & Co. PVT. LTD. : C11994,Approved,30545,S25000063__30545.pdf,ok,166575,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30545&CompanyCode=CM1001
+160,S25000051,26-May-2025,Shedu Company Ltd. : C12186,Approved,30533,S25000051__30533.pdf,ok,166547,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30533&CompanyCode=CM1001
+161,S25000065,26-May-2025,Pepsico India Holdings Pvt Ltd : C12332,Approved,30547,S25000065__30547.pdf,ok,166795,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30547&CompanyCode=CM1001
+162,S25000071,26-May-2025,Pepsico India Holdings Pvt Ltd : C12332,Approved,30553,S25000071__30553.pdf,ok,166733,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30553&CompanyCode=CM1001
+163,S25000061,26-May-2025,Air System & Solutions : C11240,Approved,30543,S25000061__30543.pdf,ok,167146,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30543&CompanyCode=CM1001
+164,S25000043,23-May-2025,Star cement limited : C11368,Approved,30525,S25000043__30525.pdf,ok,166830,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30525&CompanyCode=CM1001
+165,S25000049,23-May-2025,Sanden Vikas India Limited : C11284,Approved,30531,S25000049__30531.pdf,ok,166621,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30531&CompanyCode=CM1001
+166,S25000047,23-May-2025,Subros Limited : C11487,Approved,30529,S25000047__30529.pdf,ok,167185,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30529&CompanyCode=CM1001
+167,S25000048,23-May-2025,Mistcold sales and services pvt ltd : C11372,Approved,30530,S25000048__30530.pdf,ok,166946,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30530&CompanyCode=CM1001
+168,S25000042,23-May-2025,Amber Enterprises india limited Pantnagar : C11379,Approved,30524,S25000042__30524.pdf,ok,167717,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30524&CompanyCode=CM1001
+169,S25000044,23-May-2025,Amber Enterprises india limited Pantnagar : C11379,Approved,30526,S25000044__30526.pdf,ok,166610,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30526&CompanyCode=CM1001
+170,S25000045,23-May-2025,SANDEN VIKAS INDIA PVT LTD : C11524,Approved,30527,S25000045__30527.pdf,ok,166818,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30527&CompanyCode=CM1001
+171,S25000046,23-May-2025,SANT ALLUMINUM PVT. LTD : C12025,Approved,30528,S25000046__30528.pdf,ok,166613,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30528&CompanyCode=CM1001
+172,S25000026,22-May-2025,SANDEN VIKAS INDIA PVT LTD : C11524,Approved,30507,S25000026__30507.pdf,ok,167184,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30507&CompanyCode=CM1001
+173,S25000021,22-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30497,S25000021__30497.pdf,ok,168599,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30497&CompanyCode=CM1001
+174,S25000022,22-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30498,S25000022__30498.pdf,ok,166734,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30498&CompanyCode=CM1001
+175,S25000023,22-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30499,S25000023__30499.pdf,ok,166852,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30499&CompanyCode=CM1001
+176,S25000018,22-May-2025,Labindia Instruments Pvt Ltd : C11830,Approved,30494,S25000018__30494.pdf,ok,166935,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30494&CompanyCode=CM1001
+177,S25000034,22-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30515,S25000034__30515.pdf,ok,248632,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30515&CompanyCode=CM1001
+178,S25000029,22-May-2025,Synergy Air Products Pvt Ltd : C11220,Approved,30510,S25000029__30510.pdf,ok,166588,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30510&CompanyCode=CM1001
+179,S25000028,22-May-2025,P P PATEL & CO : C11896,Approved,30509,S25000028__30509.pdf,ok,166953,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30509&CompanyCode=CM1001
+180,S25000041,22-May-2025,Amber Enterprises india limited Pantnagar : C11379,Approved,30522,S25000041__30522.pdf,ok,167639,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30522&CompanyCode=CM1001
+181,S25000033,22-May-2025,Sandhar Automotive : C11282,Approved,30514,S25000033__30514.pdf,ok,167542,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30514&CompanyCode=CM1001
+182,S25000038,22-May-2025,Amber Enterprises India Limited : C11281,Approved,30519,S25000038__30519.pdf,ok,167619,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30519&CompanyCode=CM1001
+183,S25000039,22-May-2025,Amber Enterprises India Limited : C11281,Approved,30520,S25000039__30520.pdf,ok,166951,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30520&CompanyCode=CM1001
+184,S25000040,22-May-2025,PJS OVERSEAS LTD : C12018,Approved,30521,S25000040__30521.pdf,ok,167514,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30521&CompanyCode=CM1001
+185,S25000024,22-May-2025,PJS OVERSEAS LTD : C12018,Approved,30500,S25000024__30500.pdf,ok,167186,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30500&CompanyCode=CM1001
+186,S25000037,22-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30518,S25000037__30518.pdf,ok,166856,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30518&CompanyCode=CM1001
+187,S25000027,22-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30508,S25000027__30508.pdf,ok,167211,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30508&CompanyCode=CM1001
+188,S25000030,22-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30511,S25000030__30511.pdf,ok,167468,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30511&CompanyCode=CM1001
+189,S25000025,22-May-2025,Sanden Vikas India Pvt Ltd : C11209,Approved,30501,S25000025__30501.pdf,ok,166854,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30501&CompanyCode=CM1001
+190,S25000020,22-May-2025,JNJ ELECTRONICS LTD : C12491,Approved,30496,S25000020__30496.pdf,ok,168617,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30496&CompanyCode=CM1001
+191,S25000019,22-May-2025,Fleet Gaskets : C12529,Approved,30495,S25000019__30495.pdf,ok,168886,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30495&CompanyCode=CM1001
+192,S25000036,22-May-2025,Shree Vardhman Engg. : C11283,Approved,30517,S25000036__30517.pdf,ok,167099,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30517&CompanyCode=CM1001
+193,S25000031,22-May-2025,HI-TECH POWER AND STEEL LTD. : C11899,Approved,30512,S25000031__30512.pdf,ok,167072,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30512&CompanyCode=CM1001
+194,S25000032,22-May-2025,HI-TECH POWER AND STEEL LTD. : C11899,Approved,30513,S25000032__30513.pdf,ok,167098,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30513&CompanyCode=CM1001
+195,S25000035,22-May-2025,RKD MEDICAL PRIVATE LIMITED : C12012,Approved,30516,S25000035__30516.pdf,ok,167534,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30516&CompanyCode=CM1001
+196,S25000014,21-May-2025,BHA GAS Engineering : C12525,Approved,30490,S25000014__30490.pdf,ok,168946,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30490&CompanyCode=CM1001
+197,S25000016,21-May-2025,Amber Enterprises india limited Pantnagar : C11379,Approved,30492,S25000016__30492.pdf,ok,328814,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30492&CompanyCode=CM1001
+198,S25000017,21-May-2025,Air System & Solutions : C11240,Approved,30493,S25000017__30493.pdf,ok,169000,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30493&CompanyCode=CM1001
+199,S25000015,21-May-2025,PRAN Beverages India Pvt. Ltd : C12262,Approved,30491,S25000015__30491.pdf,ok,168927,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30491&CompanyCode=CM1001
+200,S25000011,07-May-2025,Sarwat Engineering Company : C12446,Approved,30472,S25000011__30472.pdf,ok,171128,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30472&CompanyCode=CM1001
+201,S25000010,29-Apr-2025,Envisys Technologies Pvt. Ltd : C12509,Approved,30471,S25000010__30471.pdf,ok,167868,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30471&CompanyCode=CM1001
+202,S25000008,29-Apr-2025,Assam Bearing Pvt Ltd. : C12017,Approved,30469,S25000008__30469.pdf,ok,55760,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30469&CompanyCode=CM1001
+203,S25000009,29-Apr-2025,Assam Bearing Pvt Ltd. : C12017,Approved,30470,S25000009__30470.pdf,ok,55737,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30470&CompanyCode=CM1001
+204,S25000007,13-Mar-2025,NIMS University : C12458,Approved,20449,S25000007__20449.pdf,ok,170992,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20449&CompanyCode=CM1001
+205,S25000006,06-Feb-2025,VARUN ENGINEERS : C12092,Approved,20445,S25000006__20445.pdf,ok,113838,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20445&CompanyCode=CM1001
+206,S25000005,26-Jan-2025,Assam Bearing Pvt Ltd. : C12017,Approved,20442,S25000005__20442.pdf,ok,38524,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20442&CompanyCode=CM1001
+207,S25000004,23-Jan-2025,MEDHA SERVO DRIVES Pvt Ltd. : C12394,Approved,20441,S25000004__20441.pdf,ok,247412,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20441&CompanyCode=CM1001
+208,S25000003,15-Jan-2025,Stirling Cryogenic India Pvt Ltd : C12301,Approved,20435,S25000003__20435.pdf,ok,171081,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20435&CompanyCode=CM1001
+209,S25000002,09-Jan-2025,Assam Bearing Pvt Ltd. : C12017,Cancelled/Rejected,20434,S25000002__20434.pdf,ok,38594,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20434&CompanyCode=CM1001
+210,S25000001,07-Jan-2025,"Asra Stampings Pvt Ltd., : C12380",Approved,20433,S25000001__20433.pdf,ok,167494,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20433&CompanyCode=CM1001
+211,S24000043,31-Dec-2024,Assam Bearing Pvt Ltd. : C12017,Approved,20429,S24000043__20429.pdf,ok,38294,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20429&CompanyCode=CM1001
+212,S24000042,30-Dec-2024,Assam Bearing Pvt Ltd. : C12017,Cancelled/Rejected,20428,S24000042__20428.pdf,ok,38446,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20428&CompanyCode=CM1001
+213,S24000041,13-Dec-2024,Nokenwar Foods : C11627,Approved,20422,S24000041__20422.pdf,ok,171488,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20422&CompanyCode=CM1001
+214,S24000040,12-Dec-2024,Fujiyama Power Systems Pvt Ltd : C12100,Approved,20421,S24000040__20421.pdf,ok,171046,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20421&CompanyCode=CM1001
+215,S24000039,21-Nov-2024,JNJ ELECTRONICS LTD : C12119,Approved,20415,S24000039__20415.pdf,ok,171429,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20415&CompanyCode=CM1001
+216,S24000038,21-Nov-2024,Pepsico India Holdings Pvt Ltd : C12332,Approved,20409,S24000038__20409.pdf,ok,171099,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20409&CompanyCode=CM1001
+217,S24000037,21-Nov-2024,Assam Bearing Pvt Ltd. : C12017,Approved,20408,S24000037__20408.pdf,ok,54098,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20408&CompanyCode=CM1001
+218,S24000036,07-Nov-2024,Assam Bearing Pvt Ltd. : C12017,Approved,20369,S24000036__20369.pdf,ok,38666,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20369&CompanyCode=CM1001
+219,S24000035,16-Oct-2024,Subros Limited : C11487,Approved,20226,S24000035__20226.pdf,ok,170837,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20226&CompanyCode=CM1001
+220,S24000034,04-Oct-2024,Assam Bearing Pvt Ltd. : C12017,Approved,20225,S24000034__20225.pdf,ok,38824,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20225&CompanyCode=CM1001
+221,S24000033,19-Sep-2024,ALTAIR PNEUMATICS : C11664,Approved,20173,S24000033__20173.pdf,ok,64559,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20173&CompanyCode=CM1001
+222,S24000032,09-Sep-2024,Subros Limited : C11487,Approved,20169,S24000032__20169.pdf,ok,251567,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20169&CompanyCode=CM1001
+223,S24000031,03-Sep-2024,Assam Bearing Pvt Ltd. : C12017,Approved,20167,S24000031__20167.pdf,ok,40011,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20167&CompanyCode=CM1001
+224,S24000030,02-Sep-2024,MAURIA UDYOG LIMITED : C11907,Approved,20166,S24000030__20166.pdf,ok,171013,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20166&CompanyCode=CM1001
+225,S24000029,30-Aug-2024,ALTAIR PNEUMATICS : C11664,Approved,20165,S24000029__20165.pdf,ok,62797,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20165&CompanyCode=CM1001
+226,S24000028,27-Aug-2024,ALTAIR PNEUMATICS : C11664,Approved,20164,S24000028__20164.pdf,ok,170769,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20164&CompanyCode=CM1001
+227,S24000027,30-Jul-2024,G Industries : C12210,Approved,20161,S24000027__20161.pdf,ok,170950,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20161&CompanyCode=CM1001
+228,S24000025,02-Jul-2024,TEST COMPANY : C12114,Approved,20157,S24000025__20157.pdf,ok,166991,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20157&CompanyCode=CM1001
+229,S24000026,02-Jul-2024,TEST COMPANY : C12114,Approved,20158,S24000026__20158.pdf,ok,167076,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20158&CompanyCode=CM1001
+230,S24000024,02-Jul-2024,TEST COMPANY : C12114,Approved,20156,S24000024__20156.pdf,ok,167020,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20156&CompanyCode=CM1001
+231,S24000023,01-Jul-2024,TEST COMPANY : C12114,Approved,20155,S24000023__20155.pdf,ok,166748,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20155&CompanyCode=CM1001
+232,S24000021,20-Jun-2024,SA Field Marketing and Services : C12160,Approved,20153,S24000021__20153.pdf,ok,171202,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20153&CompanyCode=CM1001
+233,S24000020,11-Jun-2024,SRD WINPACK PRIVATE LIMITED : C12103,Approved,20152,S24000020__20152.pdf,ok,250848,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20152&CompanyCode=CM1001
+234,S24000019,24-May-2024,JNJ ELECTRONICS LTD : C12119,Approved,20150,S24000019__20150.pdf,ok,170758,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20150&CompanyCode=CM1001
+235,S24000016,10-May-2024,TEST COMPANY : C12114,Approved,20147,S24000016__20147.pdf,ok,25990,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20147&CompanyCode=CM1001
+236,S24000017,10-May-2024,TEST COMPANY : C12114,Cancelled/Rejected,20148,S24000017__20148.pdf,ok,25990,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20148&CompanyCode=CM1001
+237,S24000018,10-May-2024,Sanjay Kumar SIPL : C12097,Approved,20149,S24000018__20149.pdf,ok,7961,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20149&CompanyCode=CM1001
+238,S24000014,09-May-2024,C12097 : C12097,Approved,20145,S24000014__20145.pdf,ok,7886,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20145&CompanyCode=CM1001
+239,S24000015,09-May-2024,TEST COMPANY : C12114,Approved,20146,S24000015__20146.pdf,ok,25865,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20146&CompanyCode=CM1001
+240,S24000013,03-May-2024,TEST COMPANY : C12114,Approved,20144,S24000013__20144.pdf,ok,26019,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20144&CompanyCode=CM1001
+241,S24000012,30-Apr-2024,TEST COMPANY : C12114,Approved,20143,S24000012__20143.pdf,ok,26069,http://partner.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20143&CompanyCode=CM1001
+242,S24000011,19-Apr-2024,Karamhans Food Pvt Ltd : C11860,Approved,20140,S24000011__20140.pdf,ok,171399,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20140&CompanyCode=CM1001
+243,S24000010,12-Apr-2024,Phillips Machine Tools India Pvt Ltd : C12010,Approved,20139,S24000010__20139.pdf,ok,171052,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20139&CompanyCode=CM1001
+244,S24000009,04-Apr-2024,Dryfruitvala Food Industry Pvt. Ltd. : C12043,Approved,20137,S24000009__20137.pdf,ok,170848,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20137&CompanyCode=CM1001
+245,S24000007,20-Feb-2024,P P Patel Metal Powders Pvt Ltd : C11938,Approved,20135,S24000007__20135.pdf,ok,251124,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20135&CompanyCode=CM1001
+246,S24000008,20-Feb-2024,Subros Limited : C11487,Approved,20136,S24000008__20136.pdf,ok,170386,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20136&CompanyCode=CM1001
+247,S24000006,15-Feb-2024,Star Five Industries : C11752,Approved,20134,S24000006__20134.pdf,ok,171108,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20134&CompanyCode=CM1001
+248,S24000005,06-Feb-2024,Synergy Air Products Pvt Ltd : C11220,Approved,20132,S24000005__20132.pdf,ok,250789,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20132&CompanyCode=CM1001
+249,S24000004,10-Jan-2024,Altailr Pneumatics : C11664,Approved,20131,S24000004__20131.pdf,ok,170892,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20131&CompanyCode=CM1001
+250,S24000002,09-Jan-2024,Labindia Instruments Pvt Ltd : C11830,Approved,20129,S24000002__20129.pdf,ok,171476,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20129&CompanyCode=CM1001
+251,S24000003,09-Jan-2024,Labindia Instruments Pvt Ltd : C11830,Approved,20130,S24000003__20130.pdf,ok,171526,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20130&CompanyCode=CM1001
+252,S24000001,08-Jan-2024,S.M. FOOD PRODUCTS : C11844,Approved,20128,S24000001__20128.pdf,ok,171171,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20128&CompanyCode=CM1001
+253,S26000017,20-Dec-2023,Subros Limited : C11487,Approved,30709,S26000017__30709.pdf,ok,249153,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30709&CompanyCode=CM1001
+254,S23000033,05-Dec-2023,Joneja Bright Steels Private Limited : C11475,Approved,20125,S23000033__20125.pdf,ok,170338,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20125&CompanyCode=CM1001
+255,S23000032,20-Nov-2023,Star cement limited : C11368,Approved,20124,S23000032__20124.pdf,ok,169960,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20124&CompanyCode=CM1001
+256,S23000014,09-Nov-2023,"Jagruthi environmental solutions Pvt Ltd., : C11583",Cancelled/Rejected,20098,S23000014__20098.pdf,ok,247136,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20098&CompanyCode=CM1001
+257,S23000031,09-Nov-2023,Euroteck Environmental P Ltd : C11704,Approved,20123,S23000031__20123.pdf,ok,330779,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20123&CompanyCode=CM1001
+258,S23000030,26-Oct-2023,Nokenwar Woodworking Unit : C11627,Cancelled/Rejected,20122,S23000030__20122.pdf,ok,167347,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20122&CompanyCode=CM1001
+259,S23000029,19-Oct-2023,RMJV veritable : C11787,Approved,20121,S23000029__20121.pdf,ok,171427,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20121&CompanyCode=CM1001
+260,S23000028,05-Oct-2023,Mithila Consumer Goods Private Limited : C11435,Approved,20120,S23000028__20120.pdf,ok,170424,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20120&CompanyCode=CM1001
+261,S23000027,03-Oct-2023,E-Star Foods Pvt Ltd : C11726,Approved,20119,S23000027__20119.pdf,ok,170744,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20119&CompanyCode=CM1001
+262,S23000026,15-Sep-2023,TEST : C11170,Approved,20116,S23000026__20116.pdf,ok,168663,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20116&CompanyCode=CM1001
+263,S23000025,08-Sep-2023,Sanden Vikas India Limited : C11284,Approved,20115,S23000025__20115.pdf,ok,171304,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20115&CompanyCode=CM1001
+264,S23000024,04-Sep-2023,Synergy Air Products Pvt Ltd : C11220,Approved,20114,S23000024__20114.pdf,ok,170831,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20114&CompanyCode=CM1001
+265,S23000022,29-Aug-2023,TEST : C11172,Approved,20112,S23000022__20112.pdf,ok,166763,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20112&CompanyCode=CM1001
+266,S23000023,29-Aug-2023,TEST : C11172,Approved,20113,S23000023__20113.pdf,ok,168635,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20113&CompanyCode=CM1001
+267,S23000020,26-Aug-2023,Assam Bearing Pvt Ltd : C11590,Approved,20108,S23000020__20108.pdf,ok,171286,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20108&CompanyCode=CM1001
+268,S23000017,27-Jul-2023,Painite Industries Private Limited : C11639,Approved,20104,S23000017__20104.pdf,ok,170951,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20104&CompanyCode=CM1001
+269,S23000019,26-Jul-2023,AFRI POWER VENTURES : C11572,Approved,20106,S23000019__20106.pdf,ok,170544,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20106&CompanyCode=CM1001
+270,S23000016,21-Jul-2023,Pharmac Engineers : C11444,Approved,20103,S23000016__20103.pdf,ok,250409,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20103&CompanyCode=CM1001
+271,S23000015,21-Jul-2023,Gaurav Sanjivani Technicals : C11459,Approved,20102,S23000015__20102.pdf,ok,166473,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20102&CompanyCode=CM1001
+272,S23000013,28-Jun-2023,"Jagruthi environmental solutions Pvt Ltd., : C11583",Approved,20097,S23000013__20097.pdf,ok,170107,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20097&CompanyCode=CM1001
+273,S23000012,12-Apr-2023,Synergy Air Products Pvt Ltd : C11220,Approved,20096,S23000012__20096.pdf,ok,169377,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20096&CompanyCode=CM1001
+274,S23000011,30-Mar-2023,Hi_Tech Power & Steel Limited : C11531,Approved,20095,S23000011__20095.pdf,ok,167097,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20095&CompanyCode=CM1001
+275,S23000010,27-Mar-2023,Hi_Tech Power & Steel Limited : C11531,Approved,20094,S23000010__20094.pdf,ok,250648,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20094&CompanyCode=CM1001
+276,S23000009,25-Mar-2023,NANDAN STEELS & POWER LIMITED : C11488,Approved,20093,S23000009__20093.pdf,ok,330571,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20093&CompanyCode=CM1001
+277,S23000008,22-Mar-2023,Sanden Vikas India Pvt Ltd : C11209,Approved,20092,S23000008__20092.pdf,ok,170638,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20092&CompanyCode=CM1001
+278,S23000007,11-Feb-2023,Mistcold sales and services pvt ltd : C11372,Approved,20091,S23000007__20091.pdf,ok,170139,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20091&CompanyCode=CM1001
+279,S23000006,03-Feb-2023,Sanden Vikas India Pvt Ltd : C11209,Approved,20090,S23000006__20090.pdf,ok,170373,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20090&CompanyCode=CM1001
+280,S23000005,31-Jan-2023,Air System & Solutions : C11240,Approved,20089,S23000005__20089.pdf,ok,169330,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20089&CompanyCode=CM1001
+281,S23000003,28-Jan-2023,abc : C11465,Approved,20087,S23000003__20087.pdf,ok,169951,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20087&CompanyCode=CM1001
+282,S23000004,28-Jan-2023,Sanden Vikas India Limited : C11284,Approved,20088,S23000004__20088.pdf,ok,168201,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20088&CompanyCode=CM1001
+283,S23000002,24-Jan-2023,Mistcold sales and services pvt ltd : C11372,Approved,20086,S23000002__20086.pdf,ok,170067,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20086&CompanyCode=CM1001
+284,S23000001,11-Jan-2023,TEST : C11172,Approved,20085,S23000001__20085.pdf,ok,167096,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20085&CompanyCode=CM1001
+285,S22000027,05-Dec-2022,TEST : C11380,Approved,20083,S22000027__20083.pdf,ok,166978,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20083&CompanyCode=CM1001
+286,S22000028,05-Dec-2022,aman2 : C11051,Approved,20084,S22000028__20084.pdf,ok,167042,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20084&CompanyCode=CM1001
+287,S22000025,08-Nov-2022,TEST : C11297,Approved,20081,S22000025__20081.pdf,ok,168796,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20081&CompanyCode=CM1001
+288,S22000026,08-Nov-2022,TEST : C11298,Approved,20082,S22000026__20082.pdf,ok,168039,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20082&CompanyCode=CM1001
+289,S22000024,04-Nov-2022,TEST : C11196,Approved,20080,S22000024__20080.pdf,ok,170154,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20080&CompanyCode=CM1001
+290,S22000023,04-Oct-2022,TEST : C11172,Approved,20079,S22000023__20079.pdf,ok,166826,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20079&CompanyCode=CM1001
+291,S22000022,14-Sep-2022,TEST : C11227,Approved,20078,S22000022__20078.pdf,ok,167018,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20078&CompanyCode=CM1001
+292,S22000021,07-Sep-2022,TEST : C11232,Cancelled/Rejected,20077,S22000021__20077.pdf,ok,166873,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20077&CompanyCode=CM1001
+293,S22000020,06-Sep-2022,TEST : C11173,Cancelled/Rejected,20076,S22000020__20076.pdf,ok,167266,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20076&CompanyCode=CM1001
+294,S22000015,05-Sep-2022,TEST : C11172,Approved,20071,S22000015__20071.pdf,ok,167018,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20071&CompanyCode=CM1001
+295,S22000016,05-Sep-2022,TEST : C11172,Approved,20072,S22000016__20072.pdf,ok,166717,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20072&CompanyCode=CM1001
+296,S22000017,05-Sep-2022,TEST : C11172,Approved,20073,S22000017__20073.pdf,ok,166694,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20073&CompanyCode=CM1001
+297,S22000018,05-Sep-2022,TEST : C11172,Approved,20074,S22000018__20074.pdf,ok,166690,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20074&CompanyCode=CM1001
+298,S22000019,05-Sep-2022,TEST : C11172,Approved,20075,S22000019__20075.pdf,ok,166736,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20075&CompanyCode=CM1001
+299,S22000014,31-Aug-2022,SONA MACHINERY PRIVATE LIMITED : C11195,Approved,20070,S22000014__20070.pdf,ok,167166,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20070&CompanyCode=CM1001
+300,S22000012,30-Jul-2022,TEST : C11196,Cancelled/Rejected,20069,S22000012__20069.pdf,ok,166727,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20069&CompanyCode=CM1001
+301,S22000011,02-Jul-2022,TEST : C11186,Approved,20068,S22000011__20068.pdf,ok,167108,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20068&CompanyCode=CM1001
+302,S22000008,29-Jun-2022,P1001 : C11183,Cancelled/Rejected,20066,S22000008__20066.pdf,ok,166356,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20066&CompanyCode=CM1001
+303,S22000009,29-Jun-2022,CABLE TECH MACHINES : C11050,Cancelled/Rejected,20067,S22000009__20067.pdf,ok,167085,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20067&CompanyCode=CM1001
+304,S22000007,29-Jun-2022,aman2 : C11051,Cancelled/Rejected,20065,S22000007__20065.pdf,ok,166624,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20065&CompanyCode=CM1001
+305,S22000005,28-Jun-2022,aman2 : C11051,Cancelled/Rejected,20063,S22000005__20063.pdf,ok,166958,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20063&CompanyCode=CM1001
+306,S22000006,28-Jun-2022,CABLE TECH MACHINES : C11050,Cancelled/Rejected,20064,S22000006__20064.pdf,ok,166726,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20064&CompanyCode=CM1001
+307,S22000004,28-Jun-2022,TEST : C11170,Cancelled/Rejected,20062,S22000004__20062.pdf,ok,167061,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20062&CompanyCode=CM1001
+308,S22000001,24-Jun-2022,aman2 : C11051,Cancelled/Rejected,20060,S22000001__20060.pdf,ok,166703,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20060&CompanyCode=CM1001
+309,S22000002,24-Jun-2022,TEST : C11173,Cancelled/Rejected,20061,S22000002__20061.pdf,ok,166419,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=20061&CompanyCode=CM1001
+310,S25000013,08-Jan-2019,Synergy Air Products Pvt Ltd : C11220,Approved,30489,S25000013__30489.pdf,ok,168967,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30489&CompanyCode=CM1001
+311,S25000012,01-Mar-2018,Synergy Air Products Pvt Ltd : C11220,Approved,30488,S25000012__30488.pdf,ok,168971,https://clan.absstem.com/Print/SalesOrderPrint.aspx?SalesOrderID=30488&CompanyCode=CM1001

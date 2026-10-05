@@ -1,0 +1,35 @@
+{
+  "source_leads": "LeadEntryReport_07-Sep-2026.xlsx",
+  "source_quotes": "QuotationReport_Clean_AutoClosed.xlsx",
+  "outputs": {
+    "clean": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\LeadEntryReport_Clean_Aligned.xlsx",
+    "archive": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\LeadEntryReport_TestArchive.xlsx",
+    "summary": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\LeadEntryReport_Hygiene_Summary.json"
+  },
+  "summary": {
+    "total_rows": 2082,
+    "test_archived": 9,
+    "matched_by_lead_no": 412,
+    "matched_by_quote_no": 4,
+    "unmatched": 1657,
+    "filled_quotation_no": 128,
+    "by_josh_status": {
+      "follow_up": 697,
+      "quoted": 74,
+      "closed_no_action": 271,
+      "qualified": 206,
+      "spam": 331,
+      "new": 68,
+      "duplicate": 74,
+      "lost": 346,
+      "order_won": 6
+    },
+    "by_conversion_stage": {
+      "lead_only": 1657,
+      "lead_quoted": 74,
+      "lead_quote_closed": 336,
+      "lead_quote_order": 6
+    },
+    "orphan_clean_quotes": 65
+  }
+}

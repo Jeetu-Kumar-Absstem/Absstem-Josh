@@ -1,0 +1,298 @@
+[
+  {
+    "Purity": "95",
+    "Flow": "1.6",
+    "AirRequirement": "12",
+    "StorageVolume": "500",
+    "AirVesselVolume": "200",
+    "Model": "IDOS 01 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "2",
+    "AirRequirement": "15",
+    "StorageVolume": "500",
+    "AirVesselVolume": "200",
+    "Model": "IDOS 02 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "3",
+    "AirRequirement": "23",
+    "StorageVolume": "500",
+    "AirVesselVolume": "250",
+    "Model": "IDOS 03 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "4",
+    "AirRequirement": "31",
+    "StorageVolume": "1000",
+    "AirVesselVolume": "300",
+    "Model": "IDOS 04 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "5.6",
+    "AirRequirement": "43",
+    "StorageVolume": "1250",
+    "AirVesselVolume": "500",
+    "Model": "IDOS 05 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "6.5",
+    "AirRequirement": "50",
+    "StorageVolume": "1250",
+    "AirVesselVolume": "500",
+    "Model": "IDOS 06 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "7.6",
+    "AirRequirement": "58",
+    "StorageVolume": "1500",
+    "AirVesselVolume": "500",
+    "Model": "IDOS 07 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "9",
+    "AirRequirement": "69",
+    "StorageVolume": "2000",
+    "AirVesselVolume": "750",
+    "Model": "IDOS 09 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "12.5",
+    "AirRequirement": "96",
+    "StorageVolume": "2500",
+    "AirVesselVolume": "1000",
+    "Model": "IDOS 12.5 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "15",
+    "AirRequirement": "115",
+    "StorageVolume": "3000",
+    "AirVesselVolume": "1250",
+    "Model": "IDOS 15 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "18",
+    "AirRequirement": "138",
+    "StorageVolume": "3500",
+    "AirVesselVolume": "1500",
+    "Model": "IDOS 18 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "22",
+    "AirRequirement": "168",
+    "StorageVolume": "4000",
+    "AirVesselVolume": "2000",
+    "Model": "IDOS 22 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "25",
+    "AirRequirement": "191",
+    "StorageVolume": "5000",
+    "AirVesselVolume": "2000",
+    "Model": "IDOS 25 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "30",
+    "AirRequirement": "230",
+    "StorageVolume": "6000",
+    "AirVesselVolume": "2500",
+    "Model": "IDOS 30 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "40",
+    "AirRequirement": "306",
+    "StorageVolume": "7000",
+    "AirVesselVolume": "3000",
+    "Model": "IDOS 40 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "45",
+    "AirRequirement": "344",
+    "StorageVolume": "8000",
+    "AirVesselVolume": "3500",
+    "Model": "IDOS 45 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "50",
+    "AirRequirement": "383",
+    "StorageVolume": "10000",
+    "AirVesselVolume": "4000",
+    "Model": "IDOS 50 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "65",
+    "AirRequirement": "497",
+    "StorageVolume": "13000",
+    "AirVesselVolume": "5000",
+    "Model": "IDOS 60 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "75",
+    "AirRequirement": "574",
+    "StorageVolume": "15000",
+    "AirVesselVolume": "6000",
+    "Model": "IDOS 75 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "90",
+    "AirRequirement": "689",
+    "StorageVolume": "20000",
+    "AirVesselVolume": "8000",
+    "Model": "IDOS 90 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "110",
+    "AirRequirement": "842",
+    "StorageVolume": "20000",
+    "AirVesselVolume": "8000",
+    "Model": "IDOS 110 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "130",
+    "AirRequirement": "995",
+    "StorageVolume": "25000",
+    "AirVesselVolume": "10000",
+    "Model": "IDOS 130 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "150",
+    "AirRequirement": "1148",
+    "StorageVolume": "30000",
+    "AirVesselVolume": "12000",
+    "Model": "IDOS 150 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "200",
+    "AirRequirement": "1530",
+    "StorageVolume": "40000",
+    "AirVesselVolume": "16000",
+    "Model": "IDOS 200 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "250",
+    "AirRequirement": "1913",
+    "StorageVolume": "50000",
+    "AirVesselVolume": "20000",
+    "Model": "IDOS 250 B"
+  },
+  {
+    "Purity": "95",
+    "Flow": "2",
+    "AirRequirement": "15",
+    "StorageVolume": "500",
+    "AirVesselVolume": "200",
+    "Model": "IDOS 2C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "3",
+    "AirRequirement": "23",
+    "StorageVolume": "500",
+    "AirVesselVolume": "250",
+    "Model": "IDOS 3C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "4",
+    "AirRequirement": "31",
+    "StorageVolume": "1000",
+    "AirVesselVolume": "300",
+    "Model": "IDOS 4C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "5",
+    "AirRequirement": "38",
+    "StorageVolume": "1250",
+    "AirVesselVolume": "500",
+    "Model": "IDOS 5C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "7",
+    "AirRequirement": "54",
+    "StorageVolume": "1500",
+    "AirVesselVolume": "500",
+    "Model": "IDOS 7C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "9",
+    "AirRequirement": "69",
+    "StorageVolume": "2000",
+    "AirVesselVolume": "750",
+    "Model": "IDOS 9C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "12.5",
+    "AirRequirement": "96",
+    "StorageVolume": "2500",
+    "AirVesselVolume": "1000",
+    "Model": "IDOS 12.5C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "15",
+    "AirRequirement": "115",
+    "StorageVolume": "3000",
+    "AirVesselVolume": "1250",
+    "Model": "IDOS 15 C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "18",
+    "AirRequirement": "138",
+    "StorageVolume": "3500",
+    "AirVesselVolume": "1500",
+    "Model": "IDOS 18 C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "20",
+    "AirRequirement": "153",
+    "StorageVolume": "4000",
+    "AirVesselVolume": "2000",
+    "Model": "IDOS 20 C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "25",
+    "AirRequirement": "191",
+    "StorageVolume": "5000",
+    "AirVesselVolume": "2000",
+    "Model": "IDOS 25 C"
+  },
+  {
+    "Purity": "95",
+    "Flow": "30",
+    "AirRequirement": "230",
+    "StorageVolume": "6000",
+    "AirVesselVolume": "2500",
+    "Model": "IDOS 30 C"
+  }
+]

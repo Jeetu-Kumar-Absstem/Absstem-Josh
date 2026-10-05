@@ -1,0 +1,172 @@
+[
+    {
+        "CompressorModel": "C003F0014",
+        "KW": "3 KW",
+        "AIRFLOW": "14 CFM"
+    },
+    {
+        "CompressorModel": "C004F0020",
+        "KW": "4 KW",
+        "AIRFLOW": "20 CFM"
+    },
+    {
+        "CompressorModel": "C005F0027",
+        "KW": "5.5 KW",
+        "AIRFLOW": "27 CFM"
+    },
+    {
+        "CompressorModel": "C007F0046",
+        "KW": "7.5 KW",
+        "AIRFLOW": "46 CFM"
+    },
+    {
+        "CompressorModel": "C011F0066",
+        "KW": "11 KW",
+        "AIRFLOW": "66 CFM"
+    },
+    {
+        "CompressorModel": "C015F0094",
+        "KW": "15 KW",
+        "AIRFLOW": "94 CFM"
+    },
+    {
+        "CompressorModel": "C018F0113",
+        "KW": "18.5 KW",
+        "AIRFLOW": "113 CFM"
+    },
+    {
+        "CompressorModel": "C022F0127",
+        "KW": "22 KW",
+        "AIRFLOW": "127 CFM"
+    },
+    {
+        "CompressorModel": "C022E0145",
+        "KW": "22 KW",
+        "AIRFLOW": "145 CFM"
+    },
+    {
+        "CompressorModel": "C026F0171",
+        "KW": "26 KW",
+        "AIRFLOW": "171 CFM"
+    },
+    {
+        "CompressorModel": "C030F0205",
+        "KW": "30 KW",
+        "AIRFLOW": "205 CFM"
+    },
+    {
+        "CompressorModel": "C037F0250",
+        "KW": "37 KW",
+        "AIRFLOW": "254 CFM"
+    },
+    {
+        "CompressorModel": "C045F0275",
+        "KW": "45 KW",
+        "AIRFLOW": "275 CFM"
+    },
+    {
+        "CompressorModel": "C045E0315",
+        "KW": "45 KW",
+        "AIRFLOW": "315 CFM"
+    },
+    {
+        "CompressorModel": "C055F0360",
+        "KW": "55 KW",
+        "AIRFLOW": "360 CFM"
+    },
+    {
+        "CompressorModel": "C055E0390",
+        "KW": "55 KW",
+        "AIRFLOW": "394 CFM"
+    },
+    {
+        "CompressorModel": "C075F0520",
+        "KW": "75 KW",
+        "AIRFLOW": "520 CFM"
+    },
+    {
+        "CompressorModel": "C090F0600",
+        "KW": "90 KW",
+        "AIRFLOW": "602 CFM"
+    },
+    {
+        "CompressorModel": "C110F0730",
+        "KW": "110 KW",
+        "AIRFLOW": "734 CFM"
+    },
+    {
+        "CompressorModel": "C132F0890",
+        "KW": "132 KW",
+        "AIRFLOW": "890 CFM"
+    },
+    {
+        "CompressorModel": "C160F1050",
+        "KW": "160 KW",
+        "AIRFLOW": "1050 CFM"
+    },
+    {
+        "CompressorModel": "C180F1200",
+        "KW": "90+90 KW",
+        "AIRFLOW": "1200 CFM"
+    },
+    {
+        "CompressorModel": "C200F1330",
+        "KW": "110+90 KW",
+        "AIRFLOW": "1332 CFM"
+    },
+    {
+        "CompressorModel": "C220F1460",
+        "KW": "110+110 KW",
+        "AIRFLOW": "1460 CFM"
+    },
+    {
+        "CompressorModel": "C250F1800",
+        "KW": "250 KW",
+        "AIRFLOW": "1773 CFM"
+    },
+    {
+        "CompressorModel": "C250E1900",
+        "KW": "250 KW",
+        "AIRFLOW": "1911 CFM"
+    },
+    {
+        "CompressorModel": "C200E1540",
+        "KW": "200 KW",
+        "AIRFLOW": "1540 CFM"
+    },
+    {
+        "CompressorModel": "C315F2200",
+        "KW": "315 KW",
+        "AIRFLOW": "2225 CFM"
+    },
+    {
+        "CompressorModel": "C355F2400",
+        "KW": "355 KW",
+        "AIRFLOW": "2384 CFM"
+    },
+    {
+        "CompressorModel": "C315E2300",
+        "KW": "315 KW",
+        "AIRFLOW": "2295 CFM"
+    },
+    {
+        "CompressorModel": "C355E2500",
+        "KW": "355 KW",
+        "AIRFLOW": "2507 CFM"
+    },
+    {
+        "CompressorModel": "C320F2100",
+        "KW": "160+160 KW",
+        "AIRFLOW": "2100 CFM"
+    },
+    {
+        "CompressorModel": "C260F1800",
+        "KW": "132+132 KW",
+        "AIRFLOW": "1780 CFM"
+    },
+    {
+        "CompressorModel": "C044F0290",
+        "KW": "22+22 KW",
+        "AIRFLOW": "290 CFM"
+    }
+]

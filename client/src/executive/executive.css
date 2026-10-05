@@ -1,0 +1,262 @@
+.executive-command-center {
+  display: grid;
+  gap: 10px;
+  padding: 10px 14px 20px;
+}
+
+.ecc-command-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  background: #ffffff;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.ecc-title-group h1 {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.25;
+}
+
+.ecc-title-group p {
+  margin: 2px 0 0;
+  font-size: 0.75rem;
+  color: #64748b;
+}
+
+.ecc-actions-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ecc-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 0.78125rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+}
+
+.ecc-btn.primary {
+  background: var(--absstem-primary, #0ea5e9);
+  color: #ffffff;
+  border-color: var(--absstem-primary, #0ea5e9);
+}
+
+.ecc-btn.primary:hover {
+  filter: brightness(0.92);
+}
+
+.ecc-btn.secondary {
+  background: #f8fafc;
+  color: #334155;
+  border-color: #cbd5e1;
+}
+
+.ecc-btn.secondary:hover {
+  background: #f1f5f9;
+}
+
+/* Macro KPI Grid (Standardized 4-Column on Desktop/14-inch screens) */
+.ecc-macro-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 1080px) {
+  .ecc-macro-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .ecc-macro-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ecc-macro-card {
+  background: #ffffff;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  border-top: 3px solid var(--absstem-primary, #0ea5e9);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.ecc-macro-card .label {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ecc-macro-card .value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.ecc-macro-card .subtext {
+  font-size: 0.6875rem;
+  color: #94a3b8;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Executive Panels */
+.ecc-panel-grid,
+.ecc-split-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+@media (max-width: 960px) {
+  .ecc-panel-grid,
+  .ecc-split-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ecc-subgrid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+@media (max-width: 960px) {
+  .ecc-subgrid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ecc-panel {
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.ecc-panel-header {
+  padding: 8px 14px;
+  border-bottom: 1px solid #e2e8f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fafafa;
+}
+
+.ecc-panel-header h3 {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.ecc-panel-body {
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Metric Row & Progress Bars */
+.ecc-progress-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ecc-progress-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #334155;
+}
+
+.ecc-progress-bar-bg {
+  width: 100%;
+  height: 6px;
+  background: #f1f5f9;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.ecc-progress-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+/* Visual Matrix Boxes */
+.ecc-metric-box-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 8px;
+}
+
+.ecc-metric-box {
+  background: #f8fafc;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.ecc-metric-box .box-title {
+  font-size: 0.65625rem;
+  font-weight: 600;
+  color: #64748b;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ecc-metric-box .box-value {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Status Chips */
+.ecc-chip {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 8px;
+  font-size: 0.65625rem;
+  font-weight: 700;
+}
+
+.ecc-chip.positive { background: #dcfce7; color: #15803d; }
+.ecc-chip.warning { background: #fef3c7; color: #b45309; }
+.ecc-chip.alert { background: #fee2e2; color: #b91c1c; }
+.ecc-chip.neutral { background: #f1f5f9; color: #475569; }

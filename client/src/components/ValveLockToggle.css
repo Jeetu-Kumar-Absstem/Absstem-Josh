@@ -1,0 +1,151 @@
+/* Valve Lock Toggle — Absstem brand metals + primary lock accent */
+
+.vlt {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  width: 100%;
+  max-width: 440px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid color-mix(in srgb, var(--absstem-gray, #4d4d4f) 28%, #dde5f1);
+  background: linear-gradient(135deg, #f7fafc 0%, #ffffff 55%, #eef4ff 100%);
+  color: var(--ink, #16202b);
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+}
+
+.vlt:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.vlt--locked {
+  border-color: color-mix(in srgb, var(--absstem-primary, #00509e) 45%, transparent);
+  background: color-mix(in srgb, var(--absstem-primary, #00509e) 8%, #ffffff);
+}
+
+.vlt__body {
+  position: relative;
+  width: 112px;
+  height: 44px;
+  flex: 0 0 auto;
+}
+
+.vlt__flange {
+  position: absolute;
+  top: 50%;
+  width: 14px;
+  height: 28px;
+  margin-top: -14px;
+  border-radius: 3px;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--absstem-gray, #4d4d4f) 35%, #ffffff),
+    var(--absstem-gray, #4d4d4f)
+  );
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+
+.vlt__flange--l {
+  left: 0;
+}
+
+.vlt__flange--r {
+  right: 0;
+}
+
+.vlt__bore {
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  top: 50%;
+  height: 14px;
+  margin-top: -7px;
+  border-radius: 3px;
+  background: linear-gradient(180deg, #8a96a2, #3d4650);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  transition: background 220ms cubic-bezier(0.15, 0.05, 0.2, 1);
+}
+
+.vlt--locked .vlt__bore {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--absstem-primary, #00509e) 55%, #ffffff),
+    var(--absstem-primary, #00509e)
+  );
+}
+
+.vlt__stem {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 36px;
+  height: 36px;
+  margin: -18px 0 0 -18px;
+  transform: rotate(0deg);
+  transition: transform 280ms cubic-bezier(0.15, 0.05, 0.2, 1);
+  z-index: 2;
+}
+
+.vlt__stem--locked {
+  transform: rotate(90deg);
+}
+
+.vlt--turning .vlt__stem {
+  transition-timing-function: cubic-bezier(0.55, 0.02, 0.35, 1);
+}
+
+.vlt__wheel {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 3px solid color-mix(in srgb, var(--absstem-gray, #4d4d4f) 40%, #c9d4de);
+  background: #1c252e;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.vlt__spoke {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 22px;
+  height: 3px;
+  margin: -1.5px 0 0 -11px;
+  background: #aebcc8;
+}
+
+.vlt__spoke:nth-child(2) {
+  transform: rotate(90deg);
+}
+
+.vlt__hub {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  margin: -5px 0 0 -5px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #d7e0e8, #7c8b97);
+  z-index: 2;
+}
+
+.vlt__meta {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.vlt__meta strong {
+  font-size: 13px;
+  letter-spacing: 0.06em;
+}
+
+.vlt__meta small {
+  font-size: 12px;
+  color: var(--ink-soft, #415062);
+  line-height: 1.35;
+}

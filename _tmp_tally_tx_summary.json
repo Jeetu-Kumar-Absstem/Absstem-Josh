@@ -1,0 +1,533 @@
+{
+  "encoding": "utf16le",
+  "company": "Absstem Industrial Solutions Private Limited",
+  "reportName": "All Masters",
+  "lines": 2546565,
+  "vouchers": 6938,
+  "minDate": "20220413",
+  "maxDate": "20260831",
+  "salesInvoiceish": 297,
+  "receipts": 402,
+  "payments": 1482,
+  "journals": 3327,
+  "creditNotes": 4,
+  "purchase": 1399,
+  "withStock": 1824,
+  "tiLike": 53,
+  "aiLike": 0,
+  "soLike": 0,
+  "qLike": 0,
+  "topVchTypes": [
+    [
+      "Journal",
+      3201
+    ],
+    [
+      "Payment",
+      1482
+    ],
+    [
+      "Purchase",
+      1326
+    ],
+    [
+      "Receipt",
+      402
+    ],
+    [
+      "Sales",
+      258
+    ],
+    [
+      "Stock Journal",
+      126
+    ],
+    [
+      "Purchase - RCM",
+      61
+    ],
+    [
+      "Debit Note",
+      39
+    ],
+    [
+      "Audit Entry -2023-24",
+      24
+    ],
+    [
+      "Purchase-Import",
+      12
+    ],
+    [
+      "Credit Note",
+      4
+    ],
+    [
+      "Contra",
+      3
+    ]
+  ],
+  "topTypenames": [
+    [
+      "Journal",
+      3201
+    ],
+    [
+      "Payment",
+      1482
+    ],
+    [
+      "Purchase",
+      1326
+    ],
+    [
+      "Receipt",
+      402
+    ],
+    [
+      "Sales",
+      258
+    ],
+    [
+      "Stock Journal",
+      126
+    ],
+    [
+      "Purchase - RCM",
+      61
+    ],
+    [
+      "Debit Note",
+      39
+    ],
+    [
+      "Audit Entry -2023-24",
+      24
+    ],
+    [
+      "Purchase-Import",
+      12
+    ],
+    [
+      "Credit Note",
+      4
+    ],
+    [
+      "Contra",
+      3
+    ]
+  ],
+  "topNumberPrefixes": [
+    [
+      "(blank)",
+      2685
+    ],
+    [
+      "INV",
+      460
+    ],
+    [
+      "ADS",
+      424
+    ],
+    [
+      "2",
+      192
+    ],
+    [
+      "1",
+      111
+    ],
+    [
+      "4",
+      53
+    ],
+    [
+      "TI",
+      53
+    ],
+    [
+      "5",
+      44
+    ],
+    [
+      "AAA",
+      44
+    ],
+    [
+      "6",
+      41
+    ],
+    [
+      "91",
+      32
+    ],
+    [
+      "GST",
+      30
+    ],
+    [
+      "24-25/",
+      28
+    ],
+    [
+      "R",
+      27
+    ],
+    [
+      "55",
+      17
+    ],
+    [
+      "3",
+      16
+    ],
+    [
+      "CIIS",
+      16
+    ],
+    [
+      "72",
+      15
+    ],
+    [
+      "FY",
+      15
+    ],
+    [
+      "25-26/",
+      14
+    ],
+    [
+      "7",
+      13
+    ],
+    [
+      "100",
+      13
+    ],
+    [
+      "1710",
+      13
+    ],
+    [
+      "2024-2",
+      13
+    ],
+    [
+      "360620",
+      12
+    ],
+    [
+      "SS",
+      12
+    ],
+    [
+      "CISPL",
+      12
+    ],
+    [
+      "11",
+      11
+    ],
+    [
+      "108",
+      11
+    ],
+    [
+      "DEL",
+      11
+    ]
+  ],
+  "topParties": [
+    [
+      "ICICI Bank - 663305601118",
+      749
+    ],
+    [
+      "FACEBOOK INDIA ONLINE SERVICES PRIVATE LIMITED",
+      456
+    ],
+    [
+      "ABSSTEM TECHNOLOGIES LLP -(HARYANA)",
+      231
+    ],
+    [
+      "Cartel It Solutions Pvt Ltd",
+      137
+    ],
+    [
+      "AGGARWAL A &amp; ASSOCIATES",
+      125
+    ],
+    [
+      "Absstem Technologies  LLP-(Delhi)",
+      98
+    ],
+    [
+      "R2F Security Solutions (P). Ltd.-(UDYAM-DL-06-0046370",
+      82
+    ],
+    [
+      "SHRI SHYAM ENTERPRISE",
+      71
+    ],
+    [
+      "ASSAM BEARING PVT LTD-(Delhi)",
+      66
+    ],
+    [
+      "R D DUTTA &amp; CO PVT LTD-(UDYAM-DL-01-0000915)",
+      65
+    ],
+    [
+      "GOOGLE INDIA PVT LTD",
+      64
+    ],
+    [
+      "TCI FREIGHT",
+      64
+    ],
+    [
+      "Synergy Air Products Pvt Ltd.",
+      59
+    ],
+    [
+      "Subros Limited-(HR)",
+      55
+    ],
+    [
+      "THE KABIR INTERNATIONAL-(UDYAM-HR-05-0028694)",
+      47
+    ]
+  ],
+  "topStockItems": [
+    [
+      "Nitrogen Gas Generator",
+      186
+    ],
+    [
+      "Storage Tank",
+      146
+    ],
+    [
+      "Asscessories",
+      64
+    ],
+    [
+      "Oil filter element G 07 ZP",
+      32
+    ],
+    [
+      "Oil filter element G 07XP",
+      30
+    ],
+    [
+      "ACCESSORIES",
+      28
+    ],
+    [
+      "PPM Oxygen Sensor",
+      25
+    ],
+    [
+      "Base Frame",
+      25
+    ],
+    [
+      "OIL FILTER ELEMENT G07 C",
+      24
+    ],
+    [
+      "Oxygen Analyzer Sensor",
+      22
+    ],
+    [
+      "Filter Elements",
+      18
+    ],
+    [
+      "Tank 500 Ltr.",
+      18
+    ],
+    [
+      "5 Port SOV with 24 VDC Coil",
+      16
+    ],
+    [
+      "Air Receiver",
+      16
+    ],
+    [
+      "PPM  Oxygen Analyzer Sensor",
+      13
+    ],
+    [
+      "Oxygen Gas Booster Compressor",
+      12
+    ],
+    [
+      "Oil Filter Element - ABS F060 ACS",
+      12
+    ],
+    [
+      "Desiccant Kit",
+      11
+    ],
+    [
+      "PPm Oxygen Sensor-(Import)",
+      11
+    ],
+    [
+      "Desicant Pre Filter Element",
+      10
+    ]
+  ],
+  "sampleSales": [
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/01",
+      "date": "20220927",
+      "party": "Synergy Air Products Pvt Ltd.",
+      "amount": "6045.00",
+      "items": [
+        "Desicant Pre Filter Element",
+        "Desiccant Kit",
+        "Seals &amp; O Ring Spare Kit"
+      ]
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/02",
+      "date": "20221007",
+      "party": "Synergy Air Products Pvt Ltd.",
+      "amount": "-59000.00",
+      "items": []
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/03",
+      "date": "20221028",
+      "party": "Synergy Air Products Pvt Ltd.",
+      "amount": "22500.00",
+      "items": [
+        "PPM Oxygen Sensor",
+        "Percentage Analyzer Sensor"
+      ]
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/04",
+      "date": "20221130",
+      "party": "Absstem Technologies  LLP-(Delhi)",
+      "amount": "-654900.00",
+      "items": []
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/05",
+      "date": "20230102",
+      "party": "Absstem Technologies  LLP-(Delhi)",
+      "amount": "-1373520.00",
+      "items": []
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/06",
+      "date": "20230201",
+      "party": "Synergy Air Products Pvt Ltd.",
+      "amount": "19000.00",
+      "items": [
+        "Air Line Oil filter elements 07050-P",
+        "Air Line Oil filter elements 07050-M",
+        "Air Line Oil filter elements 07050-S"
+      ]
+    },
+    {
+      "type": "Purchase",
+      "num": "TI-271/22-23",
+      "date": "20230203",
+      "party": "B - T E C H E NG I NE E R S",
+      "amount": "-160000.00",
+      "items": [
+        "Air Receiver"
+      ]
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/07",
+      "date": "20230203",
+      "party": "PJS OVERSEAS LTD",
+      "amount": "230000.00",
+      "items": [
+        "Air Receiver"
+      ]
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/08",
+      "date": "20230209",
+      "party": "Sanden Vikas (India) Pvt. Ltd.-(HR)-Sec-57",
+      "amount": "11880.00",
+      "items": [
+        "Air Filter Element LFA080-AO",
+        "Air Filter Element LFA-080-AA",
+        "Air Filter Element LFA-080-ACS"
+      ]
+    },
+    {
+      "type": "Sales",
+      "num": "INV-AI/22-23/09",
+      "date": "20230214",
+      "party": "Mistcold Sales &amp; Services Pvt Ltd.",
+      "amount": "350000.00",
+      "items": [
+        "Absstem Industrial Oxygen Plant(PSA Only)"
+      ]
+    }
+  ],
+  "sampleReceipts": [
+    {
+      "type": "Receipt",
+      "num": "1",
+      "date": "20220607",
+      "party": "ICICI Bank - 663305601118",
+      "amount": "700000.00"
+    },
+    {
+      "type": "Receipt",
+      "num": "2",
+      "date": "20220613",
+      "party": "ICICI Bank - 663305601118",
+      "amount": "700000.00"
+    },
+    {
+      "type": "Receipt",
+      "num": "3",
+      "date": "20220616",
+      "party": "ICICI Bank - 663305601118",
+      "amount": "700000.00"
+    },
+    {
+      "type": "Receipt",
+      "num": "4",
+      "date": "20221010",
+      "party": "Synergy Air Products Pvt Ltd.",
+      "amount": "348043.00"
+    },
+    {
+      "type": "Receipt",
+      "num": "5",
+      "date": "20221029",
+      "party": "Synergy Air Products Pvt Ltd.",
+      "amount": "48734.00"
+    },
+    {
+      "type": "Receipt",
+      "num": "6",
+      "date": "20221102",
+      "party": "Absstem Technologies  LLP-(Delhi)",
+      "amount": "500000.00"
+    }
+  ]
+}

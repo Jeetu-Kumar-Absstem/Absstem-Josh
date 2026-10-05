@@ -1,0 +1,60 @@
+company,item_code,item_name,category,group,clan_active
+AT,A000007,"Air Compressor, 15 Kw - 1- RSB15, Make-  IR, Model-RSB15,  S",Air Package,Air Compressor - IR,YES
+AT,A000843,Air DryerIngersoll RandD240iN-A,Electrical Item,Dryer IR,YES
+AT,EE350,"Switch,Selector-with Element NO(Two Way),L&T,,,,,,,",Electrical and Electronics,Switch,YES
+AT,EEB111,"Blanking Plug, PVC, Grey, Size 22.5 mm",Electrical and Electronics-Bulk,Blanking Plug,YES
+AT,EEB112,"Ferrule,Sleeve,,PVC,Blank,,6 mm2",Electrical and Electronics-Bulk,Ferrule,YES
+AT,EEB113,"Diode,Unidirectional,TVS,P6KE27CA",Electrical and Electronics-Bulk,Diode,YES
+AT,FA291,"Office,Pen Drive,Cruzer Blade (USB 2.0 Flash Drive) - 64 GB,SanDisk",Fixed Assets,Office,YES
+AT,FA292,"Factory,Tap, 2 IN 1 WAY, 1/2"", BRASS, CHROME FINISH, FOR BATHROOM",Fixed Assets,Factory,YES
+AT,FA293,"Factory,Hand Pallet,5000Kgs,Width/ 550 mm",Fixed Assets,Factory,YES
+AT,FI170,"Pressure Vessel,Tank-ST (As Per AIS),ID 1720 mm,3000 mm,MS,8 mm,10 mm,8.8 Barg,13.2 Barg,(0°C - 80°C",Fabricated Items,Pressure Vessel,YES
+AT,FI171,"Pressure Vessel,Tank-F (As Per AIS),ID 1200,1050 mm,MS,10 mm,10 mm,8.8 Barg,13.2 Barg,(0°C - 80°C),",Fabricated Items,Pressure Vessel,YES
+AT,FI172,"Pressure Vessel,Tank-F (As Per DRG),ID 1200 mm,3000 mm,MS,6 mm,8 mm,8.27 Barg,12.3 Barg,(0°C - 80°C)",Fabricated Items,Pressure Vessel,YES
+AT,FI173,"Pressure Vessel,Tank-F (As Per DRG),ID 1500 mm,3000 mm,MS,8 mm,10 mm,8.27 Barg,12.3 Barg,(0°C - 80°C",Fabricated Items,Pressure Vessel,YES
+AT,FI174,"Pressure Vessel,Tank-ST (As Per DRG),ID 1200 mm,2250 mm,MS,6 mm,8 mm,8.27 Barg,12.3 Barg,(0°C - 80°C",Fabricated Items,Pressure Vessel,YES
+AT,FI175,"Pressure Vessel,Tank-ST (As Per DRG),ID 1000 mm,2250 mm,MS,6 mm,8 mm,8.27 Barg,12.3 Barg,(0°C - 80°C",Fabricated Items,Pressure Vessel,YES
+AT,FIL227,"Air Line Filter,With Element,2.5"",FT- G 017-ZP,1 Micron,Chromed Plated Aluminum,16 Barg,(1°C - 80°C)",Filter,Air Line Filter,YES
+AT,FIL228,"Air Line Filter,With Element,2.5"",FT- G 017-XP,0.01 Micron,Chromed Plated Aluminum,16 Barg,(1°C - 80",Filter,Air Line Filter,YES
+AT,FIL229,"Air Line Filter,With Element,2.5"",FT- G 017-C,0.003 Mg/m3,Chromed Plated Aluminum,16 Barg,(1°C - 80°",Filter,Air Line Filter,YES
+AT,FIL230,"Filter Element,FT- ELFA 120 AO,1 micron,6000-8000 Hr,,16 Barg,(1°C - 80°C)",Filter,Filter Element,YES
+AT,FIL231,"Filter Element,FT- ELFA 120 AA,01 micron,6000-8000 Hr,,16 Barg,1C - 80C",Filter,Filter Element,YES
+AT,FIL232,"Filter Element,FT- ELFA 120 ACS,0.003 Mg/m3,6000-8000 Hr,,16 Barg,(1°C - 80°C)",Filter,Filter Element,YES
+AT,IIOT01,IIOT01,IIOT,IIOT -01,YES
+AT,MI119,"Pressure Gauge,Digital,1/4"",0-100 Kg/cm2,Bottom Connection,SS,,Nishkaa-NIDGR705,Male-BSP,(-20°C - 85",Measuring Instrument,Pressure Gauge,YES
+AT,MI120,"Flowmeter,Transmitter,Digital Display,,,,,E+E -DN40,4-20mA,Air/Nitrogen,",Measuring Instrument,Flowmeter,YES
+AT,PF928,"Push and Press, 90° Female Elbow, 42 mm × 1.5"", SS-304, Insta Pressfit",Piping and Fittings,Push and Press,YES
+AT,PF929,"Hex Reducer, 1"" × 1.5"", SS, 0–10 Barg, 100°C, Male-NPT, Insta Pressfit",Piping and Fittings,Push and Press,YES
+AT,PF930,"Push and Press, Tee, 76 mm × 1/2"", SS-304, Insta Pressfit",Piping and Fittings,Push and Press,YES
+AT,PF931,"Push and Press, Male Adapter, 76 mm × 2.5"", SS-304, Insta Pressfit",Piping and Fittings,Push and Press,YES
+AT,PF932,"Push and Press, Union, 76 mm, SS-304, Insta Pressfit",Piping and Fittings,Push and Press,YES
+AT,PF933,"Push and Press, Pipe, 76 mm, SS-304, Insta Pressfit",Piping and Fittings,Push and Press,YES
+AT,PF934,"Washer,18 mm,Plain,MS,",Piping and Fittings,Washer,YES
+AT,PF935,"Bolt,Hex,18 X 80 mm,MS-HTB,Metric Thread,",Piping and Fittings,Bolt,YES
+AT,PF936,"Bush Reducer,2"" X 1/2"",SS-304,0-10 Barg,100° C,NPT",Piping and Fittings,Bush Reducer,YES
+AT,SC98,"Service,Repair Charge,Printer",Service Charges,Service,YES
+AT,SS545,"Compressor Spare,Breakdown,Valve, Check W/orifice 1/4 in BSPT X 6 MM Tube ,11 KW,IR,22380216,",Service Spares,Compressor Spare,YES
+AT,SS546,"Compressor Spare,Breakdown,Insert, 6 MM Plastic Tube ,11 KW,IR,22770069,",Service Spares,Compressor Spare,YES
+AT,SS547,"Compressor Spare,Breakdown,CLAMP HOSE ID 1.50 - 2.0 ,11 KW,IR,95235156,",Service Spares,Compressor Spare,YES
+AT,SS548,"Compressor Spare,Breakdown,CAGE THERMAL VALVE ,11 KW,IR,22856991,",Service Spares,Compressor Spare,YES
+AT,SS549,"Compressor Spare,Breakdown,Spring Thermal Valve ,11 KW,IR,22186696,",Service Spares,Compressor Spare,YES
+AT,SS550,"Compressor Spare,Breakdown,ELBOW 90 STRAIGHT THREAD 37 DEG FLARED TUBE FITTING ,11 KW,IR,95052379,",Service Spares,Compressor Spare,YES
+AT,SS551,"Compressor Spare,Breakdown,HOSE 3/4"" X 628MM LONG ,11 KW,IR,85560274,",Service Spares,Compressor Spare,YES
+AT,SS552,"Compressor Spare,Breakdown,TEE MALE RUN 1/4 BSPT ,11 KW,IR,92931518,",Service Spares,Compressor Spare,YES
+AT,SS553,"Compressor Spare,Breakdown,CONNECTOR, MALE STRAIGHT 6MM X 1/4” BSPT (R1/4) ,11 KW,IR,92788959,",Service Spares,Compressor Spare,YES
+AT,SS554,"Compressor Spare,Breakdown,HEX HEAD PLUG 1 1/16-12UN-2A WITH O-RING ,11 KW,IR,39322276,",Service Spares,Compressor Spare,YES
+AT,SS555,"Compressor Spare,Breakdown,CONNECTOR, METRU-LOK 6MM TUBE X 1/4'' FNPT,11 KW,IR,22420376,",Service Spares,Compressor Spare,YES
+AT,SS556,"Compressor Spare,Breakdown,SWITCH PRESSURE 100-115 PSI,11 KW,IR,23621600,",Service Spares,Compressor Spare,YES
+AT,SS557,"Compressor Spare,Breakdown,CONNECTOR, ORIFICE W/DIVERTER,11 KW,IR,22601926,",Service Spares,Compressor Spare,YES
+AT,SS558,"Compressor Spare,Breakdown,NIPPLE CLOSE 1/4 BSPT,11 KW,IR,92354539,",Service Spares,Compressor Spare,YES
+AT,SS559,"Compressor Spare,Breakdown,HEX PIPE PLUG 7/16 -20UNF-2A WITH O-RING,11 KW,IR,95938965,",Service Spares,Compressor Spare,YES
+AT,SS560,"Compressor Spare,Breakdown,VALVE, PILOT 95-110 PSIG,11 KW,IR,22407365,",Service Spares,Compressor Spare,YES
+AT,SS561,"Compressor Spare,Breakdown,Supply terminal 3p 3RV2935 ,18 KW,Kaeser ASK34T,7314005060,",Service Spares,Compressor Spare,YES
+AT,SS562,"Compressor Spare,Breakdown,V-ribber belt ,18 KW,Kaeser ASK34T,648350,",Service Spares,Compressor Spare,YES
+AT,SS563,"Compressor Spare,Breakdown,KIT revision inlet valve DN60 ,11 KW,Kaeser SK22T,4032970",Service Spares,Compressor Spare,YES
+AT,SS564,"Compressor Spare,Breakdown,Switch, Selector-with Filter (Three Way) ,Schneider, XB5AD21N",Service Spares,Compressor Spare,YES
+AT,TOO133,"Tap Bits,Set,18 X 2.5 mm,HSS,",Tools,Tap Bits,YES
+AT,TOO134,"Cutter,Hole-Saw, 22 mm,Tungsten Carbide  Tipped,",Tools,Cutter,YES
+AT,TOO135,"Cutter,Hole-Saw,12 mm,Tungsten Carbide Tipped,",Tools,Cutter,YES
+AT,TOO136,"Air Gun, 1/4"", Cleaning",Tools,Air Gun,YES
+AT,VAL180,"NRV,1.1/4 "",Brass Alloy,GC-CIM-30- Spring Loaded,Female-NPT,,Air / Nitrogen,PN 20,(–10 to 110°C)",Valves,NRV,YES

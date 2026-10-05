@@ -1,0 +1,1637 @@
+status,item_code,item_name,category,group,item_type,active
+MISSING_IN_JOSH_AI,1001,"TEST","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,20000HPT40,"20000 Ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,40000HPT40,"40000 Ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,5000HPT40,"5000 Ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,A000021-1,"Air Filter","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ABF,"ABF","Medo","ABF","Equipment",NO
+MISSING_IN_JOSH_AI,ABSCMS,"ABSCMS-KG","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,ABSKID-820,"SKID MOUNTING","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AIRCOMP15KWPACK,"AIR COMP 15KW PACK","ABSSTEM COMPRESSOR PACKAGE","AIR COMPRESSOR & REF DRYER","Equipment",YES
+MISSING_IN_JOSH_AI,ANALYZER,"Helium Analyzer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF012C,"Filter Element G012 C FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF012X,"Filter Element G012 XP FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF012Z,"Filter Element G012 ZP FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF014A,"Filter Element SFPL 0145 Micron-0-01 Make SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF014C,"Filter Element SFPL 0145 Micron-1 Make SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF017A,"Element, Filter Element L 017 AA- FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF017C,"Element, Filter Element L 017 ACS- FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF017O,"Element, Filter Element L 017AO- FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF025A,"Air Filter Element L025AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF025C,"Air Filter Element L025ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF025O,"Air Filter Element L025AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF030A,"Parker Filter element P030-AA Q2 - FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF030C,"Parker Filter element P030-ACS Q2 - FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF030O,"Parker  Filter element  P030-AO Q2 - FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF040A,"Air Filter Element YF-040 AA - Q2 - SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF040C,"Air Filter Element YF-040 ACS - Q2 - SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF040O,"Air Filter Element YF-040 AO - Q2 - SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF058A,"Filter Element L058 AA FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF058C,"Filter element L058 ACS FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF058D,"Filter Element ED-058 C/G 09 C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF058O,"Filter element L058 AO FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF058X,"Filter Element ED-058 XP/G 09 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF058Z,"Filter Element ED-058 ZP/G 09 ZP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF060A,"Element ELFA060 AA FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF060C,"Element ELFA060ACS FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF060O,"Element ELFA060AO FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF080A,"Air Filter element ELFA 080AA - FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF080C,"Air Filter element ELFA 080ACS - FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF080O,"Air Filter element ELFA 080AO - FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF100A,"Filter Element ELFA 100 AA ( FT)","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF100C,"Filter Element ELFA 100 ACS ( FT)","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF100O,"Filter Element ELFA 100 AO ( FT)","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF114C,"Filter Element- EZ 1140- C - A FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF114H,"Filter Element- EZ 1140- H - XP FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF114U,"Filter Element- EZ 1140- U - ZP FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF145A,"Air Filter Element L145AA FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF145C,"Air Filter Element L145ACS FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF145S,"Air Filter Element L145AO FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF186M,"Filter Element 0186 M SF","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF186S,"Filter Element 0186 S SF","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF202C,"Filter Element- EZ 2020- C - A FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF202H,"Filter Element- EZ 2020- H - XP FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF202U,"Filter Element- EZ 2020- U - ZP FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF207A,"FILTER ELEMENT, 22075A SFPL-0306 S Make-SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF207R,"FILTER ELEMENT, 22075XR SFPL-0306 P Make-SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF207S,"FILTER ELEMENT, 22075XS SFPL-0306 M Make-SFPL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF220A,"Element L220 AA FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF220C,"Element L220 ACS FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF220O,"Element L220 AO FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF227A,"Element-E22075A","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF227M,"Element-E22075M","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF227S,"Element-E22075S","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF227Z,"Elemente-E22075Z","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF540A,"Pre Filter Element 5/40","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF705M,"Filter Element 07050 M","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF705P,"Filter Element 07050 P","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAF705S,"Filter Element 07050 S","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAV050,"Size - 1/2 inch, Type - Pneumatic Angle Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAV075,"Size - 3/4 inch, Type - Pneumatic Angle Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAV100,"Size - 1 inch, Type - Pneumatic Angle Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAV150,"Size - 1.5 inch, Type - Pneumatic Angle Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONAV200,"Size - 2 inch, Type - Pneumatic Angle Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONES010,"Type - Electrochemical ( percentage )","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONES020,"Type - Electrochemical ( PPM)","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONME050,"Muffler Element 1/2 inch  M05","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONME075,"Muffler Element 3/4 inch M07","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONME100,"Muffler Element 1 inch  M10","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONME150,"Muffler Element 1.5 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONME200,"Muffler Element 2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,AONSV050,"Type - 5 Port SOV","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ARC1,"Syngas Booster Compressor","ABSSTEM COMPRESSOR PACKAGE","AIR COMPRESSOR & REF DRYER","Part",NO
+MISSING_IN_JOSH_AI,ARC2,"30 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Part",YES
+MISSING_IN_JOSH_AI,ARC3,"IR-7TNLX 125PSI 7 5 HP","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,ARC4,"800 CFM Refrigerated Air dryer","ABSSTEM COMPRESSOR PACKAGE","Absstem Refrigerated Air Dryer","Part",YES
+MISSING_IN_JOSH_AI,ARC5,"22500 SCMH Air Dryer","ABSSTEM COMPRESSOR PACKAGE","Absstem Refrigerated Air Dryer","Equipment",YES
+MISSING_IN_JOSH_AI,AS-IDOS-01,"Absstem Shield - IDOS 01","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS01,"Absstem Shield-IDOS 01","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS01B,"Absstem Shield-IDOS 01 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS02,"Absstem Shield-IDOS 02","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS02B,"Absstem Shield-IDOS 02 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS03,"Absstem Shield-IDOS 03","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS03B,"Absstem Shield-IDOS 03 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS04,"Absstem Shield-IDOS 04","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS04B,"Absstem Shield-IDOS 04 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS05,"Absstem Shield-IDOS 05","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS05B,"Absstem Shield-IDOS 05 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS06,"Absstem Shield-IDOS 06","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS06B,"Absstem Shield-IDOS 06 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS07,"Absstem Shield-IDOS 07","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS07B,"Absstem Shield-IDOS 07 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS09,"Absstem Shield-IDOS 09","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS09B,"Absstem Shield-IDOS 09 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS110,"Absstem Shield-IDOS 110","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS110B,"Absstem Shield-IDOS 110 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS12.5,"Absstem Shield-IDOS 12.5","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS12.5B,"Absstem Shield-IDOS 12.5 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS130,"Absstem Shield-IDOS 130","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS130B,"Absstem Shield-IDOS 130 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS15,"Absstem Shield-IDOS 15","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS150,"Absstem Shield-IDOS 150","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS150B,"Absstem Shield-IDOS 150 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS15B,"Absstem Shield-IDOS 15 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS18,"Absstem Shield-IDOS 18","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS18B,"Absstem Shield-IDOS 18 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS200,"Absstem Shield-IDOS 200","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS200B,"Absstem Shield-IDOS 200 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS22,"Absstem Shield-IDOS 22","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS22B,"Absstem Shield-IDOS 22 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS25,"Absstem Shield-IDOS 25","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS250,"Absstem Shield-IDOS 250","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS250B,"Absstem Shield-IDOS 250 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS25B,"Absstem Shield-IDOS 25 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS30,"Absstem Shield-IDOS 30","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS30B,"Absstem Shield-IDOS 30 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS40,"Absstem Shield-IDOS 40","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS40B,"Absstem Shield-IDOS 40 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS45,"Absstem Shield-IDOS 45","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS45B,"Absstem Shield-IDOS 45 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS50,"Absstem Shield-IDOS 50","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS50B,"Absstem Shield-IDOS 50 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS65,"Absstem Shield-IDOS 65","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS65B,"Absstem Shield-IDOS 65 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS75,"Absstem Shield-IDOS 75","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS75B,"Absstem Shield-IDOS 75 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS90,"Absstem Shield-IDOS 90","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-IDOS90B,"Absstem Shield-IDOS 90 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-N2-OTH,"Absstem Shield- N2-Any Make","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-N2B-OTH,"Absstem Shield-N2B-Any Make","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN01,"Absstem Shield-nGEN 01","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN01B,"Absstem Shield-nGEN 01 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN01P,"Absstem Shield-nGEN 01 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN01PB,"Absstem Shield-nGEN 01 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN02,"Absstem Shield-nGEN 02","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN02B,"Absstem Shield-nGEN 02 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN04,"Absstem Shield-nGEN 04","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN04B,"Absstem Shield-nGEN 04 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN05,"Absstem Shield-nGEN 05","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN05B,"Absstem Shield-nGEN 05 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN05P,"Absstem Shield-nGEN 05 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN05PB,"Absstem Shield-nGEN 05 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN07,"Absstem Shield-nGEN 07","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN07B,"Absstem Shield-nGEN 07 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN08,"Absstem Shield-nGEN 08","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN08B,"Absstem Shield-nGEN 08 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN09,"Absstem Shield-nGEN 09","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN09B,"Absstem Shield-nGEN 09 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN10,"Absstem Shield-nGEN 10","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN100,"Absstem Shield-nGEN 100","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN100B,"Absstem Shield-nGEN 100 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN100P,"Absstem Shield-nGEN 100 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN100PB,"Absstem Shield-nGEN 100 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN10B,"Absstem Shield-nGEN 10 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN10P,"Absstem Shield-nGEN 10 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN10PB,"Absstem Shield-nGEN 10 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN110,"Absstem Shield-nGEN 110","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN110B,"Absstem Shield-nGEN 110 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN110P,"Absstem Shield-nGEN 110 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN110PB,"Absstem Shield-nGEN 110 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN120,"Absstem Shield-nGEN 120","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN120B,"Absstem Shield-nGEN 120 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN120P,"Absstem Shield-nGEN 120 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN120PB,"Absstem Shield-nGEN 120 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN130,"Absstem Shield-nGEN 130","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN130B,"Absstem Shield-nGEN 130 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN130P,"Absstem Shield-nGEN 130 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN130PB,"Absstem Shield-nGEN 130 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN140,"Absstem Shield-nGEN 140","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN140B,"Absstem Shield-nGEN 140 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN140P,"Absstem Shield-nGEN 140 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN140PB,"Absstem Shield-nGEN 140 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN150,"Absstem Shield-nGEN 150","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN150B,"Absstem Shield-nGEN 150 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN150P,"Absstem Shield-nGEN 150 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN150PB,"Absstem Shield-nGEN 150 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN160,"Absstem Shield-nGEN 160","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN160B,"Absstem Shield-nGEN 160 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN160P,"Absstem Shield-nGEN 160 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN160PB,"Absstem Shield-nGEN 160 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN170,"Absstem Shield-nGEN 170","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN170B,"Absstem Shield-nGEN 170 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN170P,"Absstem Shield-nGEN 170 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN170PB,"Absstem Shield-nGEN 170 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN20,"Absstem Shield-nGEN 20","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN20B,"Absstem Shield-nGEN 20 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN20P,"Absstem Shield-nGEN 20 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN20PB,"Absstem Shield-nGEN 20 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN30,"Absstem Shield-nGEN 30","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN30B,"Absstem Shield-nGEN 30 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN30P,"Absstem Shield-nGEN 30 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN30PB,"Absstem Shield-nGEN 30 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN40,"Absstem Shield-nGEN 40","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN40B,"Absstem Shield-nGEN 40 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN40P,"Absstem Shield-nGEN 40 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN40PB,"Absstem Shield-nGEN 40 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN50,"Absstem Shield-nGEN 50","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN50B,"Absstem Shield-nGEN 50 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN50P,"Absstem Shield-nGEN 50 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN50PB,"Absstem Shield-nGEN 50 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN60,"Absstem Shield-nGEN 60","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN60B,"Absstem Shield-nGEN 60 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN60P,"Absstem Shield-nGEN 60 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN60PB,"Absstem Shield-nGEN 60 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN70,"Absstem Shield-nGEN 70","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN70B,"Absstem Shield-nGEN 70 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN70P,"Absstem Shield-nGEN 70 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN70PB,"Absstem Shield-nGEN 70 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN80,"Absstem Shield-nGEN 80","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN80B,"Absstem Shield-nGEN 80 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN80P,"Absstem Shield-nGEN 80 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN80PB,"Absstem Shield-nGEN 80 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN90,"Absstem Shield-nGEN 90","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN90B,"Absstem Shield-nGEN 90 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN90P,"Absstem Shield-nGEN 90 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-NGEN90PB,"Absstem Shield-nGEN 90 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-O2-OTH,"Absstem Shield- O2-Any Make","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,AS-O2B-OTH,"Absstem Shield-O2B-Any Make","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH1,"Dew Point Transmitter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH10,"OIL FILTER ELEMENT K 145 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH100,"Cello Tape","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH101,"PVC Tape","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH102,"LG Interactive Screen","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH103,"Led TV Floor Mount Stand","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH104,"Lg Window A/C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH105,"Microteck Inverter Ups","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH106,"Microteck Inverter Battery","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH107,"inverter Plastic Cabinet","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH108,"Office Chairs","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH109,"office Table","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH11,"PPM OXYGEN SENSOR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH110,"Wall Fan","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH111,"Fire Bucket","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH112,"Fire Extinguisher","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH113,"Microwave Oven","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH114,"1 1/2'' Pressure Regulating VALVE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH115,"Pressure Gauge for PRV","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH116,"Oil Filter For RSE 45","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH117,"Air Filter For RSE 45","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH118,"Filter Elements F 040 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH119,"Filter Elements F 040 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH12,"ANGLE VALVE 2 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH120,"Filter Elements F 040 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH121,"Gas Booster Pump For Hydrogen","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH122,"Led TV","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH123,"Box File","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH124,"Cobra File 888","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH125,"Pen","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,ASH126,"Writing Paid No-22","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH127,"Steel Scale 12''","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,ASH128,"A/4 Paper","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH129,"Natraj Pencil","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH13,"N2 PLANT SILENCER","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH130,"Eraser Apsara 3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH131,"Natraj Sharpener","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH132,"Highlighter Luxer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH133,"Oil Filter Element ABS F060 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH134,"Oil Filter Element ABS F060 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH135,"Oil Filter Element ABS F060 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH136,"Oil Filter Element ABS 025 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH137,"Oil Filter Element ABS 025 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH138,"Oil Filter Element ABS 025 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH139,"WHITE PHYNEL GAINDA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH14,"Hose Pipe 16mm Dia 500 mm Long","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH140,"HARPIC 500 ML","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH141,"NIRMA Y,P 1KG","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH142,"DETTOL LIQVID 250ML","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH143,"DUSTER YELLOW MIDIAM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH144,"DUST PAN HEVI","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH145,"KAPOOR GANDA 100GRM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH146,"ODONIL 50GRM 59","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH147,"ACID TOILET CLEENER 5LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH148,"COLIN 500ML","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH149,"AIR WICK FMC MACHIM SET 599","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH15,"Air Line Oil Filter Elements 07050-P","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH150,"LATHI","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH151,"RING","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH152,"CISCO 24 PORT GIGABYTE SWITH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH153,"connector vedio bellon for camera","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH154,"Connector DC for Camera","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH155,"15TNLX125PSI 20HP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH156,"PALLADIUM ON ALUMINA BALLS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH157,"TRIDENT AIR DRYER DRYSPELL PLUS 30","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH158,"KIT 4000 ML 45","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH159,"ATLANTIS CLASSIC 4 LANE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH16,"Air Line Oil Filter Elements 07050-M","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH160,"BROWN FROTH TEA  PREMIX","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH161,"BROWN FROTH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH162,"REAL MUG LEMON TEA PREMIX","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH163,"Industrial Heater","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH164,"AFTER COOLER 160CFM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH165,"AIR RECEIVER TANK 150 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH166,"SOUP PREMIX","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH167,"MLC PIPE INCLUDING ASSOCERIES'2025'","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH168,"2 INCH BALL VALVE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH169,"1 INCH METTALIC GASKIT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH17,"Air Line Oil Filter Elements 07050-S","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH170,"100X50MM MS C CHANNEL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH171,"40X5 INCH ANGLE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH172,"100X50MM MS C CHANNEL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH173,"12MMX1/2 INCH PU CONNECTOR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH174,"12MMX12 INCH PU CONNECTOR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH175,"1 INCH SS BALL VALVE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH176,"1 INCH SS PIPE SCH-40","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH177,"1 INCH SS BELOW","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH178,"1 INCHX1/2 INCH SS HEX","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH179,"1 INCH X6 INCH SS NIPPLE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH18,"BRASS FITTINGS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH180,"1 INCH SS HEX","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH181,"1 INCH SS ELBOW","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH182,"1 INCH SS FLANGE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH183,"MS HEX NIPPLE 1/2 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH184,"MS TEE 1/2 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH185,"GASKIT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH186,"NUT BOULT WASHER","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH187,"COMPRESSOR FITTING","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH188,"2 inch brass ball valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH189,"1 inch ss flange valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH19,"1/2 INCH PSA VALVE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH190,"GENERAL INSURANCE SERVICES 'TRANSIT INSURANCE'","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH191,"Brisk Infratel Services","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH192,"SS FLANCH 1-1/2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH193,"PIPING AND INSTRUMENTS INTERNAL PIPING CI","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH194,"N2 and H2 Mixer - 300 Nm3/hr","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH195,"Storage Tank","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH196,"500 L Storage Tank","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH197,"Oil Filter Element ELFA 060 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH198,"Oil Filter Element ELFA 060 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH199,"Oil Filter Element ELFA 060 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH2,"Dew Point transmitter mounting arrangement","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH20,"5 Port SOV With 24 VDC Coil","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH200,"N2 GAS GENERATOR REPAIRING CHARGES WITH PAINTING","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH201,"PPM  Oxygen Analyzer Sensor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH202,"AIR RECEIVER TANK 5000 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH203,"DSC Charges","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH204,"S GA30 PA 75 FM OE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH205,"F160 EXPORT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH206,"PSA TOWER TANK","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH207,"EZ MALE UNION 4050X2''","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH208,"EZ EQUAL ELBOW 4050X4050","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH209,"PIPE CLAMP 1-1/2''","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH21,"Air Filter Regulator 1/2 With Gauge","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH210,"EZ EQUAL TEE-4050X4050X4050","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH211,"T-ROD","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH212,"FASTNER","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH213,"I'd Card","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH214,"POWER PANEL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH215,"Accessories","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH216,"AIR TANK 1500 L STORAGE TANK","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH217,"Transmitter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH218,"POLYCAB 6MMX4C WIRE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH219,"PIN FASTNER","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH22,"Air Filter Regulator 1/4 With Gauge","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH220,"FILTER FOR HIGH PRESSURE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH221,"BALL BEARIINIG","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH222,"SCREW","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH223,"SCREW LUBRICANT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH224,"SCREW ISO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH225,"RETAINING RING","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH226,"FELT RING","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH227,"ROTARY SHAFT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH228,"SHAFT SEAL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH229,"BALL BEARING UNIREX","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH23,"Carbon Molecular Sieves","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH230,"KIT, SE TO XE-70 CONTROLLER RETROFIT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH231,"AIR LINE OIL FILTER ELEMENT N2 GENERATOR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH232,"AIR COMPRESSOR PACKAGE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH233,"THE COST FOR DESIGN","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH234,"10000 LITERS N2 STORAGE TANK","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH235,"MLC PIPE 4050","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH236,"PIPE INSTALL 4050","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH237,"BALL VALVE 40MM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH238,"PNEMATIC HYDROGEN GAS BOOSTER INCLUDING","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH239,"N2 and H2 Mixer - 20 Nm3/hr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH24,"Nitrogen Gas Generator","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH240,"Ammonia Cracker - 15 Nm3/hr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH241,"EXHAUST SILENCER ELEMENT O2 PLANT","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH242,"EQUALIZATION VALVE3/4'' O2 PLANT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH243,"ONLINE OXYGEN GAS MONITORING SYSTEM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH244,"BEVX PLUS COFFEE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH245,"Vacuum Receiver","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH246,"Rotary Vacuum Pump","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH247,"Low Pressure Receiver","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH248,"Oil Free Booster","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH249,"Mixed Gas Receiver","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH25,"Storage Tank","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH250,"Automatic On / Off Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH251,"PLC and HMI Control Panel","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH252,"Pressure Regulators and Flowmeters","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH253,"Online Helium Gas Analyzer with pump","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH254,"Three stage filtrations, pressure switch and pressure transmitter and other instruments","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH255,"MS Frame and all equipment fabrication on a single frame, power panel, internal piping and engg","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH256,"Air Receiver 150 Ltr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH257,"End Shield","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH258,"Rotary SHaft Seal","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH259,"Grease Cartridge","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH26,"Desicant Pre Filter Element","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH260,"720916 CR Sheet with laser cutting, powder coating and fabrication","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH261,"8207 Hardware","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH262,"Filter Element EL 025 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH263,"Filter Element EL 025 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH264,"FilterElement El 025 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH265,"Courier Charges","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH266,"Helium Gas Analyzer 2k24-073","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH267,"Diaphragm Vaccum pump","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH268,"SEO Charges","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH269,"Air Blow Gun PSH7 with HTB-4","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH27,"Desicant kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH270,"Air Blow Gun PSH-7 RBP-5","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH271,"EBG-1","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH272,"Helium Recovery system","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,ASH273,"Gas Booster Compressor EBC-18","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH274,"OXYGEN BOOSTER SERVICE SPARE KIT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH275,"SOLENOID VALVE 3/2 NC - Model- E14611W Mex Pr 20 Bar, MakeJanatics","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH276,"AIR FLOW METER FOR 25MM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH277,"COMPUTER  AND SOFTWARE EXPENSE","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH278,"FILTER ELEMENT -07/30 XP ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH279,"PID CONTROLLER","Absstem Shield","","Part",YES
+MISSING_IN_JOSH_AI,ASH28,"Exhaust valve spare kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH280,"Staff Welfare","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH281,"AIR FUSE 281 A 1421-1/2 NPT HOSEGUARD","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH282,"AIR FUSE 281 ZH 1421 1/2 NPT HIGH FLOW","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH283,"Liquid Ring Vacuum","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH284,"M12 Matting Connector","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH285,"Screw Blower","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH286,"Assembly Machinery Accessories","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH287,"Air Tank 150 Litre","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH288,"LT SDF100A TPN","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH289,"3NA78240RC HRC","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH29,"Desicant Tower Screen","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH290,"copper ring lugs 25mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH291,"SMC PFMB7501","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH292,"RSB5i-7-TAS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH293,"N2 and H2 Mixer - 330 Nm3/hr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH294,"N2 and H2 Mixer - 260 Nm3/hr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH295,"N2 and H2 Mixer - 150 Nm3/hr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH296,"Booster Accessories","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH297,"Filter 1 micron","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH298,"Air Filter 10 micron","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH299,"Air Filter 1 micron","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH3,"EE Dew Point Transmitter Wire Connector","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH30,"Diffuser Top Nylon","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH300,"HMI for High Pressure N2 Plant","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH301,"Male union 4050x1-1/2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH302,"F160 export dryer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH303,"SGA30P A 75 OE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH304,"Nitrogen Gas Separator","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH305,"Filter 07/30 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH306,"Oil Filter Element G 07 ZP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH307,"Oil Filter Element G 07 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH308,"Oil Filter Element G 07 C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH309,"Pressure Regulating Valve for Oxygen","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH31,"PPM Oxygen sensor with Transmitter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH310,"Refrigerent  Dryer 1M3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH311,"Low Pressure and high Pressure Pipeline","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH312,"Heat Exchanger for 1m3 Capacity","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH313,"VFD 5 KW Auto","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH314,"Pressure Reducing Station","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH315,"Absstem PCB Controller","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH316,"PCB Controller repair","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH317,"Nitrogen Recovery Pipeline Servicing","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH318,"Anabond 666","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH319,"T30 Base Mounted compressor with motor and starter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH32,"Desicant Air Dryer Silencer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH320,"Digital Percentage Oxygen Analyzer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH321,"Refrigerated Dryer 2M3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH322,"Heat Exchanger for 2m3 capacity","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH323,"ELITE EXTRA","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH324,"Pressure Transmitter PMP51B","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH325,"Pressure Reducing Station-100 NB","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH326,"Gas Booster Compressor seal  Kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH327,"Charges for hosting and maintenanace","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH328,"Assembly Machinery Accessories fitting nut with input hole","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH329,"Non cycling premium refrigerated dryer D240In-A","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH33,"Seals And O Ring Spare Kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH330,"Non Cyclingpremium refrigerated Dryer D180IN-A","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH331,"Dryer Kit 500L ELGI80 CFM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH332,"Printing and Stationery","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH333,"S018266 FABnoBYEC378128","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH334,"Z013187 FAB No PYDENC5069","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH335,"v Belt Pulley TL 42 SPZ 150x3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH336,"v Belt Pulley TL 30 SPZ 160x3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH337,"GA18FF A 10 CFM Air Compressor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH338,"GD ELmo Rietschle Side Channel Blower","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH339,"Annair Refrigerated Air Dryer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH34,"Air Receiver","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH340,"Aftercooler Cap 100/125 CFM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH341,"Non Cycling Premium Refrigerated Dryer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH342,"Komter Screw Air Compressor 300 Ltr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH343,"Auto Drain Valve Upto 16 Bar","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH344,"Freight Charges","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH345,"Jindal MLC Pipe 1216 1/2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH346,"Jindal 1216 x 1/2 inch male union","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH347,"Jindal 1216 Equal Union","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH348,"Jindal 2025 x 1216 Unequal Tee","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH349,"Ball Valve 1/2 inch 3 way","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH35,"Vacuum Receiver - 3000 liter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH350,"IR Comp oil free 5,5 kw 300 mm WC-7 barg","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH351,"PMP51B-HH73/156","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH352,"Wire rope 10 mm 6x36 fibre core with wire rope clamp make USHA Martin","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH353,"Electric wire Rope Hoist Capacity 2 Ton","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH354,"Lever Type Limit Switch with Base","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH355,"Geared Rotary type Limit Switch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH356,"Limit Switch Control Wiring with Control Wire and Thimble","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH357,"AVM MACHINERY PAD","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH358,"COLDSPELL CORE 60 PH413","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH359,"Customs Duty","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH36,"Nitrogen Gas Generator","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH360,"Duty IGST","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH361,"Advancemnent charge","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH362,"Car Expense","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH363,"GI Mipple 11/2x9 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH364,"GI Elbow B/W 11/2 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH365,"GI REDUCER 11/2X1/2 INCH ISI","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH366,"HYD HEX NIPPLE 1/2 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH367,"HYD HEX NIPPLE 1/2X3/8 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH368,"GI TEE 1/2 INCH ISI","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH369,"TEFLON TAP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH37,"Filter Elements LFA080-AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH370,"BULLET FASTNER 10 MM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH371,"WOODEN SCREW 75X8 MM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH372,"Desicant Spare Kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH373,"Carbon Desicant Kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH374,"Filter Element EL 025 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH375,"Storage Tank","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH376,"Base Frame","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH377,"Desicant Air Dryer Silencer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH378,"Filter Element EL 145 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH379,"Filter Element EL 145 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH38,"Filter Elements LFA080-AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH380,"Filter Element EL 145 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH381,"Kit 2000,6000 45KW","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH382,"SMPS 65A","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH383,"PSA Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH384,"68qmm X 4core CU Fle xible Cable","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH385,"4 MS Cutting Wheel","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH386,"14mm X 160mm Hammer  Drill Bit- Polymak","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH387,"6Sqmm CU Ring Leg","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH388,"6sqmm CU Pin Type","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH389,"Storage tank high pressure","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH39,"Filter Elements LFA080-ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH390,"Filter Element El 058 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH391,"Filter Element EL 058 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH392,"Filter Element El 058 ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH393,"Filter Element EU 07/30 FF","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH394,"AO2 Gas Sensor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH395,"Filter Element EZ 2030 ZP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH396,"Filter Element EZ 2030 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH397,"Filter Element EZ 2030 C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH398,"Filter Element 10CWCXP ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH399,"Filter Element G011 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH4,"Dome Valve 1/2 Inch 3-way","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH40,"20 TR Air Cooled Scroll Chiller","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH400,"Filter Element G011 C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH401,"Filter Element LFA 120 AO-FT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH402,"MOC 18 - 20 Barg Piston Assembly","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH403,"MOC 18 - 20 Barg Valve Plate Assembly","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH404,"MOC 18 - 20 Barg Gasket Set","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH405,"200 Nm3/hr N2 Booster Suction Skid","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH406,"PRV Station","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH407,"Pressure Regulators and Flowmeters N2 and H2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH408,"Exhibition Expense","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH409,"Fabrication Foundation Nut Bolt M-28x200mm with Nut and Washer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH41,"70 TR Air Cooled Screw Chiller","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH410,"MS Flanges 15 inch with gasket Nut Bolt Washer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH411,"MS Flanges 2 inch with gasket nut bolt washer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH412,"Reducer 15x2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH413,"VS socket 50 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH414,"MS flanges 1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH415,"VS socket 25 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH416,"Reducer 1 5x1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH417,"VS socket 40 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH418,"MS socket 15 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH419,"MS Steel Tube 1 5 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH42,"Air Tank - 1000 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH420,"Seal Kit for Hydrogen Booster Pump","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH421,"Percentage Oxygen Analyzer with Control Box","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH422,"VA 520 Flow Sensor 1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH423,"Gas Booster Compressor Mode/ EBCL-125/4-40","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH424,"Gas Bosster Compressor Model/ EBC-8/3-150","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH425,"Gas Filling Manifold 5 Point","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH426,"Cylinders","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH427,"1/2 Inch N2 Plant Silencer Element","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH428,"1 Inch N2 Plant Silencer Element","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH429,"1 1/2 Inch N2 Plant Silencer Element","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH43,"Storage Tank","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH430,"2 Inch N2 Plant Silencer Element","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH431,"Wire Rope","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH432,"Dismantle and Fixing Charge","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH433,"2000HRS SERVICE KIT RSB15J-AZ5-SK2-L1522","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH434,"FLUIDFORCE SCREW LUBRICANT 20L","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH435,"COOLANT COMPLUBE 5 LITERS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH436,"Seak Kit for Booster Pump HA-02","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH437,"4X1/ Reducing Flange with  Gasket","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH438,"4x2 Reducing Flange with  Gasket","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH439,"2 INCH NRV SS 304","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH44,"Nitrogen Gas Generator","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH440,"3Inch Check Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH441,"3Inch Three Way Vent Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH442,"Dome Valve 3 Inch 3-way","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH443,"AIR FILTER ELEMENT Rse45i-A7,5-ZS1212823","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH444,"OIL FILTER Rse45i-A7,5-ZS1212835","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH445,"AIR-OIL SEPARATOR ELEMENT Rse45i-A7,5-ZS1212836","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH446,"CONTROL SET 55 DEGC Rse45i-A7,5-A11175274","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH447,"MIN PRESSURE VALVE FRAME Rse45i-A7,5-100012308","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH448,"ULTRA COOLANT 20 LITERS-38459582","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH449,"SS 304 Seamless SCH 40 pipe 25 NB","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH45,"Medical Oxygen Generator","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH450,"P/F Fitting Accessory","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH451,"Flange 25 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH452,"1 Inch 20 Barg Filter G011 ZP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH453,"1 Inch 20 Barg Filter G011 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH454,"1 Inch 20 Barg Filter G011 C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH455,"Installation Charges","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH456,"Transportation Charges","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH457,"MS ded Flange 1'","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH458,"NRV 1/2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH459,"PISTON 3Inch 15T2 T30","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH46,"Suction Filter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH460,"VALVE ASSEMBLY COMPLETE 3 7T4,15T","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH461,"3/4 Inch NRV, MOC/ Brass","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH462,"CNC Hex 1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH463,"Teflon Tape 1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH464,"Loctite 243","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH465,"VALVE COMPLETE 1-5/8 -15T2 / 7T2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH466,"VALVE SAFETY 1/4 NPT X 300","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH467,"VALVE SAFETY 1/4 X 60 PSIG","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH468,"KIT COMPLETE OVERHAUL 15T","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH469,"VALVE ASSY COMPLETE- 50, 15T  /15T4","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH47,"Valve Automation System","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH470,"VALVE SAFETY 65 PR FOR 15T I/C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH471,"KIT-VALVE/GASKET 15TNL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH472,"KIT, RING REPLACEMENT 15TNL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH473,"KIT, GASKET 15TNL","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH474,"ELEMENT FILTER T-LINE 10 MICRON","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH475,"NRV 3/4 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH476,"Adaptor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH477,"SS NRV 1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH478,"Drill Bit 16 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH479,"Fastner 16x250 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH48,"Oil Filter Element EA100AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH480,"Hammer Drill Bit 16x310 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH481,"CS Ball Valve 1/2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH482,"CS Ball Valve 1 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH483,"Associate Member Subscription for DGFT","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH484,"Brass NRV Multi Check 1 1/2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH485,"6308 2RSRC3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH486,"6211 2RSRC3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH487,"RNA690 4 Needle","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH488,"MOC 18 - 40 Barg 2000 Hrs Overhaul Kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH489,"Filter Drain Internal","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH49,"Oxygen Analyzer Sensor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH490,"PLC with Programming UH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH491,"Inline Thermal Mass Flow Meter BT3020G","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH492,"1/2 Inch N2 Mass Flow Meter with Totalizer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH493,"Starter MK1 DOL 13-22A 360V","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH494,"G-11/40 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH495,"Filter element G 011 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH496,"FILTER ELEMENT G018 ZP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH497,"FILTER ELEMENT G018 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH498,"FILTER ELEMENT G018 C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH499,"Oil container 5 litre T30 Distinct","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH5,"Dome Valve 1 Inch 3-way","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH50,"KIT 4000 hrs RS45","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH500,"Kit Complete Overhaul 2545","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH501,"Rod Connecting 2540/2545","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH502,"Crankpin Cap Assy","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH503,"Pin Assy Pin Assy S- Line Thrust","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH504,"Crankshaft Assy With BRG 2545","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH505,"Product Photography","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH506,"25 MM N2 Mass Flowmeter with Totalizer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH507,"40 MM N2 Mass Flowmeter with Totalizer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH508,"Digital Pressure Switch 100 Barg","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH509,"Gas Compressor KCR425 KBE-0010331","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH51,"Overhaul 15T2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH510,"GAS R-134A","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH511,"Shipping Charges","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH512,"Coffee Roast","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH513,"Vertical NRV","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH514,"Fuse Open","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH515,"M Switch Broken","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH516,"Calibration","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH517,"1/ inch BSP NRV","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH518,"Anchor Bolt 16x200 mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH519,"Hammer Drill Bit 16x300","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH52,"Oil Container 5 LTRS T30","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH520,"Cutting Wheel 4 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH521,"LEnovo 512 GB NVME","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH522,"AutoCad","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH523,"N2 Mass Flow Meter 4 Inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH524,"Marketing Server","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH525,"Cabin Fittings","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH526,"Limit Switch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH527,"Fixing Charge","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH528,"EOT Crane","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH529,"ID Card Holder","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH53,"Coolant Ultra 5 ltrs","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH530,"Spare Set for EBCL18 Gas Booster compressor, Piston ring set, gasket set, oring set","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH531,"Valve Plate set","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH532,"Refrigerated Air Dryer F160 AC 339 CFM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH533,"4000 HRS SERVICE KIT RSB/NB 15-22","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH534,"BELT V-C105","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH535,"Wire Rope","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH536,"Clamp","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH537,"Dismantle  Fixing","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH538,"Gear","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH539,"Gear Fixing","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH54,"Oxygen gas Storage Tank","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH540,"Gear Box Servicing  -Wire Rope Fixing","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH541,"Imported High Back Chair","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH542,"1 Inch 40 Barg Filter G011 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH543,"Supply, Installation, Testing  Commissioning","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH544,"Installation, Testing and commissioning","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH545,"80 mm Dia ERW G I Grade seamless pipes with Electric Welding Method  all necessary bends, couplers, supports etc","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH546,"50 mm Dia ERW G I Grade seamless pipes with Electric Welding Method  all necessary bends, couplers, supports etc","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH547,"80 mm dia Cast Steel Flanged Ball Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH548,"50 mm dia Cast Steel Flanged Ball Valve 7","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH549,"80 mm dia Cast Steel Flanged Non Return Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH55,"Oil Filter Element EA100AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH550,"50 mm dia Cast Steel Flanged Non Return Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH551,"80 mm dia Galvanised Iron 150  R F Flange","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH552,"50 mm dia Galvanised Iron 150  R F Flange","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH553,"80 mm dia X 50 mm dia Galvanised Iron Reducers","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH554,"Nitrogen Plant including Lifting, Shifting, Positioning  Electrical works","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH555,"3/8 Hydraulic Crimping Hose-1 mtr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH556,"3/8 Hydraulic crimping hose 1 1/2 mtr","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH557,"3/8 HP Adapter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH558,"4000 HRS service kit","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH559,"2000 HRS service Kit RSB 15J","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH56,"Oil Filter Element EA100ACS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH560,"oil Engine 15T Comp Lube","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH561,"MS Jali","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH562,"Silicon USED","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH563,"Glass Tuffened 12mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH564,"Pressure Switch KP35","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH565,"Printer STamp","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH566,"Filter G011 XP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH567,"Dryer CR-1000,1000cfm, 1/216kg/cm2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH568,"FAS-110-A115 Screw Air Compressor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH569,"AIR PRESSURE REGULATOR 10KG/CM2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH57,"Activated Allumina","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH570,"AUTO DRAIN VALVE ASSY 30T","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH571,"3/8 HYDRAULIC HOSE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH572,"3/8 HYDRAULIC CRIMPING HOSE -1 1/2 MTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH573,"50 MM N2 Mass Flowmeter with Totalizer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH574,"Registration Certificate Under Shops and Commercial","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH575,"Goverment Fee for Registration Certificate","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASH576,"PCB Assembly for A/C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH577,"CS Ball Valve Flange Type 3-LT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH578,"Nrv Flange Type 3-LT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH579,"Nrv Flange Type 2-LT","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH58,"1 INCH PRV for oxygen","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH580,"Gi Pipe 2","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH581,"Gi Pipe 3","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH582,"MS Flange-3CLASS-150","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH583,"MS Flange-2CLASS-150","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH584,"MS Flange-4CLASS-150","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH585,"Ms Nipple 3x1280x300mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH586,"Ms Nipple 4X12100X300","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH587,"Ms Redusar 3X280X50-H","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH588,"Ms Redusar 4X3100x80","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH589,"MS Nut Bolt Washer","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH59,"DEW POIN TRANSMITTER CS INSTRUMENTS","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH590,"Jointing Sheet","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH591,"GI Elbow 3 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH592,"GI Elbow 2 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH593,"Gi Tee 3 inch","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH594,"wifi charges","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH6,"AC Chiller- Scroll 20 TR","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,ASH60,"N2 Mass Flow Meter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH61,"Drill Guide For All 5200 and 5400","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH62,"MCB 32A FP SCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH63,"Copper Thimble 10mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH64,"3-Way solenoid valve 24-VDC","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH65,"Rb55i-A7,5","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH66,"D950IN-iA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH67,"COMPOSITE PIPE D AIR 4050","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH68,"COMPOSITE PIPE D AIR 2025 1 INCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH69,"COMPOSITE PIPE D AIR 1216","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH7,"AC Chiller - Screw - 70 TR","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,ASH70,"SKS501 BRASS BALL VALVE 50MM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH71,"BRASS BALL VALVE 3WAY 15MM","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH72,"Dew Point Transmitter CS Instruments","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH73,"DELTA MOTOR DRIVE","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH74,"Vacuum Blower","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH75,"PPM Transmitter Repair","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH76,"PPM Sensor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH77,"EPILUX 44 EPOXY FINISH WHITE 4 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH78,"NEROLAC EPOXY THINNER 20 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH79,"NEROTHANE 460GL WHITE P NEROLAC 20 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH8,"OIL FILTER ELEMENT K 145 AO","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH80,"AD/FD/QD/STV PU THINNER NEROLAC 20 LTR","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH81,"CARTAGE 18","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH82,"Repair Cost of MAP4 Nitrogen Plant","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH83,"MBC 32A FP SCH","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH84,"Copper Thimble 10mm","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,ASH85,"Rotary Screw Compressor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH86,"Flyer NGEN X","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH87,"Packing Charges","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH88,"Rotary Spares Kit 45 KW","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH89,"2 Inch PSA Angle Valve","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH9,"OIL FILTER ELEMENT K 145 AA","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH90,"RSb3i-7-TAS","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH91,"RSB22i-A75-TAS-500L","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH92,"Slotted Angle Rack","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH93,"Cabin Fittings","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH94,"Quick Heal Antivirus for server edition with 1 year license","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH95,"Adaptor For D Port To HDMI","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH96,"Condute Pipe","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH97,"Saddle 25mm PVC","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH98,"PVC Band","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASH99,"Flexiable pipe 25mm","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS01,"Absstem Shield Premium-IDOS 01","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS01B,"Absstem Shield Premium-IDOS 01 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS02,"Absstem Shield Premium-IDOS 02","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS02B,"Absstem Shield Premium-IDOS 02 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS03,"Absstem Shield Premium-IDOS 03","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS03B,"Absstem Shield Premium-IDOS 03 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS04,"Absstem Shield Premium-IDOS 04","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS04B,"Absstem Shield Premium-IDOS 04 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS05,"Absstem Shield Premium-IDOS 05","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS05B,"Absstem Shield Premium-IDOS 05 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS06,"Absstem Shield Premium-IDOS 06","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS06B,"Absstem Shield Premium-IDOS 06 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS07,"Absstem Shield Premium-IDOS 07","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS07B,"Absstem Shield Premium-IDOS 07 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS09,"Absstem Shield Premium-IDOS 09","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS09B,"Absstem Shield Premium-IDOS 09 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS110,"Absstem Shield Premium-IDOS 110","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS110B,"Absstem Shield Premium-IDOS 110 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS12.5,"Absstem Shield Premium-IDOS 12.5","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS12.5B,"Absstem Shield Premium-IDOS 12.5 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS130,"Absstem Shield Premium-IDOS 130","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS130B,"Absstem Shield Premium-IDOS 130 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS15,"Absstem Shield Premium-IDOS 15","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS150,"Absstem Shield Premium-IDOS 150","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS150B,"Absstem Shield Premium-IDOS 150 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS15B,"Absstem Shield Premium-IDOS 15 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS18,"Absstem Shield Premium-IDOS 18","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS18B,"Absstem Shield Premium-IDOS 18 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS200,"Absstem Shield Premium-IDOS 200","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS200B,"Absstem Shield Premium-IDOS 200 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS22,"Absstem Shield Premium-IDOS 22","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS22B,"Absstem Shield Premium-IDOS 22 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS25,"Absstem Shield Premium-IDOS 25","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS250,"Absstem Shield Premium-IDOS 250","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS250B,"Absstem Shield Premium-IDOS 250 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS25B,"Absstem Shield Premium-IDOS 25 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS30,"Absstem Shield Premium-IDOS 30","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS30B,"Absstem Shield Premium-IDOS 30 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS40,"Absstem Shield Premium-IDOS 40","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS40B,"Absstem Shield Premium-IDOS 40 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS45,"Absstem Shield Premium-IDOS 45","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS45B,"Absstem Shield Premium-IDOS 45 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS50,"Absstem Shield Premium-IDOS 50","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS50B,"Absstem Shield Premium-IDOS 50 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS65,"Absstem Shield Premium-IDOS 65","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS65B,"Absstem Shield Premium-IDOS 65 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS75,"Absstem Shield Premium-IDOS 75","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS75B,"Absstem Shield Premium-IDOS 75 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS90,"Absstem Shield Premium-IDOS 90","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-IDOS90B,"Absstem Shield Premium-IDOS 90 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN01,"Absstem Shield Premium-nGEN 01","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN01B,"Absstem Shield Premium-nGEN 01 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN01P,"Absstem Shield Premium-nGEN 01 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN01PB,"Absstem Shield Premium-nGEN 01 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN02,"Absstem Shield Premium-nGEN 02","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN02B,"Absstem Shield Premium-nGEN 02 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN04,"Absstem Shield Premium-nGEN 04","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN04B,"Absstem Shield Premium-nGEN 04 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN05,"Absstem Shield Premium-nGEN 05","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN05B,"Absstem Shield Premium-nGEN 05 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN05P,"Absstem Shield Premium-nGEN 05 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN05PB,"Absstem Shield Premium-nGEN 05 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN07,"Absstem Shield Premium-nGEN 07","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN07B,"Absstem Shield Premium-nGEN 07 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN08,"Absstem Shield Premium-nGEN 08","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN08B,"Absstem Shield Premium-nGEN 08 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN09,"Absstem Shield Premium-nGEN 09","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN09B,"Absstem Shield Premium-nGEN 09 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN10,"Absstem Shield Premium-nGEN 10","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN100,"Absstem Shield Premium-nGEN 100","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN100B,"Absstem Shield Premium-nGEN 100 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN100P,"Absstem Shield Premium-nGEN 100 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN100PB,"Absstem Shield Premium-nGEN 100 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN10B,"Absstem Shield Premium-nGEN 10 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN10P,"Absstem Shield Premium-nGEN 10 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN10PB,"Absstem Shield Premium-nGEN 10 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN110,"Absstem Shield Premium-nGEN 110","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN110B,"Absstem Shield Premium-nGEN 110 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN110P,"Absstem Shield Premium-nGEN 110 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN110PB,"Absstem Shield Premium-nGEN 110 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN120,"Absstem Shield Premium-nGEN 120","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN120B,"Absstem Shield Premium-nGEN 120 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN120P,"Absstem Shield Premium-nGEN 120 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN120PB,"Absstem Shield Premium-nGEN 120 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN130,"Absstem Shield Premium-nGEN 130","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN130B,"Absstem Shield Premium-nGEN 130 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN130P,"Absstem Shield Premium-nGEN 130 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN130PB,"Absstem Shield Premium-nGEN 130 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN140,"Absstem Shield Premium-nGEN 140","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN140B,"Absstem Shield Premium-nGEN 140 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN140P,"Absstem Shield Premium-nGEN 140 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN140PB,"Absstem Shield Premium-nGEN 140 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN150,"Absstem Shield Premium-nGEN 150","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN150B,"Absstem Shield Premium-nGEN 150 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN150P,"Absstem Shield Premium-nGEN 150 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN150PB,"Absstem Shield Premium-nGEN 150 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN160,"Absstem Shield Premium-nGEN 160","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN160B,"Absstem Shield Premium-nGEN 160 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN160P,"Absstem Shield Premium-nGEN 160 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN160PB,"Absstem Shield Premium-nGEN 160 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN170,"Absstem Shield Premium-nGEN 170","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN170B,"Absstem Shield Premium-nGEN 170 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN170P,"Absstem Shield Premium-nGEN 170 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN170PB,"Absstem Shield Premium-nGEN 170 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN20,"Absstem Shield Premium-nGEN 20","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN20B,"Absstem Shield Premium-nGEN 20 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN20P,"Absstem Shield Premium-nGEN 20 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN20PB,"Absstem Shield Premium-nGEN 20 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN30,"Absstem Shield Premium-nGEN 30","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN30B,"Absstem Shield Premium-nGEN 30 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN30P,"Absstem Shield Premium-nGEN 30 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN30PB,"Absstem Shield Premium-nGEN 30 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN40,"Absstem Shield Premium-nGEN 40","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN40B,"Absstem Shield Premium-nGEN 40 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN40P,"Absstem Shield Premium-nGEN 40 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN40PB,"Absstem Shield Premium-nGEN 40 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN50,"Absstem Shield Premium-nGEN 50","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN50B,"Absstem Shield Premium-nGEN 50 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN50P,"Absstem Shield Premium-nGEN 50 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN50PB,"Absstem Shield Premium-nGEN 50 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN60,"Absstem Shield Premium-nGEN 60","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN60B,"Absstem Shield Premium-nGEN 60 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN60P,"Absstem Shield Premium-nGEN 60 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN60PB,"Absstem Shield Premium-nGEN 60 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN70,"Absstem Shield Premium-nGEN 70","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN70B,"Absstem Shield Premium-nGEN 70 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN70P,"Absstem Shield Premium-nGEN 70 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN70PB,"Absstem Shield Premium-nGEN 70 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN80,"Absstem Shield Premium-nGEN 80","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN80B,"Absstem Shield Premium-nGEN 80 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN80P,"Absstem Shield Premium-nGEN 80 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN80PB,"Absstem Shield Premium-nGEN 80 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN90,"Absstem Shield Premium-nGEN 90","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN90B,"Absstem Shield Premium-nGEN 90 B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN90P,"Absstem Shield Premium-nGEN 90 P","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,ASP-NGEN90PB,"Absstem Shield Premium-nGEN 90 P B","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,BC1,"MOC 60 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BC2,"MOC 15 LP 20 Barg","Booster","LP Booster 20 Barg","Part",YES
+MISSING_IN_JOSH_AI,BC3,"MOC 45 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BC4,"MOC 10 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BC5,"MOC 18 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BC6,"MOC 06 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BC7,"MOC 12 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOP0001,"CAT-6 Cable","Purchase","","Equipment",YES
+MISSING_IN_JOSH_AI,BOP1,"Pressure Regulator 1/4 ""","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP10,"1 Inch Flange","Bought Out Part","Flanges","Part",YES
+MISSING_IN_JOSH_AI,BOP11,"1 1/2 inch Flange","Bought Out Part","Flanges","Part",YES
+MISSING_IN_JOSH_AI,BOP12,"DP Gauge","Bought Out Part","Gauge","Part",YES
+MISSING_IN_JOSH_AI,BOP13,"Housing Ring for Filters","Bought Out Part","Housingring","Part",YES
+MISSING_IN_JOSH_AI,BOP2,"Pressure Regulator 1/2 ""","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP3,"Pressure Gauge 0-10 bar","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP4,"Angle valve 1/2"" (AV12050V01-F4-P2-4G)","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP5,"Solenoid Operated Valve (51424-6-2G+I-24 V-DC-22)","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP6,"Filter Regulator 1/4""","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP7,"Filter Regulator 1/2""","Bought Out Part","","Part",YES
+MISSING_IN_JOSH_AI,BOP8,"Pressure vessel-C6.5-G03-A- ID-1600mm","Bought Out Part","pressure vessel","Part",YES
+MISSING_IN_JOSH_AI,BOP9,"1/2 Inch Flange","Bought Out Part","Flanges","Equipment",YES
+MISSING_IN_JOSH_AI,BOS1,"MOC 06 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS10,"MOC 50 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS11,"MOC 65 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS12,"MOC 75 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS13,"MOC 90 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS14,"MOC 100 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS15,"MOC 25 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS16,"MOC 30 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS17,"MOC 40 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS18,"MOC 30 A","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,BOS19,"MOC 120 LP 40 Barg","Booster","LP Booster 40 Barg","Part",NO
+MISSING_IN_JOSH_AI,BOS2,"MOC 09 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS20,"NBC 260 HP 300 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS21,"NBC 200 HP 300 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS22,"NBC 85 HP 300 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS23,"LB-20-5-350","Booster","Lubricated Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS24,"NBC20H - 350 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS25,"MOC 07 LP 60 Barg","Booster","LP Booster 60 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS26,"GZW 135 HP 265 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS27,"NBC 15 LP 35 Barg","Booster","LP Booster 40 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS28,"MOC 125 LP 20 Barg","Booster","LP Booster 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS29,"MOC 03 LP 20 Barg","Booster","LP Booster 20 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS3,"MOC 12 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS30,"MOC 03 LP 40 Barg","Booster","LP Booster 40 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS31,"4 x 5 Booster 300 Nm3/hr, 15 Barg","Booster","4 x 5 Booster 300 Nm3/hr, 15 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS32,"LP-SBC10","Booster","Syngas Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS33,"2545X10","Booster","Lubricated Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS34,"2340X3","Booster","Lubricated Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS35,"HA02T, 2,5/1","Booster","Pneumatic Booster","Equipment",YES
+MISSING_IN_JOSH_AI,BOS36,"SWN-1,7/5-40","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS37,"NBC 300 HP 300 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,BOS38,"ZV-40/5-20","Booster","LP Booster 20 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS39,"ZV-15/5-40","Booster","LP Booster 40 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS4,"MOC 15 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS40,"ZV-7,5/5-40 Booster","Booster","LP Booster 40 Barg","Part",YES
+MISSING_IN_JOSH_AI,BOS5,"MOC 18 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS6,"MOC 25 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS7,"MOC 30 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS8,"MOC 40 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,BOS9,"MOC 45 LP 40 Barg","Booster","LP Booster 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,CNA1-1,"Water Botel ( Bislari 250ML)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA10-1,"Evereday AA","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA107,"Pack of 4 Diwali Gift","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA108,"Diwali Gift Box","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA11-1,"Cell  AAA Nippo  S","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA12-1,"Tissue Box 50 Pull","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA13-1,"Pen Unii -Ball Eye MR70","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA138,"Dairy Printing Complete","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA139,"Carry Bag Printing Complete","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA14-1,"Coffee Powder (Nescafee Premix signature blend)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA140,"T Shirt Small S","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA141,"T Shirt Mediam M","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA142,"T Shirt Large L","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA143,"T Shirt Extra Large XL","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA144,"T Shirt Female Small FS","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA145,"New Year Gift Box","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA146,"Event Item Purchase","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA15-1,"Tea Powder (Nestea masala Gold)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA16-1,"Pholl Jharu","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA17-1,"POCHA 36-36","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA18-1,"Toilet Flash Cube","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA19-1,"Toilet Freshener","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA2-1,"White Floor Cleaner","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA20-1,"Urinal Cube","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA21-1,"Toilet Hand M- Fold Paper","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA22-1,"Garbage Bag 20*24","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA23-1,"Urinal & Wash Basin Ganda","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA24-1,"Transparent Tape 2 Inch ( 6 PCS)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA25-1,"Stretch Film 18"" (Raping Roll)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA26-1,"Dishwash Bar","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA27-1,"Catalogue New Design ( IDOs Industrial)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA28-1,"Catalogue New Design ( NGEN Industrial)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA29-1,"Flyer ( NGEN)","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA3-1,"Pholl Jharu","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA30-1,"Catalogue OLD Design ( IDOS )","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA31-1,"blank","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA32-1,"Drinking water bottle 20 liter","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA33,"Permanent Marker","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA34,"Beans NESCAFE Intenso (15*1kg)","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA35,"Everyday Dairy Whitener LFAT","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA36,"NESQUIK Choc Drink Premix","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA37,"Nestle a + Milk (12*1L)","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA38,"Sugar Sachet White","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA39,"Wooden Stirrer","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA4-1,"Seek jharu 400 industrial","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA40,"Rental Charges for Coffee tea Vending M/C","Consumable Item ( Admin Use)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CNA46,"Visiting Card' Arifa","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA5-1,"Wiper Industial","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA50,"Flyer  -Idos","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA6-1,"Wiper 16""","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA7-1,"Glass Clinar","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA79,"INDEX FILE","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA8-1,"Writing Paid No,22","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA80,"DIARY","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA81,"Stapler  Pin Big","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA85,"All Product Flyer","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA9-1,"Air Wick Auto Refil","Consumable Item ( Admin Use)","","Part",YES
+MISSING_IN_JOSH_AI,CNA96,"Stapler Pin Small","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CNA97,"Cartage","Consumable Item ( Admin Use)","Stationery","Part",YES
+MISSING_IN_JOSH_AI,CON1-1,"Spare KIT- Micro Filter T100Y","Consumable Item (Machine)","Spares","Part",YES
+MISSING_IN_JOSH_AI,CON10,"Oil Filter Element EA100AO","Consumable Item (Machine)","","Part",YES
+MISSING_IN_JOSH_AI,CON11,"Oil Filter Element EA100AA Filter  Element Material- Glass Fiber, Stainless  Steel Max.Working Pressure-10 Bar Residual Oil Content <0.01mg/m3","Consumable Item (Machine)","","Part",YES
+MISSING_IN_JOSH_AI,CON12,"Oil Filter Element EA100ACS Filter  Element Material- Glass Fiber, Stainless  Steel, Activated Carbon Max.Working Pressure-10 Bar Residual Oil","Consumable Item (Machine)","","Part",YES
+MISSING_IN_JOSH_AI,CON13,"Sensor Oxygen Analyzer For Oxygen Plant(0-100%) Number Of Electrode/ 3 Output/ 9-13 MV In Air Measurement Range/ 100% Vol Cell","Consumable Item (Machine)","","Part",YES
+MISSING_IN_JOSH_AI,CON2-1,"Activated Alumina","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,CON3-1,"Seals  O ring Spare KIT DPS-10","Absstem Shield","Spares","Part",NO
+MISSING_IN_JOSH_AI,CON31,"Rental change for coffee Tea Vending M/c  10 days","Consumable Item (Machine)","Pantry Item","Part",YES
+MISSING_IN_JOSH_AI,CON4-1,"Exhaust Valve Spare Kit DPS 20,30,45","Consumable Item (Machine)","Spares","Part",NO
+MISSING_IN_JOSH_AI,CON5,"Diffuser Nylon DPS 30-90-3-R2","Consumable Item (Machine)","Spares","Part",YES
+MISSING_IN_JOSH_AI,CON6,"Diffuser Top nylon DPS 20-45-3-R1","Consumable Item (Machine)","Spares","Part",YES
+MISSING_IN_JOSH_AI,CON7,"Muffler Dry spell plus 20&30","Consumable Item (Machine)","Spares","Part",YES
+MISSING_IN_JOSH_AI,CON8,"Acrylic Body Rotameter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,CON9,"Grease","Consumable Item (Machine)","","Part",YES
+MISSING_IN_JOSH_AI,CP025,"Copper Deoxo 25Nm3/Hr","Nitrogen","Copper Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,CP060,"Copper Deoxo 60 Nm3/hr","Nitrogen","Copper Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,DBS221M,"DBS221M","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Part",YES
+MISSING_IN_JOSH_AI,DPM-01,"Dew Point Sensor","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,ELC1,"Power Cable- For desktop-pc","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,ELC2,"Electrical Sheet 8*3","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,ELC3,"Electrical Box 8*3 PVC","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,ELC4,"Electrical Switch 6 AMP","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,ELC5,"Electrical Socket 6 AMP","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,ELC6,"Copper Earthing 3 MTR","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,ELC7,"PVC Tape ( Insulation)","Electrical Item","","Part",YES
+MISSING_IN_JOSH_AI,FA1,"Floor Plastic Mat","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA10,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA11,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA12,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA13,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA14,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA15,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA16,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA17,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA18,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA19,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA2,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA20,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA21,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA22,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA23,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA24,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA25,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA26,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA266,"ASUS Zenbok","Fixed Asset","Laptop","Part",YES
+MISSING_IN_JOSH_AI,FA267,"Dell Lattitude 3410 i510th GEN 16 GB RAm","Fixed Asset","Laptop","Part",YES
+MISSING_IN_JOSH_AI,FA268,"Zebronics Screen","Fixed Asset","Laptop","Part",YES
+MISSING_IN_JOSH_AI,FA269,"Rossman Expresso","Fixed Asset","Office Equipments","Part",YES
+MISSING_IN_JOSH_AI,FA27,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA277,"Dell KM3322W Wireless USB Keyboard and Mouse","Fixed Asset","Office Equipments","Part",YES
+MISSING_IN_JOSH_AI,FA278,"HP Wireless Mouse","Fixed Asset","Office Equipments","Part",YES
+MISSING_IN_JOSH_AI,FA279,"Envelope Industrial Small","Fixed Asset","Office Equipments","Part",YES
+MISSING_IN_JOSH_AI,FA28,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA280,"Envelope Industrial A 4","Fixed Asset","Office Equipments","Part",YES
+MISSING_IN_JOSH_AI,FA281,"MSI Thin 15, Intel 13th Gen Core i7-","Fixed Asset","Laptop","Part",YES
+MISSING_IN_JOSH_AI,FA29,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA3,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA30,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA31,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA32,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA33,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA34,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA35,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA36,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA37,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA38,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA39,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA4,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA40,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA41,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA42,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA43,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA44,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA45,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA46,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA47,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA48,"Executive Chair","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA49,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA5,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA50,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA51,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA52,"Dell Think client system","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA53,"Dell Think client system","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA54,"Keyboard and mouse combo-wireless","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA55,"Adaptor C Port to Lan","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA56,"Adaptor C Port to Lan","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA57,"Adaptor C Port to Lan","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA58,"Adaptor C Port to Lan","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA59,"Adaptor USB to LAN","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA6,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA60,"Adaptor USB to LAN","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA61,"Adaptor USB to LAN","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA62,"HP- W300 1080P HD Web camera with Built-in Mic","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA63,"SSD Hard Drive-500 GB","Fixed Asset","","Part",YES
+MISSING_IN_JOSH_AI,FA64,"EPABX-CCL-Copper Connections 2/16 EPABX with advance features","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA65,"Telephone Single line corded Landline Phone","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA66,"Telephone Single line corded Landline Phone","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA67,"Telephone Single line corded Landline Phone","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA68,"Telephone Landline","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA69,"Refrigerator 192 LTR","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA7,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA73,"Tabletop Standee IDOS","Fixed Asset","Standee","Part",YES
+MISSING_IN_JOSH_AI,FA74,"Tabletop Standee NGENX","Fixed Asset","Standee","Part",YES
+MISSING_IN_JOSH_AI,FA75,"Tabletop Standee NGEN","Fixed Asset","Standee","Part",YES
+MISSING_IN_JOSH_AI,FA8,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA80,"HP Laptop -Refurbished","Fixed Asset","Laptop","Part",YES
+MISSING_IN_JOSH_AI,FA9,"Mid-Back Adjustable Height Drafting Chair with Armrest","Fixed Asset","","Equipment",YES
+MISSING_IN_JOSH_AI,FA94,"HP LAPTOP","Fixed Asset","Laptop","Part",YES
+MISSING_IN_JOSH_AI,FRE1,"Freight and Transit Insurance","Freight","Freight and Transit Insurance","Part",YES
+MISSING_IN_JOSH_AI,G011ZP/M,"Filter Element G011 ZP","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,GEN1,"nGEN 02 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,GR1000,"Gas Storage 1000 Ltr","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,GR1000-60,"Gas Storage 1000 liters 60 Barg","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,GR3000,"Gas Storage 3000 ltr 40 Barg","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,GR30000,"Gas Storage 30Cubic Meter 40 Barg","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,GR500,"Gas Storage 500 ltr 50 Barg","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,HEFREE,"He Free Nitrogen Module","Absstem Shield","Spares","Equipment",YES
+MISSING_IN_JOSH_AI,HP040,"HP040","Nitrogen","Deoxo Unit","Equipment",NO
+MISSING_IN_JOSH_AI,HP060,"Deoxo Unit 60 Nm3","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,HPS1,"6000 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS10,"1000 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS11,"1500 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS12,"2000 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS13,"3000 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS14,"10000 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS15,"1000 ltr HP Storage Tank 65 Barg","High Pressure Storage Tank","HP Storage Tank 65 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS16,"2000 ltr HP Storage Tank 65 Barg","High Pressure Storage Tank","HP Storage Tank 65 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS17,"1000 Ltr HP Storage Tank 45 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS18,"8000 Ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS19,"20000 Ltr HP Storage Tank 17 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS2,"500 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS20,"40000 Ltr HP Storage Tank 17 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS25,"10000 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Part",YES
+MISSING_IN_JOSH_AI,HPS3,"1000 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS4,"1500 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS5,"2000 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS6,"3000 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS7,"5000 ltr HP Storage Tank 20 Barg","High Pressure Storage Tank","HP Storage Tank 20 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,HPS8,"5000 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","","Equipment",YES
+MISSING_IN_JOSH_AI,HPS9,"500 ltr HP Storage Tank 40 Barg","High Pressure Storage Tank","HP Storage Tank 40 Barg","Equipment",YES
+MISSING_IN_JOSH_AI,IC1001,"TEST ITEM","NH3","FOOD ITEMS,  TESTING","Equipment",YES
+MISSING_IN_JOSH_AI,IC1002,"C2H5","Booster","Industrial Oxygen","Equipment",YES
+MISSING_IN_JOSH_AI,IDO1,"INDUSTRIAL OXYGEN GENERATOR","Oxygen","IDOS Oxygen Generator","Part",YES
+MISSING_IN_JOSH_AI,IDO2,"Containerized IDOS 09 Package","Oxygen","Containerized IDOS Oxygen Generator","Part",YES
+MISSING_IN_JOSH_AI,IDO3,"Containerized IDOS 18 Package","Oxygen","Containerized IDOS Oxygen Generator","Part",YES
+MISSING_IN_JOSH_AI,IDO4,"Containerized IDOS 25 Package","Oxygen","Containerized IDOS Oxygen Generator","Part",YES
+MISSING_IN_JOSH_AI,IDOS,"iDOS 100 E","NH3","FOOD ITEMS,  TESTING","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS01,"IDOS 01","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS01CP,"IDOS 01 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS01ST,"IDOS 01 / 02 / 03 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS02,"IDOS 02","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS02CP,"IDOS 02 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS02ST,"IDOS 02 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS03,"IDOS 03","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS03CP,"IDOS 03 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS03ST,"IDOS 03 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS04,"IDOS 04","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS04CP,"IDOS 04 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS04ST,"IDOS 04 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS05,"IDOS 05","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS05CP,"IDOS 05 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS05ST,"IDOS 05 / 06 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS06,"IDOS 06","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS06CP,"IDOS 06 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS06ST,"IDOS 06 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS07,"IDOS 07","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS07CP,"IDOS 07 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS07ST,"IDOS 07 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS09,"IDOS 09","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS09CP,"IDOS 09 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS09ST,"IDOS 09 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS10,"iDOS 10","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS100,"iDOS 100","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS100B,"iDOS 100 B","Oxygen","IDOS Oxygen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS10B,"iDOS 10 B","Oxygen","IDOS Oxygen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS110,"IDOS 110","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS110CP,"IDOS 110 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS110ST,"IDOS 110 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS12.5,"IDOS 12.5","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS12.5CP,"IDOS 12.5 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS12.5ST,"IDOS 12.5 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS120,"iDOS 120","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS130,"IDOS 130","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS130CP,"IDOS 130 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS130ST,"IDOS 130 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS15,"IDOS 15","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS150,"IDOS 150","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS150CP,"IDOS 150 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS15CP,"IDOS 15 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS15ST,"IDOS 15 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS18,"IDOS 18","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS18CP,"IDOS 18 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS18ST,"IDOS 18 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS2.5,"iDOS 2.5","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS200,"IDOS 200","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS200CP,"IDOS 200 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS22,"IDOS 22","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS22CP,"IDOS 22 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS22ST,"IDOS 22 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS25,"IDOS 25","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS250,"IDOS 250","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS250CP,"IDOS 250 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS25CP,"IDOS 25 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS25ST,"IDOS 25 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS30,"IDOS 30","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS30CP,"IDOS 30 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS30ST,"IDOS 30 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS40,"IDOS 40","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS40CP,"IDOS 40 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS40ST,"IDOS 40 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS45,"IDOS 45","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS45CP,"IDOS 45 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS45ST,"IDOS 45 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS5.0B,"iDOS 5.0 B","Oxygen","IDOS Oxygen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS50,"IDOS 50","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS50CP,"IDOS 50 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS50ST,"IDOS 50 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS6,"iDOS 6","Oxygen","IDOS Oxygen Generator Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS60,"IDOS 60","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS60CP,"IDOS 60 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS60ST,"IDOS 60 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS6B,"iDOS 6 B","Oxygen","IDOS Oxygen Generator","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS75,"IDOS 75","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS75CP,"IDOS 75 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS75ST,"IDOS 75 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS90,"IDOS 90","Oxygen","IDOS Oxygen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,IDOS90CP,"IDOS 90 CP","Oxygen","IDOS Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,IDOS90ST,"IDOS 90 / 110 ST","Oxygen","IDOS Gas Storage","Equipment",YES
+MISSING_IN_JOSH_AI,IR-15T2X20,"IR-15T2X20","Booster","Lubricated Booster","Equipment",YES
+MISSING_IN_JOSH_AI,IR-231X3,"IR-231X3","Booster","Lubricated Booster","Equipment",YES
+MISSING_IN_JOSH_AI,IR-251X5,"IR-251X5","Booster","Lubricated Booster","Equipment",YES
+MISSING_IN_JOSH_AI,IR-7T2X12.5,"IR-7T2X12.5","Booster","Lubricated Booster","Equipment",YES
+MISSING_IN_JOSH_AI,IR-7T4X5,"IR-7T4X5","Booster","Lubricated Booster","Equipment",YES
+MISSING_IN_JOSH_AI,IT1-1,"RJ 45 Connector","IT","","Part",YES
+MISSING_IN_JOSH_AI,IT2-1,"CAT-6 Cable- Networking Cable ( 350 Meter)","IT","","Part",YES
+MISSING_IN_JOSH_AI,KS-10-P,"42 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-15-P,"69 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-20-P,"91 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-25-P,"116 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-30-P,"137 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-40-P,"198 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-50-P,"244 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,KS-7-P,"35 CFM","ABSSTEM COMPRESSOR PACKAGE","Absstem Air Package","Equipment",YES
+MISSING_IN_JOSH_AI,MEDO01-1,"MedO 01","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO01B-1,"MedO 01 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO02-1,"MedO 02","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO02B-1,"MedO 02 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO03-1,"MedO 03","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO03B-1,"MedO 03 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO04-1,"MedO 04","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO04B-1,"MedO 04 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO05-1,"MedO 05","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO05B-1,"MedO 05 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO06-1,"MedO 06","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO06B-1,"MedO 06 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO07-1,"MedO 07","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO07B-1,"MedO 07 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO09-1,"MedO 09","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO09B-1,"MedO 09 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO110-1,"MedO 110","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO110B-1,"MedO 110 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO12.5-1,"MedO 12.5","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO12.5B-1,"MedO 12.5 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO130-1,"MedO 130","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO130B-1,"MedO 130 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO15-1,"MedO 15","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO150-1,"MedO 150","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO150B-1,"MedO 150 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO15B-1,"MedO 15 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO18-1,"MedO 18","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO18B-1,"MedO 18 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO200-1,"MedO 200","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO200B-1,"MedO 200 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO22-1,"MedO 22","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO22B-1,"MedO 22 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO25-1,"MedO 25","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO25B-1,"MedO 25 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO30-1,"MedO 30","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO30B-1,"MedO 30 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO40-1,"MedO 40","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO40B-1,"MedO 40 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO50-1,"MedO 50","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO50B-1,"MedO 50 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO6.0,"MEDO 6.0","Medo","MEDO ONLY","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO65-1,"MedO 65","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO65B-1,"MedO 65 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO75-1,"MedO 75","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO75B-1,"MedO 75 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO90-1,"MedO 90","Medo","MedO PSA Package","Equipment",NO
+MISSING_IN_JOSH_AI,MEDO90B-1,"MedO 90 B","Medo","MedO PSA Only","Equipment",NO
+MISSING_IN_JOSH_AI,MMOC-2150,"High Pressure Oxygen Compressor","Booster","Medical Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MMOC-4150,"High Pressure Oxygen Compressor","Booster","Medical Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MMOC-4150HI,"High Pressure Oxygen Compressor","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC-2150,"High Pressure Oxygen Compressor","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC-3150-1,"High Pressure Oxygen Compressor","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC-4150,"High Pressure Oxygen Compressor","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC-4150H,"High Pressure Oxygen Compressor","Booster","Medical Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC-7.1150,"High Pressure Oxygen Compressor","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC-7.2150,"High Pressure Oxygen Compressor","Booster","Industrial Oxygen","Part",YES
+MISSING_IN_JOSH_AI,MOC100AW-200BARG,"MOC 100 AW- 200 BARG","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC100W-1,"MOC 100  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC10A-1,"MOC 10  A","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC10LP,"MOC 10 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC12A-1,"MOC 12  A","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC150W-1,"MOC 150  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC15LP,"MOC 15 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC15W-1,"MOC 15  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC2.5A-1,"MOC 2.5  A","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC2.5LP,"MOC 2.5 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC20LP,"MOC 20 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC20W-1,"MOC 20  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC25LP,"MOC 25 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC25W-1,"MOC 25  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC30LP,"MOC 30 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC30W-1,"MOC 30  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC40LP,"MOC 40 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC40W-1,"MOC 40  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC50LP,"MOC 50 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC50W-1,"MOC 50  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC5A-1,"MOC 5  A","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC5LP,"MOC 5 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC7.5A-1,"MOC 7.5  A","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC7.5LP,"MOC 7.5 LP","Booster","LP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,MOC75W-1,"MOC 75  W","Booster","HP Booster","Equipment",YES
+MISSING_IN_JOSH_AI,NBC400LP200MBAR,"NBC  400 LP 200 mbarg-6 Barg","Booster","LP Booster","Part",YES
+MISSING_IN_JOSH_AI,NBC40HP300BARG,"NBC 40 HP 300 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,NBC80HP300BARG,"NBC 80 HP 300 Barg","Booster","HP Booster","Part",YES
+MISSING_IN_JOSH_AI,NGEN002UHM,"nGEN002UH M","Nitrogen","nGen Nitrogen Generator Ultra Purity","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN01,"nGEN 01","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN01B,"nGEN 01 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN01CP,"nGEN 01 CP / nGenx 01 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN01DX,"nGEN 01 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN01DXC,"nGEN 01 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN01P,"nGEN 01 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN01PB,"nGEN 01 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN01ST,"nGEN 01 / 02 / 04 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN02,"nGEN 02","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN02B,"nGEN 02 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN02CP,"nGEN 02 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN02ST,"nGEN 02 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN04,"nGEN 04","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN04B,"nGEN 04 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN04CP,"nGEN 04 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN04DX,"nGEN 04 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN04DXC,"nGEN 04 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN04ST,"nGEN 04 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN05,"nGEN 05","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN05B,"nGEN 05 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN05CP,"nGEN 05 CP / nGenx 04 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN05DX,"nGEN 05 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN05DXC,"nGEN 05 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN05P,"nGEN 05 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN05PB,"nGEN 05 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN05ST,"nGEN 05 / 07 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN07,"nGEN 07","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN07B,"nGEN 07 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN07CP,"nGEN 07 CP / nGenx 05 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN07DX,"nGEN 07 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN07DXC,"nGEN 07 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN07P,"nGEN 07 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN07ST,"nGEN 07 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN08,"nGEN 08","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN08B,"nGEN 08 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN08CP,"nGEN 08 CP / nGenx 07 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN08ST,"nGEN 08 / 09 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN09,"nGEN 09","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN09B,"nGEN 09 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN09CP,"nGEN 09 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN09DX,"nGEN 09 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN09DXC,"nGEN 09 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN09ST,"nGEN 09 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN10,"nGEN 10","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN100,"nGEN 100","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN100B,"nGEN 100 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN100CP,"nGEN 100 CP / nGEN 96 CP / nGEN 99 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN100P,"nGEN 100 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN100PB,"nGEN 100 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN100ST,"nGEN 96/ 99/ 100 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN10B,"nGEN 10 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN10CP,"nGEN 10 CP / nGenx 08 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN10DX,"nGEN 10 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN10DXC,"nGEN 10 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN10P,"nGEN 10 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN10PB,"nGEN 10 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN10ST,"nGEN 10 / 13 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN110,"nGEN 110","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN110B,"nGEN 110 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN110CP,"nGEN 110 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN110DX,"nGEN 110 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN110DXC,"nGEN 110 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN110P,"nGEN 110 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN110PB,"nGEN 110 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN110ST,"nGEN 110 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN115,"nGEN 115","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN115DX,"nGEN 115 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN115DXC,"nGEN 115 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN120,"nGEN 120","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN120B,"nGEN 120 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN120CP,"nGEN 120 CP / nGEN 115 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN120DX,"nGEN 120 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN120DXC,"nGEN 120 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN120P,"nGEN 120 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN120PB,"nGEN 120 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN120ST,"nGEN 115 / 120 / 130 / 140 / 145 / 150 / 160  ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN13,"nGEN 13","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN130,"nGEN 130","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN1300PC,"nGEN 1300 PC","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN130B,"nGEN 130 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN130CP,"nGEN 130 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN130DX,"nGEN 130 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN130DXC,"nGEN 130 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN130P,"nGEN 130 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN130PB,"nGEN 130 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN130ST,"nGEN 130 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN140,"nGEN 140","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN140B,"nGEN 140 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN140CP,"nGEN 140 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN140P,"nGEN 140 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN140PB,"nGEN 140 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN140ST,"nGEN 140 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN145,"nGEN 145","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN145CP,"nGEN 145 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN145DX,"nGEN 145 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN145DXC,"nGEN 145 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN145SH,"nGEN145SH","Nitrogen","nGen Nitrogen Generator High Purity","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN15,"nGEN 15","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN150,"nGEN 150","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN150B,"nGEN 150 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN150CP,"nGEN 150 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN150P,"nGEN 150 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN150PB,"nGEN 150 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN150ST,"nGEN 150 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN15DX,"nGEN 15 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN15DXC,"nGEN 15 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN160,"nGEN 160","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN1600PC,"nGEN 1600 PC","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN160B,"nGEN 160 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN160CP,"nGEN 160 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN160P,"nGEN 160 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN160PB,"nGEN 160 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN160ST,"nGEN 160 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN160VPC,"Ngen 200 VPC","Nitrogen","nGen Nitrogen Generator Package","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN170,"nGEN 170","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN170B,"nGEN 170 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN170CP,"nGEN 170 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN170P,"nGEN 170 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN170PB,"nGEN 170 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN170ST,"nGEN 170 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN20,"nGEN 20","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN2000UH,"nGEN2000UH","Nitrogen","nGen Nitrogen Generator Ultra Purity","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN20B,"nGEN 20 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN20CP,"nGEN 20 CP / nGenx 10 CP / nGen 13 CP / nGen 15 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN20P,"nGEN 20 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN20PB,"nGEN 20 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN20ST,"nGEN 15 / 20 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN25,"nGEN 25","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN25DX,"nGEN 25 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN25DXC,"nGEN 25 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN30,"nGEN 30","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN30B,"nGEN 30 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN30CP,"nGEN 30 CP / nGen 25 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN30P,"nGEN 30 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN30PB,"nGEN 30 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN30ST,"nGEN 25 / 30 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN35S,"nGEN 35 S","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN35SCP,"nGEN 35 SCP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN40,"nGEN 40","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN4000C,"nGEN 4000 C","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN40B,"nGEN 40 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN40CP,"nGEN 40 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN40DX,"nGEN 40 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN40DXC,"nGEN 40 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN40P,"nGEN 40 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN40PB,"nGEN 40 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN40ST,"nGEN 40 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN50,"nGEN 50","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN5000C,"nGEN 5000 C","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN50B,"nGEN 50 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN50CP,"nGEN 50 CP / nGen 55 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN50P,"nGEN 50 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN50PB,"nGEN 50 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN50ST,"nGEN 50 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN55,"nGEN 55","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN55DX,"nGEN 55 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN55DXC,"nGEN 55 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN60,"nGEN 60","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN60B,"nGEN 60 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN60CP,"nGEN 60 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN60P,"nGEN 60 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN60PB,"nGEN 60 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN60ST,"nGEN 55 / 60 / 65 / 70 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN65,"nGEN 65","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN65DX,"nGEN 65 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN65DXC,"nGEN 65 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN70,"nGEN 70","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70B,"nGEN 70 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70CP,"nGEN 70 CP / nGen 65 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70P,"nGEN 70 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70PB,"nGEN 70 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70S,"nGEN 70 S","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70SCP,"nGEN 70 SCP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN70ST,"nGEN 70 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN80,"nGEN 80","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN80B,"nGEN 80 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN80CP,"nGEN 80 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN80DX,"nGEN 80 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN80DXC,"nGEN 80 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN80P,"nGEN 80 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN80PB,"nGEN 80 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN80ST,"nGEN 80 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN85,"nGEN 85","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN90,"nGEN 90","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN90B,"nGEN 90 B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN90CP,"nGEN 90 CP / nGEN 85 CP","Nitrogen","nGen Air Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN90DX,"nGEN 90 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN90DXC,"nGEN 90 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN90P,"nGEN 90 P","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN90PB,"nGEN 90 P B","Nitrogen","nGen Nitrogen Generator Package","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN90ST,"nGEN 85 / 90 ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN96,"nGEN 96","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN96DX,"nGEN 96 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN96DXC,"nGEN 96 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN99,"nGEN 99","Nitrogen","nGen Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGEN99DX,"nGEN 99 DX","Nitrogen","Deoxo Unit","Equipment",YES
+MISSING_IN_JOSH_AI,NGEN99DXC,"nGEN 99 DXC","Nitrogen","Deoxo with Cracker","Equipment",YES
+MISSING_IN_JOSH_AI,NGENX01,"nGenx 01","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX02,"nGenx 02","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX04,"nGenx 04","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX05,"nGenx 05","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX07,"nGenx 07","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX08,"nGenx 08","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX10,"nGenx 10","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX15,"nGenx 15","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX25,"nGenx 25","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX60,"nGenx 60","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENX65,"nGenx 65","Nitrogen","nGenx Nitrogen Generator","Equipment",NO
+MISSING_IN_JOSH_AI,NGENXST,"nGenx ST","Nitrogen","nGen Gas Storage","Equipment",NO
+MISSING_IN_JOSH_AI,NGN1,"Deoxo Unit 75 Nm3/Hr","Nitrogen","Deoxo Unit","Part",YES
+MISSING_IN_JOSH_AI,NGN2,"nGenXC","Nitrogen","nGenx Nitrogen Generator","Part",YES
+MISSING_IN_JOSH_AI,NGN3,"Nitrogen Gas Generator 50 LPM MAP2","Nitrogen","nGen Nitrogen Generator","Part",NO
+MISSING_IN_JOSH_AI,OXYGENGASFLOWMETER,"F 500 Oxygen Flow Meter","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,P&F1,"Packing and Forwarding","Packing and Forwarding","Packing and Forwarding","Part",YES
+MISSING_IN_JOSH_AI,PRV0610,"PRV0610","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,RELC0004,"RELAY CARD 4C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,RELC0008,"Relay CARD 8C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,SA000256,"Junction BoxHENSELKM91056 Port","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,SER-23-24-001,"Service Charge","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,SER1,"Scaf folding","Service","ASK","Part",YES
+MISSING_IN_JOSH_AI,SER2,"COC CHARGES","Service","Spares","Part",YES
+MISSING_IN_JOSH_AI,SERVICE1D,"One Day Service","Oxygen","Services1","Part",YES
+MISSING_IN_JOSH_AI,SFG1-1,"ARV","SFG","","Part",YES
+MISSING_IN_JOSH_AI,SFG2,"VT","SFG","","Part",YES
+MISSING_IN_JOSH_AI,SPF419,"Hose,15,Crimped,Synthetic Rubber,Parker-Air Master,Female-PT,0-35 Barg,-35C to 100C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,SPF756,"Hose,1,Crimped,Synthetic Rubber,Parker-R2,Female-PT,0-150 Barg,-35C to 100C","Absstem Shield","Spares","Part",YES
+MISSING_IN_JOSH_AI,TEST01,"Test","Testing","FOOD ITEMS,  TESTING","Equipment",YES
+MISSING_IN_JOSH_AI,TEST011,"TEST01","Testing","Test","Part",YES
+MISSING_IN_JOSH_AI,TEST2,"TEST2","Absstem Shield","Service","Part",YES
+MISSING_IN_JOSH_AI,TEST2024,"test2024","Testing","Test","Part",NO
+MISSING_IN_JOSH_AI,TST,"test","Testing","FOOD ITEMS,  TESTING","Equipment",YES
+MISSING_IN_JOSH_AI,ZV-4.0/(5)-40,"ZV-40/5-40","Booster","LP Booster 40 Barg","Part",YES

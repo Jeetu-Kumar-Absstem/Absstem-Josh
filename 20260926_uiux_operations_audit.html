@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Josh UI/UX and Operations Audit</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --ink: #172033;
+      --muted: #5c6982;
+      --line: #dbe3ef;
+      --blue: #2454d3;
+      --blue-soft: #edf3ff;
+      --amber: #a46500;
+      --amber-soft: #fff4df;
+      --red: #b33838;
+      --red-soft: #fff0f0;
+      --green: #1d7a45;
+      --green-soft: #edf9f1;
+      --shadow: 0 18px 40px rgba(23, 32, 51, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.5;
+    }
+    .wrap {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 28px;
+    }
+    .hero, .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      box-shadow: var(--shadow);
+    }
+    .hero {
+      padding: 28px 30px;
+      background: linear-gradient(135deg, #ffffff 0%, #f7faff 52%, #eef4ff 100%);
+      margin-bottom: 22px;
+    }
+    .eyebrow {
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 700;
+    }
+    h1 {
+      margin: 8px 0 10px;
+      font-size: 34px;
+      line-height: 1.1;
+    }
+    h2 {
+      margin: 0 0 12px;
+      font-size: 22px;
+    }
+    h3 {
+      margin: 0 0 8px;
+      font-size: 17px;
+    }
+    p {
+      margin: 0;
+      color: var(--muted);
+    }
+    .hero-grid, .grid-2, .grid-3, .grid-4 {
+      display: grid;
+      gap: 16px;
+    }
+    .hero-grid { grid-template-columns: 1.3fr 0.9fr; margin-top: 18px; }
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .grid-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .panel { padding: 22px; margin-bottom: 18px; }
+    .stat {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 16px;
+      background: #fff;
+    }
+    .stat strong {
+      display: block;
+      font-size: 28px;
+      margin-top: 6px;
+      color: var(--blue);
+    }
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      border: 1px solid transparent;
+    }
+    .chip.blue { background: var(--blue-soft); color: var(--blue); border-color: #cfe0ff; }
+    .chip.amber { background: var(--amber-soft); color: var(--amber); border-color: #f1d3a3; }
+    .chip.red { background: var(--red-soft); color: var(--red); border-color: #f2caca; }
+    .chip.green { background: var(--green-soft); color: var(--green); border-color: #cfe9d9; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 14px;
+    }
+    th, td {
+      border: 1px solid var(--line);
+      padding: 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #f7faff;
+      font-size: 12px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #51607b;
+    }
+    ul {
+      margin: 10px 0 0 18px;
+      padding: 0;
+      color: var(--muted);
+    }
+    li { margin: 6px 0; }
+    .callout {
+      border-left: 4px solid var(--blue);
+      padding: 14px 16px;
+      border-radius: 14px;
+      background: #f7faff;
+      color: var(--ink);
+    }
+    .phase {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      background: #fff;
+    }
+    .phase .tag {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--blue);
+      background: var(--blue-soft);
+      border: 1px solid #d5e4ff;
+      border-radius: 999px;
+      padding: 4px 9px;
+      margin-bottom: 10px;
+    }
+    .footer-note {
+      margin-top: 10px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    @media (max-width: 980px) {
+      .hero-grid, .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+      .wrap { padding: 16px; }
+      h1 { font-size: 28px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="eyebrow">Read-only audit</div>
+      <h1>Josh UI/UX and ease-of-operations audit</h1>
+      <p>This review is based on a read-only walkthrough of the main app shell, Home, Quotes, Manufacturing BOMs, Admin Desk, Tally Import, and SuperAdmin governance surfaces. No source code was changed.</p>
+      <div class="hero-grid">
+        <div class="callout">
+          <strong>Overall readout</strong>
+          <p style="margin-top:8px">The product direction is strong: queue-first work, guided flows, and role-led navigation are already visible. The main issue is not missing capability. It is operational density. Users are still being asked to solve too much master-data, approval, mailbox, and exception handling inside their primary transaction screens.</p>
+        </div>
+        <div class="grid-2">
+          <div class="stat">
+            <span class="eyebrow">Primary strength</span>
+            <strong>Guided desks</strong>
+            <p>Home, Quotes, and BOM already push users toward focused work instead of generic menu browsing.</p>
+          </div>
+          <div class="stat">
+            <span class="eyebrow">Primary risk</span>
+            <strong>Workflow drag</strong>
+            <p>Master-data gaps, approval routing, and admin fragmentation slow down completion even when the UI itself is improved.</p>
+          </div>
+        </div>
+      </div>
+      <div class="chip-row">
+        <span class="chip green">Strong Autopilot direction</span>
+        <span class="chip amber">High dependency on setup quality</span>
+        <span class="chip red">Approval and mailbox bottlenecks</span>
+        <span class="chip blue">Best next step is no-code operational cleanup</span>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Audit scope</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Surface</th>
+            <th>Perspective</th>
+            <th>What was assessed</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>App shell and Home</td>
+            <td>User</td>
+            <td>Navigation clarity, queue visibility, role-led launch behavior, ease of starting work</td>
+          </tr>
+          <tr>
+            <td>Quotes and Smart Quote Builder</td>
+            <td>User</td>
+            <td>Quote initiation, draft recovery, customer setup, product selection, approval and send readiness</td>
+          </tr>
+          <tr>
+            <td>Manufacturing BOMs</td>
+            <td>User / operations</td>
+            <td>Readiness-led BOM work, revision handling, lock flow, import friction, dependency clarity</td>
+          </tr>
+          <tr>
+            <td>Admin Desk and Tally Import</td>
+            <td>Admin</td>
+            <td>Governance, role changes, audit visibility, reconciliation flow, refresh and search behavior</td>
+          </tr>
+          <tr>
+            <td>SuperAdmin surfaces</td>
+            <td>Admin / governance</td>
+            <td>Business setup, org and access, approval policy, setup ownership, cross-desk coherence</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>What is working well</h2>
+      <div class="grid-3">
+        <div class="phase">
+          <div class="tag">User navigation</div>
+          <h3>Home is role-first</h3>
+          <p>Home is clearly trying to behave like a working inbox instead of a dashboard wallpaper. “Do this next”, “Waiting on you”, and role-filtered desks are the right structural choices.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">Sales flow</div>
+          <h3>Quotes have a real guided path</h3>
+          <p>The queue-first quote desk and the 4-step builder are aligned with real sales behavior. The app now favors guided creation first and detailed control only when needed.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">Factory governance</div>
+          <h3>BOM editing is controlled</h3>
+          <p>The readiness states, lock states, inheritance rules, and revision model protect operational integrity. That is a solid base for scale.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>User perspective</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Workflow</th>
+            <th>What users experience</th>
+            <th>Ease-of-operation issue</th>
+            <th>Likely bottleneck</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Start from Home</td>
+            <td>Good role-led homepage, but high reliance on hidden launch state and pinned shortcuts.</td>
+            <td>Important desks can stay buried because only a small set of pins is surfaced prominently.</td>
+            <td>Users need tribal knowledge to know which desk owns which exception.</td>
+          </tr>
+          <tr>
+            <td>Create a quote</td>
+            <td>The builder is better structured, but sellers still handle customer setup, catalog dependency, pricing rules, approval logic, and mail readiness in one flow.</td>
+            <td>The UI is cleaner than before, yet the operational load is still concentrated in the seller screen.</td>
+            <td>Customer master gaps, product master gaps, approval setup, and mailbox readiness.</td>
+          </tr>
+          <tr>
+            <td>Resume quote queue work</td>
+            <td>Queue cards are informative and action-oriented.</td>
+            <td>Status progression is easier to see than before, but the underlying rule system is still heavy for casual users.</td>
+            <td>Approvals waiting, stale drafts, and unclear ownership for quotes that are ready but unsent.</td>
+          </tr>
+          <tr>
+            <td>Build or revise BOM</td>
+            <td>The readiness-led editor is strong, but the operator still needs to understand FG readiness, inheritance, spec discipline, and approval lock behavior.</td>
+            <td>Users can only move quickly when upstream product data is already clean.</td>
+            <td>Product Master quality, spec completeness, approver availability, and import correction loops.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>Admin perspective</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Workflow</th>
+            <th>What admins experience</th>
+            <th>Ease-of-operation issue</th>
+            <th>Likely bottleneck</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Admin Desk</td>
+            <td>A compact control room for audit, RBAC, and backup visibility.</td>
+            <td>Useful summary coverage, but data loads are broad and the workflow feels more like a technical console than an admin journey.</td>
+            <td>Reload cost, inconsistent filter behavior, and limited role-change depth in the desk itself.</td>
+          </tr>
+          <tr>
+            <td>Tally Import</td>
+            <td>Powerful staged workflow with preview, match, reconcile, approve, and commit.</td>
+            <td>High-risk tasks rely heavily on operator discipline rather than a narrower safeguarded path.</td>
+            <td>Reviewer throughput on exceptions, entity mistakes, and commit hesitation under variance.</td>
+          </tr>
+          <tr>
+            <td>SuperAdmin setup</td>
+            <td>Important controls exist across multiple dedicated surfaces like `UserMaster`, `RightsMatrix`, `AdminMasters`, and `ApprovalPolicyMatrix`.</td>
+            <td>The system is rich, but the mental split between admin operator, business admin, and superadmin is still blurry.</td>
+            <td>Governance fragmentation and unclear ownership boundaries.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>Main bottlenecks</h2>
+      <div class="grid-2">
+        <div class="phase">
+          <div class="tag">1</div>
+          <h3>Master-data dependency inside transaction flows</h3>
+          <p>Quotes and BOMs are faster only when customer, site, contact, product, spec, and company setup are already clean. Today, too much of that cleanup still lands on the person trying to finish a live transaction.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">2</div>
+          <h3>Approval paths as work blockers</h3>
+          <p>The product exposes approvals clearly, but completion still depends on approver availability, threshold setup, and escalation readiness. That turns policy into queue drag.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">3</div>
+          <h3>Mail and delivery readiness</h3>
+          <p>The quote journey is only truly complete when sender configuration is ready. Sales users should not discover mailbox problems at the last step.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">4</div>
+          <h3>Admin surface fragmentation</h3>
+          <p>Operational admin, business admin, and superadmin capabilities are all present, but they are distributed across separate desks. The split is logical in code, but still expensive in mental overhead.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">5</div>
+          <h3>Search and refresh trust</h3>
+          <p>Several admin and ops screens suggest search and filtering, but the operator experience can feel inconsistent when data refresh behavior is not tightly aligned to filter changes.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">6</div>
+          <h3>Knowledge bottlenecks</h3>
+          <p>The product assumes users know which desk, owner, and escalation route handles a given blocker. That is manageable for power users, but slower for new or occasional operators.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Priority assessment</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Theme</th>
+            <th>Impact</th>
+            <th>Urgency</th>
+            <th>Why it matters now</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Customer and product data stewardship</td>
+            <td>Very high</td>
+            <td>Immediate</td>
+            <td>This is the root cause behind a large share of friction in quote start, quote send, and BOM preparation.</td>
+          </tr>
+          <tr>
+            <td>Approval SLA and backup approver rules</td>
+            <td>Very high</td>
+            <td>Immediate</td>
+            <td>Without this, the app remains operationally correct but slower than it feels it should be.</td>
+          </tr>
+          <tr>
+            <td>Admin / superadmin responsibility mapping</td>
+            <td>High</td>
+            <td>Short term</td>
+            <td>Admins need a simpler operating model, not just more tools.</td>
+          </tr>
+          <tr>
+            <td>Mailbox and delivery ownership</td>
+            <td>High</td>
+            <td>Short term</td>
+            <td>The quote flow loses credibility when delivery fails at the end.</td>
+          </tr>
+          <tr>
+            <td>Operator runbooks and role onboarding</td>
+            <td>High</td>
+            <td>Short term</td>
+            <td>Training can remove a lot of friction without any product change.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>No-code plan</h2>
+      <div class="grid-2">
+        <div class="phase">
+          <div class="tag">Phase 1</div>
+          <h3>Stabilize the operating model</h3>
+          <ul>
+            <li>Define ownership for every critical queue: pending approvals, issued-not-sent quotes, stale drafts, BOM setup gaps, and Tally review exceptions.</li>
+            <li>Create backup approver rules for quote and BOM approval workflows.</li>
+            <li>Assign named mailbox owners and fallback sender rules for quote delivery.</li>
+            <li>Publish a simple “which desk handles what” map by role family.</li>
+          </ul>
+        </div>
+        <div class="phase">
+          <div class="tag">Phase 2</div>
+          <h3>Remove setup friction from live work</h3>
+          <ul>
+            <li>Set a same-day SLA for urgent customer, site, contact, and product-master requests tied to active commercial work.</li>
+            <li>Run a recurring BOM readiness review for FG setup gaps, specs, and inherited BOM ownership.</li>
+            <li>Pre-create common customer contacts, sites, and frequently quoted configurations for top accounts.</li>
+            <li>Document standard commercial defaults so sellers know when they are safe to stay on the default path.</li>
+          </ul>
+        </div>
+        <div class="phase">
+          <div class="tag">Phase 3</div>
+          <h3>Professionalize admin operations</h3>
+          <ul>
+            <li>Separate operating responsibilities clearly: Admin Desk for live governance, SuperAdmin for setup and policy, Tally Import for controlled financial migration work.</li>
+            <li>Create short runbooks for audit review, role change, backup verification, Tally import, and variance escalation.</li>
+            <li>Introduce a fixed cadence: daily audit check, weekly backup verification, scheduled import windows, and monthly rights review.</li>
+            <li>Track unresolved admin exceptions in one owner-led queue instead of leaving them embedded across tools.</li>
+          </ul>
+        </div>
+        <div class="phase">
+          <div class="tag">Phase 4</div>
+          <h3>Measure friction before changing UI again</h3>
+          <ul>
+            <li>Measure time-to-first-quote, quote-to-send cycle time, approval turnaround time, and BOM activation turnaround.</li>
+            <li>Track how many live transactions are blocked by setup, approval, mailbox, or missing master-data.</li>
+            <li>Use pilot feedback to separate training problems from actual product problems.</li>
+            <li>Only after these numbers settle should the next UI/code round be prioritized.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Recommended first moves</h2>
+      <div class="grid-3">
+        <div class="phase">
+          <div class="tag">This week</div>
+          <h3>Queue ownership</h3>
+          <p>Name owners for quote approvals, quote send readiness, BOM setup gaps, and Tally review exceptions.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">This week</div>
+          <h3>Master-data desk discipline</h3>
+          <p>Stand up a fast-response process for customer, product, and BOM-readiness requests linked to live work.</p>
+        </div>
+        <div class="phase">
+          <div class="tag">Next 2 weeks</div>
+          <h3>Admin boundary cleanup</h3>
+          <p>Publish one plain-language guide showing when to use `AdminDesk`, `UserMaster`, `RightsMatrix`, `AdminMasters`, `ApprovalPolicyMatrix`, and `TallyImportDesk`.</p>
+        </div>
+      </div>
+      <p class="footer-note">If you want, this audit can be converted next into a module-by-module execution backlog without touching the codebase.</p>
+    </section>
+  </div>
+</body>
+</html>

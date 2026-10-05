@@ -1,0 +1,13 @@
+josh.absstem.com {
+  encode gzip
+
+  @api path /api/* /api* /auth/* /me /health /leads* /customers* /quotes* /sales-orders* /dispatches* /invoices* /receipts* /products* /templates* /users* /permissions* /admin-masters* /mail-accounts* /manufacturing-boms* /inventory* /sales-desk* /collections-desk* /collections-analytics* /credit-control* /reconciliation-desk* /gl-desk* /finance-landed-cost* /api/vendor-portal* /api/vendors* /api/shop-floor* /shop-floor* /api/sales* /sales-commercial* /api/finance* /finance-accounting* /api/service* /service-maintenance* /api/executive* /executive-analytics* /api/mrp* /mrp-planning* /api/admin* /admin-governance* /purchase-orders* /purchase-requisitions* /vendor-quotes* /purchase-invoices* /goods-receipts* /purchase-returns* /quality-controls* /supplier-claims* /subcontracting* /service-warranty* /service-tickets* /aftermarket-desk* /reverse-logistics* /return-rework* /stock-adjustments* /job-cards* /stock-transfers* /amc-contracts* /sales-returns* /stock-ledger* /three-way-match* /vendor-payments* /vendor-statement* /approval-desk* /approval-policies* /approval-history* /bank-book* /tds* /intercompany-partners* /intercompany-status* /hr* /office-admin* /marketing* /management* /engineering-desk* /job-assets-admin* /pilot-feedback* /notifications* /drive* /inbound-lead-review* /extraction* /proforma-invoices* /tally-export* /field-service* /api/tally* /tally*
+  reverse_proxy @api api:4000
+
+  reverse_proxy frontend:80
+}
+
+api.josh.absstem.com {
+  encode gzip
+  reverse_proxy api:4000
+}

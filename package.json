@@ -1,0 +1,20 @@
+{
+  "name": "josh-erp",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev:server": "npm --workspace server run dev",
+    "dev:client": "npm --workspace client run dev",
+    "dev": "npm run dev:server",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down -v",
+    "local:start": "powershell -ExecutionPolicy Bypass -File ./scripts/start-local.ps1",
+    "promote:check": "powershell -ExecutionPolicy Bypass -File ./scripts/promote-to-live.ps1",
+    "db:dump-help": "powershell -ExecutionPolicy Bypass -File ./scripts/dump-live-instructions.ps1",
+    "db:restore-live": "powershell -ExecutionPolicy Bypass -File ./scripts/restore-local-from-dump.ps1"
+  }
+}
+

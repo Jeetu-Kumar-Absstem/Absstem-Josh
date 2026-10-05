@@ -1,0 +1,33 @@
+{
+  "source": "QuotationReport_07-Sep-2026.xlsx",
+  "cutoff": "2025-09-07",
+  "outputs": {
+    "clean": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\QuotationReport_Clean_AutoClosed.xlsx",
+    "archive": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\QuotationReport_TestArchive.xlsx",
+    "summary": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\QuotationReport_Hygiene_Summary.json"
+  },
+  "summary": {
+    "total_rows": 2354,
+    "test_archived": 67,
+    "auto_closed": 570,
+    "open_kept": 500,
+    "won": 148,
+    "lost_or_closed": 1639,
+    "by_output_status": {
+      "Closed - Project Shelved": 883,
+      "Lost Order": 129,
+      "Closed - No Feedback": 570,
+      "(blank)": 497,
+      "Converted To Order": 143,
+      "Another Quote": 42,
+      "Closed": 13,
+      "Loose order": 2,
+      "Converted": 1,
+      "Ongoing": 3,
+      "Closed in Our Favour": 3,
+      "CONVERTED TO ORDER": 1
+    },
+    "parsed_line_rows": 5665,
+    "parsed_quotes_with_groups": 2283
+  }
+}

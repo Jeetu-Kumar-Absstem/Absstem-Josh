@@ -1,0 +1,198 @@
+{
+  "file": "C:\\Users\\sahni\\My Drive (amit.s@absstem.com)\\Josh\\Transactions (1).xml",
+  "company": "Absstem Industrial Solutions Private Limited",
+  "gstin": "",
+  "voucher_count": 6938,
+  "ledger_master_count": 0,
+  "date_min": "2022-04-13",
+  "date_max": "2026-08-31",
+  "as_of": "2026-09-07",
+  "mtd": "2026-09-01 → 2026-09-07",
+  "types": [
+    {
+      "type": "Journal",
+      "count": 3201,
+      "amount": 99824178.87
+    },
+    {
+      "type": "Payment",
+      "count": 1482,
+      "amount": 267666206.13
+    },
+    {
+      "type": "Purchase",
+      "count": 1326,
+      "amount": 221441246.16
+    },
+    {
+      "type": "Receipt",
+      "count": 402,
+      "amount": 268565484.27
+    },
+    {
+      "type": "Sales",
+      "count": 258,
+      "amount": 271511820.11
+    },
+    {
+      "type": "Stock Journal",
+      "count": 126,
+      "amount": 111835841.88
+    },
+    {
+      "type": "Purchase - RCM",
+      "count": 61,
+      "amount": 2317042
+    },
+    {
+      "type": "Debit Note",
+      "count": 39,
+      "amount": 3064800.6
+    },
+    {
+      "type": "Audit Entry -2023-24",
+      "count": 24,
+      "amount": 1464332
+    },
+    {
+      "type": "Purchase-Import",
+      "count": 12,
+      "amount": 2175658.44
+    },
+    {
+      "type": "Credit Note",
+      "count": 4,
+      "amount": 285672
+    },
+    {
+      "type": "Contra",
+      "count": 3,
+      "amount": 25000
+    }
+  ],
+  "as_of_totals": {
+    "sales": 271511820.11,
+    "sales_count": 258,
+    "purchases": 225933946.6,
+    "purchase_count": 1399,
+    "receipts": 268565484.27,
+    "receipt_count": 402,
+    "payments": 267666206.13,
+    "payment_count": 1482,
+    "credit_notes": 285672,
+    "debit_notes": 3064800.6,
+    "implied_ar_sales_minus_receipts": 5725464.44,
+    "implied_ap_purchases_minus_payments": -41732259.53,
+    "cash_bank_from_ledgers": 916198.14,
+    "gst_liability_from_ledgers": 1252003.15,
+    "gst_output": 5533418.68,
+    "gst_input": 4281415.53,
+    "party_ar_open": 306085480.65,
+    "party_ap_open": 298649289.38,
+    "receipts_with_against_ref": 5,
+    "receipts_on_account": 397,
+    "receipt_against_ref_amount": 1396012
+  },
+  "by_year": [
+    {
+      "year": "2022",
+      "sales": 1052676.82,
+      "receipts": 4123928.01,
+      "purchases": 1098877,
+      "payments": 3781955
+    },
+    {
+      "year": "2023",
+      "sales": 44005634.8,
+      "receipts": 32149012.25,
+      "purchases": 43457627.88,
+      "payments": 31938836.64
+    },
+    {
+      "year": "2024",
+      "sales": 51443201.87,
+      "receipts": 59862289.03,
+      "purchases": 47223532.68,
+      "payments": 57999117.73
+    },
+    {
+      "year": "2025",
+      "sales": 116960115.62,
+      "receipts": 103870067.37,
+      "purchases": 96844645.3,
+      "payments": 104042131.57
+    },
+    {
+      "year": "2026",
+      "sales": 58050191,
+      "receipts": 68560187.61,
+      "purchases": 37309263.74,
+      "payments": 69904165.19
+    }
+  ],
+  "mtd_totals": {
+    "sales": 0,
+    "sales_count": 0,
+    "purchases": 0,
+    "purchase_count": 0,
+    "receipts": 0,
+    "receipt_count": 0,
+    "payments": 0,
+    "payment_count": 0
+  },
+  "top_bank_cash": [
+    {
+      "name": "ICICI Bank - 663305601118",
+      "amount": 875458.14
+    },
+    {
+      "name": "Cash",
+      "amount": 40740
+    }
+  ],
+  "top_gst": [
+    {
+      "name": "Output IGST",
+      "amount": 7202523.98
+    },
+    {
+      "name": "Input CGST",
+      "amount": -1773011.62
+    },
+    {
+      "name": "Input SGST",
+      "amount": -1773011.62
+    },
+    {
+      "name": "Cash - IGST",
+      "amount": -1739676
+    },
+    {
+      "name": "Input IGST",
+      "amount": -735392.29
+    },
+    {
+      "name": "Output CGST",
+      "amount": 40636.35
+    },
+    {
+      "name": "Output SGST",
+      "amount": 40636.35
+    },
+    {
+      "name": "Cash - CGST",
+      "amount": -5351
+    },
+    {
+      "name": "Cash - SGST",
+      "amount": -5351
+    }
+  ],
+  "ecc_screenshot": {
+    "nwc": 230747557.24,
+    "cash": 0,
+    "ar": 271722941.5,
+    "ap": 0,
+    "gst": 40975384.26
+  }
+}

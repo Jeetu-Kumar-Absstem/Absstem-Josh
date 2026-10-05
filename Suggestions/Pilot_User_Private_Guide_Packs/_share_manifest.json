@@ -1,0 +1,236 @@
+[
+  {
+    "fullName": "Tanu Pandey",
+    "deskLabel": "Sales",
+    "folderName": "Sales__Tanu_Pandey__Private_Guide_Pack",
+    "mdFile": "Sales__Tanu_Pandey__Josh_Process_Guide.md",
+    "rtfFile": "Sales__Tanu_Pandey__Josh_Process_Guide.rtf",
+    "loginEmail": "tanu.p@absstem.com",
+    "officialEmail": "tanu.p@absstem.com",
+    "primaryManagerEmail": "arifa.z@absstem.com",
+    "secondaryManagerEmail": "pramod@absstem.com",
+    "recipients": [
+      "tanu.p@absstem.com",
+      "arifa.z@absstem.com",
+      "pramod@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Anshita Verma",
+    "deskLabel": "Marketing",
+    "folderName": "Marketing__Anshita_Verma__Private_Guide_Pack",
+    "mdFile": "Marketing__Anshita_Verma__Josh_Process_Guide.md",
+    "rtfFile": "Marketing__Anshita_Verma__Josh_Process_Guide.rtf",
+    "loginEmail": "contact@absstem.com",
+    "officialEmail": "contact@absstem.com",
+    "primaryManagerEmail": "jeffy.john@absstem.com",
+    "secondaryManagerEmail": "amit.s@absstem.com",
+    "recipients": [
+      "contact@absstem.com",
+      "jeffy.john@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Nanadani",
+    "deskLabel": "Purchase",
+    "folderName": "Purchase__Nanadani__Private_Guide_Pack",
+    "mdFile": "Purchase__Nanadani__Josh_Process_Guide.md",
+    "rtfFile": "Purchase__Nanadani__Josh_Process_Guide.rtf",
+    "loginEmail": "purchase@absstem.com",
+    "officialEmail": "purchase@absstem.com",
+    "primaryManagerEmail": "arun.r@absstem.com",
+    "secondaryManagerEmail": "info@absstem.com",
+    "recipients": [
+      "purchase@absstem.com",
+      "arun.r@absstem.com",
+      "info@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Arun Rai",
+    "deskLabel": "Purchase",
+    "folderName": "Purchase__Arun_Rai__Private_Guide_Pack",
+    "mdFile": "Purchase__Arun_Rai__Josh_Process_Guide.md",
+    "rtfFile": "Purchase__Arun_Rai__Josh_Process_Guide.rtf",
+    "loginEmail": "arun.r@absstem.com",
+    "officialEmail": "arun.r@absstem.com",
+    "primaryManagerEmail": "info@absstem.com",
+    "secondaryManagerEmail": "amit.s@absstem.com",
+    "recipients": [
+      "arun.r@absstem.com",
+      "info@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Rohit Singh",
+    "deskLabel": "Manufacturing",
+    "folderName": "Manufacturing__Rohit_Singh__Private_Guide_Pack",
+    "mdFile": "Manufacturing__Rohit_Singh__Josh_Process_Guide.md",
+    "rtfFile": "Manufacturing__Rohit_Singh__Josh_Process_Guide.rtf",
+    "loginEmail": "production@absstem.com",
+    "officialEmail": "production@absstem.com",
+    "primaryManagerEmail": "abhishek.m@absstem.com",
+    "secondaryManagerEmail": "projects@absstem.com",
+    "recipients": [
+      "production@absstem.com",
+      "abhishek.m@absstem.com",
+      "projects@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Raushan Sharma",
+    "deskLabel": "Stores",
+    "folderName": "Stores__Raushan_Sharma__Private_Guide_Pack",
+    "mdFile": "Stores__Raushan_Sharma__Josh_Process_Guide.md",
+    "rtfFile": "Stores__Raushan_Sharma__Josh_Process_Guide.rtf",
+    "loginEmail": "store@absstem.com",
+    "officialEmail": "store@absstem.com",
+    "primaryManagerEmail": "abhishek.m@absstem.com",
+    "secondaryManagerEmail": "projects@absstem.com",
+    "recipients": [
+      "store@absstem.com",
+      "abhishek.m@absstem.com",
+      "projects@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Ritika Yadav",
+    "deskLabel": "Accounts",
+    "folderName": "Accounts__Ritika_Yadav__Private_Guide_Pack",
+    "mdFile": "Accounts__Ritika_Yadav__Josh_Process_Guide.md",
+    "rtfFile": "Accounts__Ritika_Yadav__Josh_Process_Guide.rtf",
+    "loginEmail": "accounts.industrial@absstem.com",
+    "officialEmail": "accounts.industrial@absstem.com",
+    "primaryManagerEmail": "accounts1@absstem.com",
+    "secondaryManagerEmail": "info@absstem.com",
+    "recipients": [
+      "accounts.industrial@absstem.com",
+      "accounts1@absstem.com",
+      "info@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Ritu",
+    "deskLabel": "Dispatch",
+    "folderName": "Dispatch__Ritu__Private_Guide_Pack",
+    "mdFile": "Dispatch__Ritu__Josh_Process_Guide.md",
+    "rtfFile": "Dispatch__Ritu__Josh_Process_Guide.rtf",
+    "loginEmail": "logistics@absstem.com",
+    "officialEmail": "logistics@absstem.com",
+    "primaryManagerEmail": "abhishek.m@absstem.com",
+    "secondaryManagerEmail": "projects@absstem.com",
+    "recipients": [
+      "logistics@absstem.com",
+      "abhishek.m@absstem.com",
+      "projects@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Shalini Singh",
+    "deskLabel": "Service",
+    "folderName": "Service__Shalini_Singh__Private_Guide_Pack",
+    "mdFile": "Service__Shalini_Singh__Josh_Process_Guide.md",
+    "rtfFile": "Service__Shalini_Singh__Josh_Process_Guide.rtf",
+    "loginEmail": "service@absstem.com",
+    "officialEmail": "service@absstem.com",
+    "primaryManagerEmail": "service.s@absstem.com",
+    "secondaryManagerEmail": "amit@absstem.com",
+    "recipients": [
+      "service@absstem.com",
+      "service.s@absstem.com",
+      "amit@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Amit Sahni",
+    "deskLabel": "SuperAdmin",
+    "folderName": "SuperAdmin__Amit_Sahni__Private_Guide_Pack",
+    "mdFile": "SuperAdmin__Amit_Sahni__Josh_Process_Guide.md",
+    "rtfFile": "SuperAdmin__Amit_Sahni__Josh_Process_Guide.rtf",
+    "loginEmail": "amit.s@absstem.com",
+    "officialEmail": "amit.s@absstem.com",
+    "primaryManagerEmail": "",
+    "secondaryManagerEmail": "",
+    "recipients": [
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Pradeep Sati",
+    "deskLabel": "Engineering",
+    "folderName": "Engineering__Pradeep_Sati__Private_Guide_Pack",
+    "mdFile": "Engineering__Pradeep_Sati__Josh_Process_Guide.md",
+    "rtfFile": "Engineering__Pradeep_Sati__Josh_Process_Guide.rtf",
+    "loginEmail": "info@absstem.com",
+    "officialEmail": "info@absstem.com",
+    "primaryManagerEmail": "amit.s@absstem.com",
+    "secondaryManagerEmail": "",
+    "recipients": [
+      "info@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Pramod Kumar",
+    "deskLabel": "Sales",
+    "folderName": "Sales__Pramod_Kumar__Private_Guide_Pack",
+    "mdFile": "Sales__Pramod_Kumar__Josh_Process_Guide.md",
+    "rtfFile": "Sales__Pramod_Kumar__Josh_Process_Guide.rtf",
+    "loginEmail": "pramod@absstem.com",
+    "officialEmail": "pramod@absstem.com",
+    "primaryManagerEmail": "amit.s@absstem.com",
+    "secondaryManagerEmail": "",
+    "recipients": [
+      "pramod@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Jeffy John",
+    "deskLabel": "Marketing",
+    "folderName": "Marketing__Jeffy_John__Private_Guide_Pack",
+    "mdFile": "Marketing__Jeffy_John__Josh_Process_Guide.md",
+    "rtfFile": "Marketing__Jeffy_John__Josh_Process_Guide.rtf",
+    "loginEmail": "jeffy.john@absstem.com",
+    "officialEmail": "jeffy.john@absstem.com",
+    "primaryManagerEmail": "amit.s@absstem.com",
+    "secondaryManagerEmail": "",
+    "recipients": [
+      "jeffy.john@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Mohit Sharma",
+    "deskLabel": "Manufacturing",
+    "folderName": "Manufacturing__Mohit_Sharma__Private_Guide_Pack",
+    "mdFile": "Manufacturing__Mohit_Sharma__Josh_Process_Guide.md",
+    "rtfFile": "Manufacturing__Mohit_Sharma__Josh_Process_Guide.rtf",
+    "loginEmail": "projects@absstem.com",
+    "officialEmail": "projects@absstem.com",
+    "primaryManagerEmail": "amit.s@absstem.com",
+    "secondaryManagerEmail": "",
+    "recipients": [
+      "projects@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  },
+  {
+    "fullName": "Arifa Zaidi",
+    "deskLabel": "Sales",
+    "folderName": "Sales__Arifa_Zaidi__Private_Guide_Pack",
+    "mdFile": "Sales__Arifa_Zaidi__Josh_Process_Guide.md",
+    "rtfFile": "Sales__Arifa_Zaidi__Josh_Process_Guide.rtf",
+    "loginEmail": "arifa.z@absstem.com",
+    "officialEmail": "arifa.z@absstem.com",
+    "primaryManagerEmail": "pramod@absstem.com",
+    "secondaryManagerEmail": "amit.s@absstem.com",
+    "recipients": [
+      "arifa.z@absstem.com",
+      "pramod@absstem.com",
+      "amit.s@absstem.com"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+index,invoiceNo,invoiceDate,customer,invoiceID,fileName,status,info,url
+1,TI-2600223,09-Oct-2023,Sanden Vikas India Limited : C11284,21380,TI-2600223__21380.pdf,failed,curl: (28) Operation timed out after 25005 milliseconds with 3260074 bytes received,https://clan.absstem.com/Print/InvoicePrint.aspx?InvoiceID=21380&CompanyCode=CM1001
+2,AI/24-25/0006,30-Jul-2024,Shedu Company Ltd. : C12186,20183,AI_24-25_0006__20183.pdf,failed,curl: (28) Operation timed out after 25011 milliseconds with 507562 bytes received,https://clan.absstem.com/Print/InvoicePrint.aspx?InvoiceID=20183&CompanyCode=CM1001
+3,AI/24-25/0008,31-May-2024,Karamhans Food Pvt Ltd : C11860,20186,AI_24-25_0008__20186.pdf,ok,3371008,https://clan.absstem.com/Print/InvoicePrint.aspx?InvoiceID=20186&CompanyCode=CM1001
+4,AI/24-25/0009,06-Jun-2024,Sanden Vikas India Limited : C11284,20190,AI_24-25_0009__20190.pdf,failed,curl: (28) Operation timed out after 25000 milliseconds with 1572522 bytes received,https://clan.absstem.com/Print/InvoicePrint.aspx?InvoiceID=20190&CompanyCode=CM1001
+5,AI/24-25/0010,15-Jun-2024,Synergy Air Products Pvt Ltd : C11220,20191,AI_24-25_0010__20191.pdf,failed,curl: (28) Operation timed out after 25013 milliseconds with 16042 bytes received,https://clan.absstem.com/Print/InvoicePrint.aspx?InvoiceID=20191&CompanyCode=CM1001
