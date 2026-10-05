@@ -13,4 +13,6 @@ docker-data
 backups/
 *.dump
 *.sql.gz
-
+Transactions.08.09.xml
+Transactions (1).xml
+tally-transactions-billwise.xml
